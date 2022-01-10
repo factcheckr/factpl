@@ -1,3 +1,14 @@
+[popular]
+title = "중앙일보 팩플 ─ 많이 본 기사"
+url = "https://www.joongang.co.kr/factpl"
+entrySelector = "div.aside.col_lg3 section.chain_wrap ul.card_right_list.rank_list li.card"
+titleSelector = "h2.headline a"
+linkSelector = "h2.headline a"
+dateSelector = "div.meta p.date"
+dateFormat = "yyyy.MM.dd hh:mm"
+imageSelector = "div.card_image figure a img"
+waitUntil = "networkidle"
+
 [news]
 title = "중앙일보 팩플 ─ 뉴스"
 url = "https://www.joongang.co.kr/factpl/news"
