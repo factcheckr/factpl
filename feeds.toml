@@ -1,9 +1,0 @@
-[factpl_news]
-title = "중앙일보 팩플 ─ 뉴스"
-url = "https://www.joongang.co.kr/factpl/news"
-entrySelector = "section.contents div.float_left section ul.story_list li.card"
-titleSelector = "div.card_body h2.headline a"
-linkSelector = "div.card_body h2.headline a"
-contentSelector = "div.card_body p.description a"
-imageSelector = "div.card_image figure a img"
-waitUntil = "networkidle"
