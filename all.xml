@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 14:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 15:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -34,47 +34,21 @@
             <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202201/18/44edd2bd-50bd-4e6d-ba04-db04764a1aaf.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
         </item>
         <item>
-            <title><![CDATA[[팩플] 올드보이도 뭉쳐야 산다… KTㆍ신한은행 9000억 디지털 혈맹 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
-            <link>https://www.joongang.co.kr/article/25041334</link>
-            <guid>https://www.joongang.co.kr/article/25041334</guid>
-            <pubDate>Mon, 17 Jan 2022 10:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="card_image">
-<figure>
-<a href="https://www.joongang.co.kr/article/25041334" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202201/18/4fb56539-f956-4cb7-b21f-6d531faf6d68.jpg/_ir_144x144_/" alt="[팩플] 올드보이도 뭉쳐야 산다… KTㆍ신한은행 9000억 디지털 혈맹" width="72" height="72">
-</a>
-</figure>
-</div>
-<div class="card_body">
-<em class="rank_count ico_num2">2</em>
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25041334" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">[팩플] 올드보이도 뭉쳐야 산다… KTㆍ신한은행 9000억 디지털 혈맹</a>
-</h2>
-<div class="meta">
-<p class="date">2022.01.17 18:34</p>
-<button type="button" class="btn_bookmark" data-cid="25041334" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
-</button>
-</div>
-</div>]]></content:encoded>
-            <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202201/18/4fb56539-f956-4cb7-b21f-6d531faf6d68.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
-        </item>
-        <item>
             <title><![CDATA[[팩플] 3년 전 아바타 청년, ‘뉴 소셜’ NFT 갤러리로 돌아왔다 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
             <link>https://www.joongang.co.kr/article/25041648</link>
             <guid>https://www.joongang.co.kr/article/25041648</guid>
             <pubDate>Tue, 18 Jan 2022 10:17:11 GMT</pubDate>
             <content:encoded><![CDATA[<div class="card_image">
 <figure>
-<a href="https://www.joongang.co.kr/article/25041648" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25041648" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202201/18/c2c6d806-e55b-4844-bcc3-62b1fd2a5ccb.jpg/_ir_144x144_/" alt="[팩플] 3년 전 아바타 청년, ‘뉴 소셜’ NFT 갤러리로 돌아왔다" width="72" height="72">
 </a>
 </figure>
 </div>
 <div class="card_body">
-<em class="rank_count ico_num3">3</em>
+<em class="rank_count ico_num2">2</em>
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25041648" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">[팩플] 3년 전 아바타 청년, ‘뉴 소셜’ NFT 갤러리로 돌아왔다</a>
+<a href="https://www.joongang.co.kr/article/25041648" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">[팩플] 3년 전 아바타 청년, ‘뉴 소셜’ NFT 갤러리로 돌아왔다</a>
 </h2>
 <div class="meta">
 <p class="date">2022.01.18 18:47</p>
@@ -84,6 +58,32 @@
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202201/18/c2c6d806-e55b-4844-bcc3-62b1fd2a5ccb.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩플] 올드보이도 뭉쳐야 산다… KTㆍ신한은행 9000억 디지털 혈맹 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
+            <link>https://www.joongang.co.kr/article/25041334</link>
+            <guid>https://www.joongang.co.kr/article/25041334</guid>
+            <pubDate>Mon, 17 Jan 2022 10:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="card_image">
+<figure>
+<a href="https://www.joongang.co.kr/article/25041334" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202201/18/4fb56539-f956-4cb7-b21f-6d531faf6d68.jpg/_ir_144x144_/" alt="[팩플] 올드보이도 뭉쳐야 산다… KTㆍ신한은행 9000억 디지털 혈맹" width="72" height="72">
+</a>
+</figure>
+</div>
+<div class="card_body">
+<em class="rank_count ico_num3">3</em>
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25041334" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">[팩플] 올드보이도 뭉쳐야 산다… KTㆍ신한은행 9000억 디지털 혈맹</a>
+</h2>
+<div class="meta">
+<p class="date">2022.01.17 18:34</p>
+<button type="button" class="btn_bookmark" data-cid="25041334" data-ctype="A">
+<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+</button>
+</div>
+</div>]]></content:encoded>
+            <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202201/18/4fb56539-f956-4cb7-b21f-6d531faf6d68.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
         </item>
         <item>
             <title><![CDATA[[팩플] 임원만 받던 스톡옵션, 마켓컬리·토스는 왜 전 직원에게 쏘나 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
@@ -302,7 +302,7 @@
             <link>https://www.joongang.co.kr/article/25037161</link>
             <guid>https://www.joongang.co.kr/article/25037161</guid>
             <pubDate>Fri, 31 Dec 2021 05:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[팩플, 현장에서&nbsp; 지난 10월 개봉한 다큐멘터리 영화 '타다: 대한민국 스타트업의 초상'의 한장면. [사진 BLUE] &nbsp; 국토교통부는 지난 28일 플랫폼 운송사업 허가심의 결과를 의결했다. 코액터스·레인포컴퍼니·파파모빌리티 등 3개 스타트업이 플랫폼 운송사업자로 허가 받았다. 이른바 ‘타다 금지법’으로 불렸던 여객자동차법 개정안이 국회에서 통과(2020년 3월)된지 1년 9개월, 시행(지난 4월) 된지는 8개월 만이다. &nbsp; 플랫폼 운송사업 허가는 역사적인 일이다. 1962년 여객자동차법 제정 이후 처음으로 버스·택시가 아닌 정보기술(IT) 플랫폼을 활용한 형태 자동차 운송업이 제도권에 들어온 것. 국토부는 보도자료에서 “국민들이 보다 다양하고 편리한 이동 서비스를 누릴 수 있게 하는 새로운 모빌리티 사업 유형이 본격화 될 예정”이라고 밝혔다. &nbsp; 하지만 국토부의 이런 입장과 스타트업·벤처캐피탈(VC) 업계 사이엔 온도차가 크다. 코액터스(100대), 레인포컴퍼니(220대), 파파모빌리티(100대) 등 세 회사를 모두 합쳐도 허가 대수가 420대에 불과하다. 레인포컴퍼니는 400대, 파파모빌리티는 500대를 신청했지만 허가 대수는 크게 못 미쳤다. 파파모빌리티의 경우 규제샌드박스로 허가받은 300대보다도 더 적게 허가 받았다. 플랫폼 운송사업을 허가받은 한 업체 관계자는 “서울 시내에서 B2C(기업과 개인 간 거래) 사업을 하려 최소한 1000대 이상은 돼야 하는데 아쉬움이 있다”고 말했다.&nbsp; &nbsp; 택시 대수 및 운전자 현황. 그래픽=김현서 kim.hyeonseo12@joongang.co.kr 더 우려스러운 것은 정부의 의사 결정 과정이다. 국토교통부장관과 민간 전문가 8인으로 구성된 플랫폼 운송사업 심의위원회는 서비스·수송력 평가를 통해 플랫폼 운송사업 허가대수를 결정했다. 문제는 수송력 평가에 ‘택시운영 현황’이 주요 변수로 반영됐다는 것이다. 서울 택시 대수가 7만대 가량인 점을 고려해 플랫폼 운송 규모를 조정했다는 얘기다. 모빌리티 업계 한 관계자는 “국토부가 새로운 운송 수요를 창출할 수 있는 차별화된 서비스를 제공하라고 해놓고 기존 택시 대수를 평가 요소에 넣은 것은 앞뒤가 맞지 않다”며 “택시가 7만대여도 여전히 서울 시내 택시 대란이 일어나고, 소비자 불만이 큰 상황에 대한 고려가 없는 것”이라고 지적했다. &nbsp; 정부가 플랫폼 운송사업을 새로 만들면서 해당 산업의 특성을 이해하지 못한다는 지적도 나온다. 모빌리티 플랫폼은 수요에 따라 유연하게 증·감차할 수 있어야 성장한다. 그런데 국토부는 플랫폼 운송사업자에게도 기존 택시 관리체계를 그대로 적용한다. 플랫폼 운송사가 차량 대수를 늘리려면 사업계획 변경 인가를 받아야 한다. 또 플랫폼 운송사업자 관할 관청은 차량 현황을 허가 대장 형태로 수기로 관리한다. 업체가 증차하면 차량번호 등을 기재해 관청에 공문으로 보내고 수리됐는지 결과를 받는 식이다. 속도가 생명인 플랫폼 업계 특성과 안 맞는 제도들이다.&nbsp; &nbsp;&nbsp; 이런 문제들은 모빌리티 산업에 대한 투자 매력도를 떨어뜨린다. VC가 투자하려면 확장성, 성장성이 충분하다는 미래를 보여줘야 하는데 지금 만들어 놓은 ‘택시 중심 관리체계’로는 어렵다는 의미다. 국토부에 따르면 현재 허가받은 회사 3곳 외에 국토부에 플랫폼 운송업을 하겠다고 신청한 회사는 없다. 국내 중소 VC의 한 관계자는 “투자심의 할 때 몇 십만명, 몇 백만명 수요를 보고 투자하는데 차량을 100, 200대씩 허가하는 체제에선 선뜻 투자하기가 어렵다”며 "글로벌에선 모빌리티가 아주 뜨거운 시장이지만 국내는 사정이 다르다"고 말했다. &nbsp; 여객자동차 운수사업법 시행규칙에서 정한 플랫폼운송사업 허가대장 양식. [사진 국토교통부] &nbsp; 스타트업계에선 정부가 법으로는 타다 같은 서비스를 허용했지만 사실상 사업을 할 수 없게 만들어 ‘타다 금지법’임을 셀프 인증한 것 아니냐는 자조섞인 지적까지 나온다. 지금 제도로는 어린이 전용, 노약자 전용 등 아주 작은 틈새시장 서비스 정도로만 플랫폼 운송사업이 가능하다는 판단에서다.&nbsp;권혁주 코리아스타트업포럼 대외협력팀장은 "정부가 적극적으로 풀어줘야 하는 문제인데 지금은 실효성이 떨어진다"며 "기업들 의견을 좀 더 듣고 대응해 나갈 것"이라고 말했다. &nbsp; 관련기사[현장에서] 2년 전 비판받던 타다의 빈 자리, 카카오모빌리티가 채웠다[팩플] 누가 카카오택시를 '갑질 1등'으로 만들어줬나[단독]주중엔 타다, 주말엔 내차...월120만원 '차량 구독' 나온다MaaS 밥상에 숟가락은 몇 개?박민제 기자 letmein@joongang.co.kr]]></content:encoded>
+            <content:encoded><![CDATA[팩플, 현장에서&nbsp; 지난 10월 개봉한 다큐멘터리 영화 '타다: 대한민국 스타트업의 초상'의 한장면. [사진 BLUE] &nbsp; 국토교통부는 지난 28일 플랫폼 운송사업 허가심의 결과를 의결했다. 코액터스·레인포컴퍼니·파파모빌리티 등 3개 스타트업이 플랫폼 운송사업자로 허가 받았다. 이른바 ‘타다 금지법’으로 불렸던 여객자동차법 개정안이 국회에서 통과(2020년 3월)된지 1년 9개월, 시행(지난 4월) 된지는 8개월 만이다. &nbsp; 플랫폼 운송사업 허가는 역사적인 일이다. 1962년 여객자동차법 제정 이후 처음으로 버스·택시가 아닌 정보기술(IT) 플랫폼을 활용한 형태 자동차 운송업이 제도권에 들어온 것. 국토부는 보도자료에서 “국민들이 보��� 다양하고 편리한 이동 서비스를 누릴 수 있게 하는 새로운 모빌리티 사업 유형이 본격화 될 예정”이라고 밝혔다. &nbsp; 하지만 국토부의 이런 입장과 스타트업·벤처캐피탈(VC) 업계 사이엔 온도차가 크다. 코액터스(100대), 레인포컴퍼니(220대), 파파모빌리티(100대) 등 세 회사를 모두 합쳐도 허가 대수가 420대에 불과하다. 레인포컴퍼니는 400대, 파파모빌리티는 500대를 신청했지만 허가 대수는 크게 못 미쳤다. 파파모빌리티의 경우 규제샌드박스로 허가받은 300대보다도 더 적게 허가 받았다. 플랫폼 운송사업을 허가받은 한 업체 관계자는 “서울 시내에서 B2C(기업과 개인 간 거래) 사업을 하려 최소한 1000대 이상은 돼야 하는데 아쉬움이 있다”고 말했다.&nbsp; &nbsp; 택시 대수 및 운전자 현황. 그래픽=김현서 kim.hyeonseo12@joongang.co.kr 더 우려스러운 것은 정부의 의사 결정 과정이다. 국토교통부장관과 민간 전문가 8인으로 구성된 플랫폼 운송사업 심의위원회는 서비스·수송력 평가를 통해 플랫폼 운송사업 허가대수를 결정했다. 문제는 수송력 평가에 ‘택시운영 현황’이 주요 변수로 반영됐다는 것이다. 서울 택시 대수가 7만대 가량인 점을 고려해 플랫폼 운송 규모를 조정했다는 얘기다. 모빌리티 업계 한 관계자는 “국토부가 새로운 운송 수요를 창출할 수 있는 차별화된 서비스를 제공하라고 해놓고 기존 택시 대수를 평가 요소에 넣은 것은 앞뒤가 맞지 않다”며 “택시가 7만대여도 여전히 서울 시내 택시 대란이 일어나고, 소비자 불만이 큰 상황에 대한 고려가 없는 것”이라고 지적했다. &nbsp; 정부가 플랫폼 운송사업을 새로 만들면서 해당 산업의 특성을 이해하지 못한다는 지적도 나온다. 모빌리티 플랫폼은 수요에 따라 유연하게 증·감차할 수 있어야 성장한다. 그런데 국토부는 플랫폼 운송사업자에게도 기존 택시 관리체계를 그대로 적용한다. 플랫폼 운송사가 차량 대수를 늘리려면 사업계획 변경 인가를 받아야 한다. 또 플랫폼 운송사업자 관할 관청은 차량 현황을 허가 대장 형태로 수기로 관리한다. 업체가 증차하면 차량번호 등을 기재해 관청에 공문으로 보내고 수리됐는지 결과를 받는 식이다. 속도가 생명인 플랫폼 업계 특성과 안 맞는 제도들이다.&nbsp; &nbsp;&nbsp; 이런 문제들은 모빌리티 산업에 대한 투자 매력도를 떨어뜨린다. VC가 투자하려면 확장성, 성장성이 충분하다는 미래를 보여줘야 하는데 지금 만들어 놓은 ‘택시 중심 관리체계’로는 어렵다는 의미다. 국토부에 따르면 현재 허가받은 회사 3곳 외에 국토부에 플랫폼 운송업을 하겠다고 신청한 회사는 없다. 국내 중소 VC의 한 관계자는 “투자심의 할 때 몇 십만명, 몇 백만명 수요를 보고 투자하는데 차량을 100, 200대씩 허가하는 체제에선 선뜻 투자하기가 어렵다”며 "글로벌에선 모빌리티가 아주 뜨거운 시장이지만 국내는 사정이 다르다"고 말했다. &nbsp; 여객자동차 운수사업법 시행규칙에서 정한 플랫폼운송사업 허가대장 양식. [사진 국토교통부] &nbsp; 스타트업계에선 정부가 법으로는 타다 같은 서비스를 허용했지만 사실상 사업을 할 수 없게 만들어 ‘타다 금지법’임을 셀프 인증한 것 아니냐는 자조섞인 지적까지 나온다. 지금 제도로는 어린이 전용, 노약자 전용 등 아주 작은 틈새시장 서비스 정도로만 플랫폼 운송사업이 가능하다는 판단에서다.&nbsp;권혁주 코리아스타트업포럼 대외협력팀장은 "정부가 적극적으로 풀어줘야 하는 문제인데 지금은 실효성이 떨어진다"며 "기업들 의견을 좀 더 듣고 대응해 나갈 것"이라고 말했다. &nbsp; 관련기사[현장에서] 2년 전 비판받던 타다의 빈 자리, 카카오모빌리티가 채웠다[팩플] 누가 카카오택시를 '갑질 1등'으로 만들어줬나[단독]주중엔 타다, 주말엔 내차...월120만원 '차량 구독' 나온다MaaS 밥상에 숟가락은 몇 개?박민제 기자 letmein@joongang.co.kr]]></content:encoded>
             <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202112/31/34cde710-c1b7-4767-acb3-e2a0d6d4bbb4.jpg/_ir_205x115_/" length="0" type="image/jpg/_ir_205x115_/"/>
         </item>
         <item>
