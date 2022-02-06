@@ -4,7 +4,7 @@
         <title>중앙일보 팩플 ─ 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 00:58:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 02:10:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -34,47 +34,21 @@
             <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202201/27/45009e86-57ef-46b8-bf22-ec57bd9ebd6f.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
         </item>
         <item>
-            <title><![CDATA[[팩플] 안보 vs 사찰, 16년 공회전 '국가사이버안보법' 이번엔?]]></title>
-            <link>https://www.joongang.co.kr/article/25045475</link>
-            <guid>https://www.joongang.co.kr/article/25045475</guid>
-            <pubDate>Fri, 04 Feb 2022 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="card_image">
-<figure>
-<a href="https://www.joongang.co.kr/article/25045475" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/04/c8e9a44a-f040-4c19-a623-f4daac2ca45d.jpg/_ir_144x144_/" alt="[팩플] 안보 vs 사찰, 16년 공회전 '국가사이버안보법' 이번엔? " width="72" height="72">
-</a>
-</figure>
-</div>
-<div class="card_body">
-<em class="rank_count ico_num2">2</em>
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25045475" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">[팩플] 안보 vs 사찰, 16년 공회전 '국가사이버안보법' 이번엔? </a>
-</h2>
-<div class="meta">
-<p class="date">2022.02.04 06:00</p>
-<button type="button" class="btn_bookmark" data-cid="25045475" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
-</button>
-</div>
-</div>]]></content:encoded>
-            <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/04/c8e9a44a-f040-4c19-a623-f4daac2ca45d.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
-        </item>
-        <item>
             <title><![CDATA[[팩플] 프로 인간기사 vs 자율주행 로보택시, 승차감 승자는?]]></title>
             <link>https://www.joongang.co.kr/article/25044662</link>
             <guid>https://www.joongang.co.kr/article/25044662</guid>
             <pubDate>Sat, 05 Feb 2022 04:14:30 GMT</pubDate>
             <content:encoded><![CDATA[<div class="card_image">
 <figure>
-<a href="https://www.joongang.co.kr/article/25044662" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25044662" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202201/29/3683bfda-eec3-4983-a02e-2bcf4d2e26e5.jpg/_ir_144x144_/" alt="[팩플] 프로 인간기사 vs 자율주행 로보택시, 승차감 승자는?" width="72" height="72">
 </a>
 </figure>
 </div>
 <div class="card_body">
-<em class="rank_count ico_num3">3</em>
+<em class="rank_count ico_num2">2</em>
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25044662" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">[팩플] 프로 인간기사 vs 자율주행 로보택시, 승차감 승자는?</a>
+<a href="https://www.joongang.co.kr/article/25044662" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">[팩플] 프로 인간기사 vs 자율주행 로보택시, 승차감 승자는?</a>
 </h2>
 <div class="meta">
 <p class="date">2022.01.29 18:00</p>
@@ -92,15 +66,15 @@
             <pubDate>Wed, 02 Feb 2022 06:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="card_image">
 <figure>
-<a href="https://www.joongang.co.kr/article/25044954" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25044954" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/02/5a6634f8-38e7-49b3-bfc3-1a8a8209a527.jpg/_ir_144x144_/" alt="[팩플] &quot;AI의 미래는 OOO다&quot;…7인의 AI리더 '인터뷰 모음.ZIP'" width="72" height="72">
 </a>
 </figure>
 </div>
 <div class="card_body">
-<em class="rank_count ico_num4">4</em>
+<em class="rank_count ico_num3">3</em>
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25044954" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">[팩플] "AI의 미래는 OOO다"…7인의 AI리더 '인터뷰 모음.ZIP'</a>
+<a href="https://www.joongang.co.kr/article/25044954" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">[팩플] "AI의 미래는 OOO다"…7인의 AI리더 '인터뷰 모음.ZIP'</a>
 </h2>
 <div class="meta">
 <p class="date">2022.02.02 06:00</p>
@@ -112,30 +86,56 @@
             <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/02/5a6634f8-38e7-49b3-bfc3-1a8a8209a527.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
         </item>
         <item>
-            <title><![CDATA[[팩플] 토종OTT 웨이브, ‘넷플릭스 방지법’서 빠지고도 불안, 왜?]]></title>
-            <link>https://www.joongang.co.kr/article/25045341</link>
-            <guid>https://www.joongang.co.kr/article/25045341</guid>
-            <pubDate>Sat, 05 Feb 2022 15:11:14 GMT</pubDate>
+            <title><![CDATA[[팩플] '돈 되는' 큐레이션 시대…카카오뷰 vs 네이버 인플루언서 토픽]]></title>
+            <link>https://www.joongang.co.kr/article/25043733</link>
+            <guid>https://www.joongang.co.kr/article/25043733</guid>
+            <pubDate>Sun, 06 Feb 2022 02:09:36 GMT</pubDate>
             <content:encoded><![CDATA[<div class="card_image">
 <figure>
-<a href="https://www.joongang.co.kr/article/25045341" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/03/a5f865a7-4762-4ffe-a6af-eddb5ae32112.jpg/_ir_144x144_/" alt="[팩플] 토종OTT 웨이브, ‘넷플릭스 방지법’서 빠지고도 불안, 왜?" width="72" height="72">
+<a href="https://www.joongang.co.kr/article/25043733" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202201/26/545ae5fc-bd52-4c33-bc6b-c175246638f1.jpg/_ir_144x144_/" alt="[팩플] '돈 되는' 큐레이션 시대…카카오뷰 vs 네이버 인플루언서 토픽" width="72" height="72">
+</a>
+</figure>
+</div>
+<div class="card_body">
+<em class="rank_count ico_num4">4</em>
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25043733" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">[팩플] '돈 되는' 큐레이션 시대…카카오뷰 vs 네이버 인플루언서 토픽</a>
+</h2>
+<div class="meta">
+<p class="date">2022.01.26 15:37</p>
+<button type="button" class="btn_bookmark" data-cid="25043733" data-ctype="A">
+<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+</button>
+</div>
+</div>]]></content:encoded>
+            <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202201/26/545ae5fc-bd52-4c33-bc6b-c175246638f1.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩플] "아바타가 은행 번호표 뽑아요"…생활형 메타버스, 진격의 컴투스]]></title>
+            <link>https://www.joongang.co.kr/article/25045175</link>
+            <guid>https://www.joongang.co.kr/article/25045175</guid>
+            <pubDate>Thu, 03 Feb 2022 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="card_image">
+<figure>
+<a href="https://www.joongang.co.kr/article/25045175" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/03/e26b4d86-b56f-474d-b00e-3f964372cd63.jpg/_ir_144x144_/" alt="[팩플] &quot;아바타가 은행 번호표 뽑아요&quot;…생활형 메타버스, 진격의 컴투스" width="72" height="72">
 </a>
 </figure>
 </div>
 <div class="card_body">
 <em class="rank_count ico_num5">5</em>
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25045341" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">[팩플] 토종OTT 웨이브, ‘넷플릭스 방지법’서 빠지고도 불안, 왜?</a>
+<a href="https://www.joongang.co.kr/article/25045175" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">[팩플] "아바타가 은행 번호표 뽑아요"…생활형 메타버스, 진격의 컴투스</a>
 </h2>
 <div class="meta">
-<p class="date">2022.02.03 18:10</p>
-<button type="button" class="btn_bookmark" data-cid="25045341" data-ctype="A">
+<p class="date">2022.02.03 06:00</p>
+<button type="button" class="btn_bookmark" data-cid="25045175" data-ctype="A">
 <i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
 </button>
 </div>
 </div>]]></content:encoded>
-            <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/03/a5f865a7-4762-4ffe-a6af-eddb5ae32112.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
+            <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/03/e26b4d86-b56f-474d-b00e-3f964372cd63.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
         </item>
     </channel>
 </rss>
