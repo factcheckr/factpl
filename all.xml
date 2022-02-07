@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 04:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 05:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -34,47 +34,21 @@
             <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/07/4d9fb764-dee4-4223-8edd-fb4cab1812f4.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
         </item>
         <item>
-            <title><![CDATA[[팩플] '돈 되는' 큐레이션 시대…카카오뷰 vs 네이버 인플루언서 토픽 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
-            <link>https://www.joongang.co.kr/article/25043733</link>
-            <guid>https://www.joongang.co.kr/article/25043733</guid>
-            <pubDate>Wed, 26 Jan 2022 07:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="card_image">
-<figure>
-<a href="https://www.joongang.co.kr/article/25043733" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202201/26/545ae5fc-bd52-4c33-bc6b-c175246638f1.jpg/_ir_144x144_/" alt="[팩플] '돈 되는' 큐레이션 시대…카카오뷰 vs 네이버 인플루언서 토픽" width="72" height="72">
-</a>
-</figure>
-</div>
-<div class="card_body">
-<em class="rank_count ico_num2">2</em>
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25043733" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">[팩플] '돈 되는' 큐레이션 시대…카카오뷰 vs 네이버 인플루언서 토픽</a>
-</h2>
-<div class="meta">
-<p class="date">2022.01.26 15:37</p>
-<button type="button" class="btn_bookmark" data-cid="25043733" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
-</button>
-</div>
-</div>]]></content:encoded>
-            <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202201/26/545ae5fc-bd52-4c33-bc6b-c175246638f1.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
-        </item>
-        <item>
             <title><![CDATA[[팩플] "아바타가 은행 번호표 뽑아요"…생활형 메타버스, 진격의 컴투스 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
             <link>https://www.joongang.co.kr/article/25045175</link>
             <guid>https://www.joongang.co.kr/article/25045175</guid>
             <pubDate>Thu, 03 Feb 2022 06:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="card_image">
 <figure>
-<a href="https://www.joongang.co.kr/article/25045175" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25045175" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/03/e26b4d86-b56f-474d-b00e-3f964372cd63.jpg/_ir_144x144_/" alt="[팩플] &quot;아바타가 은행 번호표 뽑아요&quot;…생활형 메타버스, 진격의 컴투스" width="72" height="72">
 </a>
 </figure>
 </div>
 <div class="card_body">
-<em class="rank_count ico_num3">3</em>
+<em class="rank_count ico_num2">2</em>
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25045175" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">[팩플] "아바타가 은행 번호표 뽑아요"…생활형 메타버스, 진격의 컴투스</a>
+<a href="https://www.joongang.co.kr/article/25045175" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">[팩플] "아바타가 은행 번호표 뽑아요"…생활형 메타버스, 진격의 컴투스</a>
 </h2>
 <div class="meta">
 <p class="date">2022.02.03 06:00</p>
@@ -84,6 +58,32 @@
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/03/e26b4d86-b56f-474d-b00e-3f964372cd63.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩플] '돈 되는' 큐레이션 시대…카카오뷰 vs 네이버 인플루언서 토픽 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
+            <link>https://www.joongang.co.kr/article/25043733</link>
+            <guid>https://www.joongang.co.kr/article/25043733</guid>
+            <pubDate>Wed, 26 Jan 2022 07:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="card_image">
+<figure>
+<a href="https://www.joongang.co.kr/article/25043733" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202201/26/545ae5fc-bd52-4c33-bc6b-c175246638f1.jpg/_ir_144x144_/" alt="[팩플] '돈 되는' 큐레이션 시대…카카오뷰 vs 네이버 인플루언서 토픽" width="72" height="72">
+</a>
+</figure>
+</div>
+<div class="card_body">
+<em class="rank_count ico_num3">3</em>
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25043733" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">[팩플] '돈 되는' 큐레이션 시대…카카오뷰 vs 네이버 인플루언서 토픽</a>
+</h2>
+<div class="meta">
+<p class="date">2022.01.26 15:37</p>
+<button type="button" class="btn_bookmark" data-cid="25043733" data-ctype="A">
+<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+</button>
+</div>
+</div>]]></content:encoded>
+            <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202201/26/545ae5fc-bd52-4c33-bc6b-c175246638f1.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
         </item>
         <item>
             <title><![CDATA[[팩플] 안보 vs 사찰, 16년 공회전 '국가사이버안보법' 이번엔? (중앙일보 팩플 ─ 많이 본 기사)]]></title>
@@ -214,7 +214,7 @@
             <link>https://www.joongang.co.kr/article/25043601</link>
             <guid>https://www.joongang.co.kr/article/25043601</guid>
             <pubDate>Wed, 26 Jan 2022 05:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘국민 기업’ 카카오가 ‘국민 밉상’이 되고 있다. 이번엔 택시나 미용실이 아니다. 카카오에 투자한 200만 소액주주들이 부글부글한다. 지난해 액면분할 후 급증한 카카오 주주들은 카카오식 '쪼개기 상장'이 주주의 손해를 강요한다고 본다. 여기에 카카오페이가 기름을 부었다. 상장 한달 만에 이 회사 경영진 8명이 스톡옵션 주식을 단체로 매각했다. ‘먹튀’ 비난이 쏟아졌다. “누구 좋으라고 개미는 카카오에 투자했나?”는 분노, 국민주 2위 기업(1위는 소액주주 215만명인 삼성전자)의 숙명일까. ‘라이언’은 주주들의 신뢰를 회복할 수 있을까. 카카오가 남긴 세 가지 질문(스톡옵션・물적분할・차등의결권)을 팩플이 살펴봤다. &nbsp; &nbsp;━&nbsp; 질문① 스톡옵션 매도는 자유? &nbsp; 스톡옵션은 ‘회사가 기업공개(IPO)에 성공하면 나도 돈방석에 앉을 수 있다’는 스타트업식 당근이다.&nbsp;코스닥 상장을 준비중인 한 스타트업 관계자는 “스타트업 직원들은 상장 후 기업가치가 가장 높을 때 스톡옵션을 행사(매입)해 차익을 실현하는 걸 누구나 꿈꾼다”고 말했다.&nbsp; &nbsp; 하지만 카카오페이 주주들 생각은 달랐다. 이 회사 경영진들은 상장(2021년 11월) 직후 주가가 최고점일 때 임원진이 스톡옵션을 행사해 주식을 싸게 산 뒤, 그 주식을 바로 시장에 매각(시간 외 블록딜)해 차익을 극대화했다. 시장은 '경영진이 주식을 대량으로 내다팔 정도이니 이 회사엔 미래가 없다'는 시그널로 읽었다. 경영진의 이런 매도가 불법은 아니지만, 이런 회사에 믿고 투자할 수 있겠느냐는 의구심이 커졌다. 카카오뱅크·카카오게임즈 등 다른 자회사 임원들의 상장 직후 스톡옵션 주식 매각 사례도 다시 비난 대상에 올랐다. &nbsp; &nbsp; 카카오페이 사태 이후, '상장사의 스톡옵션 주식 매도 기간을 제한하자'는 주장이 힘을 얻고 있다. 정은보 금융감독원장도 “시장 또는 일반 개인 투자자들의 보호가 전제되면서 스톡옵션 제도가 운용돼야 한다”며 “필요하면 개선할 것”이라는 의지를 밝혔다. 최근 카카오 논란 일지 그래픽=김주원 기자 zoom@joongang.co.kr &nbsp;━&nbsp; 질문② 물적분할, 성장의 공식? &nbsp; 100개가 넘는 자회사 대표가 독립적으로 경영활동을 해 상장하는 카카오식 성장 방정식에도 의문이 제기된다. 최근 카카오처럼 물적분할 후 상장하는 회사가 늘어나면서 비난 여론이 더 거세졌다. 지배 주주에겐 물적분할로 신설 법인을 만들면 지배력을 유지하면서 자금조달하는 데 유리하지만, 존속 법인의 일반 주주들은 핵심 사업이 빠지고 나면 주가하락 등으로 손해를 보는 편이다. 모빌리티&nbsp;등 주요 사업을 자회사로 독립시킨 후 상장을 준비하는 카카오도 이런 비판에서 자유롭지 않다. 정우철 바른투자자문 대표는 “기업분할 제도가 핵심사업을 분할 상장하는 통로로 변질됐다”며 “최대 주주입장에선 (분할상장을) 안 하면 바보가 되고,&nbsp;일반 주주들은 눈뜨고 코 베이는 상황”이라고 지적했다.&nbsp; &nbsp; 선진국에선 쪼개기 상장시 소액주주들이 집단소송을 제기할 수 있어 쪼개기 상장이 드물다. 반면, 제도적으로 주주 보호가 취약한 국내에선 소액 주주의 문제제기는 거의 불가능하다. &nbsp; 최근 3개월 카카오 상장사 주가 변화 그래픽=김주원 기자 zoom@joongang.co.kr &nbsp;━&nbsp; 질문③ 차등의결권, 성장 촉진제? &nbsp; 스타트업 성장 신화를 쓴 카카오가 주주신뢰를 잃고 거버넌스(기업지배구조)의 위기를 자초하자, 스타트업 경영진에 막강한 권한을 부여하는 차등의결권에 대한 의구심도 커졌다. 차등의결권 필요를 주장하는 쪽은 '창업자에게 일반주보다 최대 10배(벤처기업육성법 개정안 기준) 많은 의결권을 부여해 경영권 걱정 없이 투자받으며 사업을 키우게 해주자'고 한다. 여당이 21대 총선 공약으로 걸었고, 야당도 합의하며 입법화가 유력했으나 지난해 말 국회 법제사법위원회에서 브레이크가 걸렸다.&nbsp; &nbsp; 반대 의사를 밝힌 이용우 의원실(더불어민주당) 관계자는 “주주 신뢰를 못 받는&nbsp;무능한 경영자도 차등의결권에 기대 경영권을 보호받을 수 있다”며 “(경영권은) 주주의 지지에 기반해야지, 차등의결권이 이를 대신할 순 없다”고 말했다. 카카오페이 논란으로 스타트업 경영진이 선량한 관리자가 아닐 수 있단 의심도 커졌다. 김규식 한국기업거버넌스포럼 회장은 “차등의결권을 인정하는 국가들은 이사가 주주에 대한 충실 의무를 위반하는 범죄를 저지르면 의결권을 모두 무효화 한다”며 “한국에서는 이사의 법적 책임을 묻는 데 소극적이라 신중해야 한다”고 말했다. &nbsp; 카카오뱅크 대표 출신인 더불어민주당 이용우 의원. 최근 카카오페이 방지법 등 주주권한 강화를 위한 법안을 내놓고 있다. &nbsp;━&nbsp; 주주가치 보호, 강화될까&nbsp; &nbsp; 대선을 앞둔 정치권에선 1000만 주식 투자자의 표심을 놓고 주주권리 보호 방안을 잇따라 내놓고 있다. 물적분할과 관련해서 윤석열 후보(국민의힘)는 모회사 주주에게 신주인수권을 부여하겠다고,&nbsp;이재명 후보(더불어민주당)는 신주인수권을 포함해 반대 주주에게 주식매수청구권을 주는 방안을 내놨다. 이 후보는 “제2의 카카오페이 먹튀를 막겠다”며 신규 상장 기업 경영진의 스톡옵션 행사 기간 제한도 약속. 차등의결권엔 윤 후보와&nbsp;안철수 국민의당 후보가 찬성했고, 이 후보 측은 아직 명확한 입장을 밝히지 않았다. &nbsp; 국회에서도 주주 권리를 확대하는 상법 개정안(이용우 의원)이 곧 발의될 예정이다. 이사의 충실의무(382조 3)에 회사뿐 아니라 주주 이익을 위해 일한다는 내용을 넣는 게 핵심이다. 이 의원은 스톡옵션 주식 매도시 시장에 미리 고지하는 자본시장법 개정안도 추진한다. 상장사 임직원 등 내부자가 주식을 매매할 때 사전에 거래계획을 감사위원회에 허가받고, 한국거래소와 금융감독원에 신고・공시하는 내용을 담았다. &nbsp; 관련기사[팩플] 착잡한 김범수, 구원투수 남궁훈...카카오는 '메타버스'로 간다[팩플] 먹튀 논란에 카카오 '양날의 칼' 들었다, 컨트롤타워 설립[팩플] 또 구멍난 ‘자회사 리스크’...카카오페이 사태후 김범수의 숙제 "105만원 LG화학, 62만원 됐다"…개미 울린 물적분할 잔혹사 배너 클릭 시 구독페이지로 이동합니다. 정원엽·남궁민 기자 jung.wonyeob@joongang.co.kr]]></content:encoded>
+            <content:encoded><![CDATA[‘국민 기업’ 카카오가 ‘국민 밉상’이 되고 있다. 이번엔 택시나 미용실이 아니다. 카카오에 투자한 200만 소액주주들이 부글부글한다. 지난해 액면분할 후 급증한 카카오 주주들은 카카오식 '쪼개기 상장'이 주주의 손해를 강요한다고 본다. 여기에 카카오페이가 기름을 부었다. 상장 한달 만에 이 회사 경영진 8명이 스톡옵션 주식을 단체로 매각했다. ‘먹튀’ 비난이 쏟아졌다. “누구 좋으라고 개미는 카카오에 투자했나?”는 분노, 국민주 2위 기업(1위는 소액주주 215만명인 삼성전자)의 숙명일까. ‘라이언’은 주주들의 신뢰를 회복할 수 있을까. 카카오가 남긴 세 가지 질문(스톡옵션・물적분할・차등의결권)을 팩플이 살펴봤다. &nbsp; &nbsp;━&nbsp; 질문① 스톡옵션 매도는 자유? &nbsp; 스톡옵션은 ‘회사가 기업공개(IPO)에 성공하면 나도 돈방석에 앉을 수 있다’는 스타트업식 당근이다.&nbsp;코스닥 상장을 준비중인 한 스타트업 관계자는 “스타트업 직원들은 상장 후 기업가치가 가장 높을 때 스톡옵션을 행사(매입)해 차익을 실현하는 걸 누구나 꿈꾼다”고 말했다.&nbsp; &nbsp; 하지만 카카오페이 주주들 생각은 달랐다. 이 회사 경영진들은 상장(2021년 11월) 직후 주가가 최고점일 때 임원진이 스톡옵션을 행사해 주식을 싸게 산 뒤, 그 주식을 바로 시장에 매각(시간 외 블록딜)해 차익을 극대화했다. 시장은 '경영진이 주식을 대량으로 내다팔 정도이니 이 회사엔 미래가 없다'는 시그널로 읽었다. 경영진의 이런 매도가 불법은 아니지만, 이런 회사에 믿고 투자할 수 있겠느냐는 의구심이 커졌다. 카카오뱅크·카카오게임즈 등 다른 자회사 임원들의 상장 직후 스톡옵션 주식 매각 사례도 다시 비난 대상에 올랐다. &nbsp; &nbsp; 카카오페이 사태 이후, '상장사의 스톡옵션 주식 매도 기간을 제한하자'는 주장이 힘을 얻고 있다. 정은보 금융감독원장도 “시장 또는 일반 개인 투자자들의 보호가 전제되면서 스톡옵션 제도가 운용돼야 한다”며 “필요하면 개선할 것”이라는 의지를 밝혔다. 최근 카카오 논란 일지 그래픽=김주원 기자 zoom@joongang.co.kr &nbsp;━&nbsp; 질문② 물적분할, 성장의 공식? &nbsp; 100개가 넘는 자회사 대표가 독립적으로 경영활동을 해 상장하는 카카오식 성장 방정식에도 의문이 제기된다. 최근 카카오처럼 물적분할 후 상장하는 회사가 늘어나면서 비난 여론이 더 거세졌다. 지배 주주에겐 물적분할로 신설 법인을 만들면 지배력을 유지하면서 자금조달하는 데 유리하지만, 존속 법인의 일반 주주들은 핵심 사업이 빠지고 나면 주가하락 등으로 손해를 보는 편이다. 모빌리티&nbsp;등 주요 사업을 자회사로 독립시킨 후 상장을 준비하는 카카오도 이런 비판에서 자유롭지 않다. 정우철 바른투자자문 대표는 “기업분할 제도가 핵심사업을 분할 상장하는 통로로 변질됐다”며 “최대 주주입장에선 (분할상장을) 안 하면 바보가 되고,&nbsp;일반 주주들은 눈뜨고 코 베이는 상황”이라고 지적했다.&nbsp; &nbsp; 선진국에선 쪼개기 상장시 소액주주들이 집단소송을 제기할 수 있어 쪼개기 상장이 드물다. 반면, 제도적으로 주주 보호가 취약한 국내에선 소액 주주의 문제제기는 거의 불가능하다. &nbsp; 최근 3개월 카카오 상장사 주가 변화 그래픽=김주원 기자 zoom@joongang.co.kr &nbsp;━&nbsp; 질문③ 차등의결권, 성장 촉진제? &nbsp; 스타트업 성장 신화를 쓴 카카오가 주주신뢰를 잃고 거버넌스(기업지배구조)의 위기를 자초하자, 스타트업 경영진에 막강한 권한을 부여하는 차등의결권에 대한 의구심도 커졌다. 차등의결권 필요를 주장하는 쪽은 '창업자에게 일반주보다 최대 10배(벤처기업육성법 개정안 기준) 많은 의결권을 부여해 경영권 걱정 없이 투자받으며 사업을 키우게 해주자'고 한다. 여당이 21대 총선 공약으로 걸었고, 야당도 합의하며 입법화가 유력했으나 지난해 말 국회 법제사법위원회에서 브레이크가 걸렸다.&nbsp; &nbsp; 반대 의사를 밝힌 이용우 의원실(더불어민주당) 관계자는 “주주 신뢰를 못 받는&nbsp;무능한 경영자도 차등의결권에 기대 경영권을 보호받을 수 있다”며 “(경영권은) 주주의 지지에 기반해야지, 차등의결권이 이를 대신할 순 없다”고 말했다. 카카오페이 논란으로 스타트업 경영진이 선량한 관리자가 아닐 수 있단 의심도 커졌다. 김규식 한국기업거버넌스포럼 회장은 “차등의결권을 인정하는 국가들은 이사가 주주에 대한 충실 의무를 위반하는 범죄를 저지르면 의결권을 모두 무효화 한다”며 “한국에서는 이사의 법적 책임을 묻는 데 소극적이라 신중해야 한다”고 말했다. &nbsp; 카카오뱅크 대표 출신인 더불어민주당 이용우 의원. 최근 카카오페이 방지법 등 주주권한 강화를 위한 법안을 내놓고 있다. &nbsp;━&nbsp; 주주가치 보호, 강화될까&nbsp; &nbsp; 대선을 앞둔 정치권에선 1000만 주식 투자자의 표심을 놓고 주주권리 보호 방안을 잇따라 내놓고 있다. 물적분할과 관련해서 윤석열 후보(국민의힘)는 모회사 주주에게 신주인수권을 부여하겠다고,&nbsp;이재명 후보(더불어민주당)는 신주인수권을 포함해 반대 주주에게 주식매수청구권을 주는 방안을 내놨다. 이 후보는 “제2의 카카오페이 먹튀를 막겠다”며 신규 상장 기업 경영진의 스톡옵션 행사 기간 제한도 약속. 차등의결권엔 윤 후보와&nbsp;안철수 국민의당 후보가 찬성했고, 이 후보 측은 아직 명확한 입장을 밝히지 않았다. &nbsp; 국회에서도 주주 권리를 확대하는 상법 개정안(이용우 의원)이 곧 발의될 예정이다. 이사의 충실의무(382조 3)에 회사뿐 아니라 주주 이익을 위해 일한다는 내용을 넣는 게 핵심이다. 이 의원은 스톡옵션 주식 매도시 시장에 미리 고지하는 자본시장법 개정안도 추진한다. 상장사 임직원 등 내부자가 주식을 매매할 때 사전에 거래계획을 감사위원회에 허가받고, 한국거래소와 금융감독원에 신고・공시하는 내용을 담았��. &nbsp; 관련기사[팩플] 착잡한 김범수, 구원투수 남궁훈...카카오는 '메타버스'로 간다[팩플] 먹튀 논란에 카카오 '양날의 칼' 들었다, 컨트롤타워 설립[팩플] 또 구멍난 ‘자회사 리스크’...카카오페이 사태후 김범수의 숙제 "105만원 LG화학, 62만원 됐다"…개미 울린 물적분할 잔혹사 배너 클릭 시 구독페이지로 이동합니다. 정원엽·남궁민 기자 jung.wonyeob@joongang.co.kr]]></content:encoded>
             <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202201/26/4d60813e-a19b-49e9-b829-87b78bca97b8.jpg/_ir_205x115_/" length="0" type="image/jpg/_ir_205x115_/"/>
         </item>
         <item>
