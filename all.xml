@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 10:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 11:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -60,47 +60,21 @@
             <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/09/9bded83b-8195-488e-ad52-c2a9fc44398d.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
         </item>
         <item>
-            <title><![CDATA[[팩플] 자율 공개하는 확률형 아이템 정보, 강제 공개될까? (중앙일보 팩플 ─ 많이 본 기사)]]></title>
-            <link>https://www.joongang.co.kr/article/25046515</link>
-            <guid>https://www.joongang.co.kr/article/25046515</guid>
-            <pubDate>Tue, 08 Feb 2022 10:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="card_image">
-<figure>
-<a href="https://www.joongang.co.kr/article/25046515" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/08/0ca5f29a-dc0f-430e-b10f-a90f0b3a9414.jpg/_ir_144x144_/" alt="[팩플] 자율 공개하는 확률형 아이템 정보, 강제 공개될까?" width="72" height="72">
-</a>
-</figure>
-</div>
-<div class="card_body">
-<em class="rank_count ico_num3">3</em>
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25046515" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">[팩플] 자율 공개하는 확률형 아이템 정보, 강제 공개될까?</a>
-</h2>
-<div class="meta">
-<p class="date">2022.02.08 18:28</p>
-<button type="button" class="btn_bookmark" data-cid="25046515" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
-</button>
-</div>
-</div>]]></content:encoded>
-            <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/08/0ca5f29a-dc0f-430e-b10f-a90f0b3a9414.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
-        </item>
-        <item>
             <title><![CDATA[[팩플] KT 영업이익 42% 늘었다…통신3사, 영업이익 4조 시대 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
             <link>https://www.joongang.co.kr/article/25046852</link>
             <guid>https://www.joongang.co.kr/article/25046852</guid>
             <pubDate>Wed, 09 Feb 2022 10:15:51 GMT</pubDate>
             <content:encoded><![CDATA[<div class="card_image">
 <figure>
-<a href="https://www.joongang.co.kr/article/25046852" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25046852" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/09/22a60b7d-b621-4a2d-afa7-6af8965eccf2.jpg/_ir_144x144_/" alt="[팩플] KT 영업이익 42% 늘었다…통신3사, 영업이익 4조 시대" width="72" height="72">
 </a>
 </figure>
 </div>
 <div class="card_body">
-<em class="rank_count ico_num4">4</em>
+<em class="rank_count ico_num3">3</em>
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25046852" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">[팩플] KT 영업이익 42% 늘었다…통신3사, 영업이익 4조 시대</a>
+<a href="https://www.joongang.co.kr/article/25046852" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">[팩플] KT 영업이익 42% 늘었다…통신3사, 영업이익 4조 시대</a>
 </h2>
 <div class="meta">
 <p class="date">2022.02.09 18:43</p>
@@ -110,6 +84,32 @@
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/09/22a60b7d-b621-4a2d-afa7-6af8965eccf2.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩플] 자율 공개하는 확률형 아이템 정보, 강제 공개될까? (중앙일보 팩플 ─ 많이 본 기사)]]></title>
+            <link>https://www.joongang.co.kr/article/25046515</link>
+            <guid>https://www.joongang.co.kr/article/25046515</guid>
+            <pubDate>Tue, 08 Feb 2022 10:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="card_image">
+<figure>
+<a href="https://www.joongang.co.kr/article/25046515" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/08/0ca5f29a-dc0f-430e-b10f-a90f0b3a9414.jpg/_ir_144x144_/" alt="[팩플] 자율 공개하는 확률형 아이템 정보, 강제 공개될까?" width="72" height="72">
+</a>
+</figure>
+</div>
+<div class="card_body">
+<em class="rank_count ico_num4">4</em>
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25046515" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">[팩플] 자율 공개하는 확률형 아이템 정보, 강제 공개될까?</a>
+</h2>
+<div class="meta">
+<p class="date">2022.02.08 18:28</p>
+<button type="button" class="btn_bookmark" data-cid="25046515" data-ctype="A">
+<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+</button>
+</div>
+</div>]]></content:encoded>
+            <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/08/0ca5f29a-dc0f-430e-b10f-a90f0b3a9414.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
         </item>
         <item>
             <title><![CDATA[[팩플] '돈 되는' 큐레이션 시대…카카오뷰 vs 네이버 인플루언서 토픽 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
@@ -141,7 +141,7 @@
             <title><![CDATA[[팩플] KT 영업이익 42% 늘었다…통신3사, 영업이익 4조 시대 (중앙일보 팩플 ─ 뉴스)]]></title>
             <link>https://www.joongang.co.kr/article/25046852</link>
             <guid>https://www.joongang.co.kr/article/25046852</guid>
-            <pubDate>Wed, 09 Feb 2022 10:16:32 GMT</pubDate>
+            <pubDate>Wed, 09 Feb 2022 10:15:51 GMT</pubDate>
             <content:encoded><![CDATA[9일 서울 시내의 한 휴대폰 할인매장을 앞에서 시민들이 발걸음을 옮기고 있다. [뉴스1] &nbsp; 이동통신 3사의 합산 영업이익이 지난해 4조원을 넘었다. 5세대(G) 이동통신 가입자 증가와 신사업 호조 등이 사상 최대 실적을 이끌었다. 하지만 설비 투자 규모가 줄어 ‘5G 통신 품질 개선’이란 본업에 소홀했다는 비판도 나온다. &nbsp; &nbsp;━&nbsp; 무슨 일이야 &nbsp; ●10년만의 4조 영업익 복귀 : 9일 이동통신업계에 따르면 연결 재무제표 기준 KT,&nbsp;SK텔레콤, LG유플러스의 지난해 영업이익 합계는 4조380억원으로 집계됐다. 통신 3사 영업이익이 4조 원을 넘어선 것은 2011년(4조3780억원) 이후 10년 만에 처음이다. &nbsp; 4조원 돌파한 통신3사 영업이익. 그래픽=차준홍 기자 cha.junhong@joongang.co.kr ●고른 성장 보인 통신사 : KT의 지난해 영업이익은 1조 6718억원으로 통신 3사 중 가장 많았다. 전년보다 41.2% 증가했다. 매출은 24조 8980억원으로 4.1% 늘었다. 김영진 KT 최고재무책임자(CFO)는 9일 컨퍼런스콜에서 “기존 통신사업뿐 아니라 인공지능(AI)·빅데이터·클라우드 등 디지털플랫폼(디지코) 사업이 고른 성장을 이룬 덕분”이라고 설명했다. SK텔레콤의 영업이익과 매출도 1조3872억원과 16조7486억원으로 각각 전년 대비 11.1%, 4.1% 성장했다. LG유플러스도 지난해 영업이익 9790억원으로 사상 최대를 기록했다. 매출은 13조8511억원. 각각 전년 대비 10.5%, 3.2% 올랐다. &nbsp; &nbsp;━&nbsp; 5G가 이끈 호황 &nbsp; 통신 3사의 호실적은 5G 통신이 이끌었다. 과학기술정보통신부 ‘무선통신서비스 가입 현황’에 따르면 5G 가입자는 지난해 말 기준 2091만 5176명이다. 국내 통신 이용자 10명 중 3명이 5G 요금제에 가입한 셈이다. SK텔레콤은 전체 가입자 중 41.6%, KT는 45%, LG유플러스는 40.5%가 5G 고객이다. SK텔레콤의 5G 가입자 수는 지난달 1000만명을 넘기도 했다. 비싼 5G 요금제 가입자가 늘어나면서 통신 3사의 가입자당 평균매출(ARPU)은 3만원을 넘었다. &nbsp; 지난해 통신3사 실적. 그래픽=차준홍 기자 cha.junhong@joongang.co.kr &nbsp;━&nbsp; 탈통신 사업도 호조 &nbsp; 비대면 신사업 성장도 통신사들의 호실적을 뒷받침했다. KT의 디지코 사업 매출 증가율은 기업-개인간 거래(B2C) 부문이 5.8%, 기업 간 거래(B2B) 부문이 2.5%를 기록했다. SK텔레콤 자회사인 SK브로드밴드는 IPTV 가입자 순증에 힘입어 지난해 역대 최대인 매출 4조492억원을 기록했다. LG유플러스는 IPTV·초고속인터넷 등 스마트홈 분야 매출이 전년보다 9.5% 증가한 2조2037억원을 기록했다. &nbsp; &nbsp;━&nbsp; 여전한 품질 논란 &nbsp; 실적은 역대급이지만 본업인 ‘통신 품질’ 개선에는 소홀했다는 지적도 나온다. 통신 3사 설비투자액(CAPEX)은 지속해서 줄고 있다. 5G 통신 상용화 첫해 2019년 8조7900억원이던 통신 3사 CAPEX는 2020년 7조4600억원 수준으로 감소했다. 지난해에도 총 7조4000억원으로 또 줄었다. 그나마 지난해에는 4분기 집중투자로 전년도 수준을 맞췄다. 3분기까지는 각각 1조5000억원 수준의 투자만 집행하다 4분기에 3사가 각각 1조원가량 추가 투자를 집행했다. 이에 대해 통신사 관계자는 “통상 투자에 대한 회계 비용이 4분기에 반영되기에 매년 이 기간 투자가 집중되는 것처럼 보이는 것”이라고 말했다. &nbsp; 지난 2020년 서울시내 한 통신사 매장 앞으로 시민이 지나가고 있다. [연합뉴스] 이런 이유로 통신 3사는 5G 품질이 소비자가 체감할 만큼 개선되지 않았는데도 투자를 줄였다는 비판을 받고 있다. 국회 과학기술정보방송통신위원회 양정숙 의원실에 따르면 지난해 12월 말 기준 통신 3사가 실제로 준공을 완료한 28㎓ 5G 기지국은 138대에 그쳤다. 이는 통신 3사가 지난해 연말까지 약속한 수치인 4만5000대에 크게 못 미친다. 이런 가운데 LG유플러스 요청으로 과학기술정보통신부가 진행하려던 3.5㎓대역 20㎒ 주파수의 추가 할당 경매는 3사가 이견을 보이며 지지부진한 상태다. &nbsp; 줄어드는 통신3사 설비투자. 그래픽=차준홍 기자 cha.junhong@joongang.co.kr &nbsp; &nbsp;━&nbsp; 대선 변수 걱정하는 통신 3사 &nbsp; 역대급 실적을 냈지만 우려도 있다. 다가올 대선 시즌 통신비 인하 이슈가 불거질 가능성이 있어서다. 유권자 피부에 가장 와 닿는 이슈인 통신비 인하는 지난 18·19대 대선 주요 공약으로 등장했다. 다만 이번 대선에서는 전처럼 통신요금 인하를 강력하게 주장하는 후보는 아직 없다. 정지수 메리츠증권 연구원은 “과거 대선 때와는 달리 강력한 통신비 인하 정책은 5G 통신망 인프라 구축을 저해할 수 있다는 우려가 커서 그런 것”이라고 분석했다. 하지만 대선이 끝난 이후엔 상황이 바뀔 거란 전망도 있다. 최남곤 유안타증권 연구원은 “인수위원회 출범, 과학기술정보통신부 장관 선임 등에서 통신요금 규제 이슈는 언제든지 부각될 수 있다”고 말했다. &nbsp; 관련기사[팩플] 막 오른 하늘길 전쟁…SKT는 왜 우버 에어택시 인수한 조비 손 잡았나[팩플] ‘3등’의 딴 생각…외부 인재 수혈하는 LG유플러스 ‘황현식 사단’[팩플] 올드보이도 뭉쳐야 산다… KTㆍ신한은행 9000억 디지털 혈맹[팩플] SK텔레콤 왜 '공중택시' 꽂혔나…5G만 노리는 게 아니다이승호 기자 wonderman@joongang.co.kr]]></content:encoded>
             <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/09/22a60b7d-b621-4a2d-afa7-6af8965eccf2.jpg/_ir_205x115_/" length="0" type="image/jpg/_ir_205x115_/"/>
         </item>
