@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 06:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 07:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,47 +86,21 @@
             <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/16/80f229e7-a064-401e-937e-9624edfe6fa6.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
         </item>
         <item>
-            <title><![CDATA[[팩플] 번개장터·중고나라엔 있는 수수료, '당근페이'가 안 받는 이유 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
-            <link>https://www.joongang.co.kr/article/25048082</link>
-            <guid>https://www.joongang.co.kr/article/25048082</guid>
-            <pubDate>Mon, 14 Feb 2022 08:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="card_image">
-<figure>
-<a href="https://www.joongang.co.kr/article/25048082" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/14/38df4d26-c867-4d26-a7b9-a8a5b0cfb4a6.jpg/_ir_144x144_/" alt="[팩플] 번개장터·중고나라엔 있는 수수료, '당근페이'가 안 받는 이유" width="72" height="72">
-</a>
-</figure>
-</div>
-<div class="card_body">
-<em class="rank_count ico_num4">4</em>
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25048082" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">[팩플] 번개장터·중고나라엔 있는 수수료, '당근페이'가 안 받는 이유</a>
-</h2>
-<div class="meta">
-<p class="date">2022.02.14 16:45</p>
-<button type="button" class="btn_bookmark" data-cid="25048082" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
-</button>
-</div>
-</div>]]></content:encoded>
-            <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/14/38df4d26-c867-4d26-a7b9-a8a5b0cfb4a6.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
-        </item>
-        <item>
             <title><![CDATA[[팩플] 집토끼 늙어가는데, 산토끼 어디에…‘대폭락 시대’ 게임사 미래는? (중앙일보 팩플 ─ 많이 본 기사)]]></title>
             <link>https://www.joongang.co.kr/article/25048429</link>
             <guid>https://www.joongang.co.kr/article/25048429</guid>
             <pubDate>Tue, 15 Feb 2022 10:14:51 GMT</pubDate>
             <content:encoded><![CDATA[<div class="card_image">
 <figure>
-<a href="https://www.joongang.co.kr/article/25048429" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25048429" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/15/14db62a9-9045-46f4-b2c8-7b59beb5d466.jpg/_ir_144x144_/" alt="[팩플] 집토끼 늙어가는데, 산토끼 어디에…‘대폭락 시대’ 게임사 미래는?" width="72" height="72">
 </a>
 </figure>
 </div>
 <div class="card_body">
-<em class="rank_count ico_num5">5</em>
+<em class="rank_count ico_num4">4</em>
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25048429" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">[팩플] 집토끼 늙어가는데, 산토끼 어디에…‘대폭락 시대’ 게임사 미래는?</a>
+<a href="https://www.joongang.co.kr/article/25048429" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">[팩플] 집토끼 늙어가는데, 산토끼 어디에…‘대폭락 시대’ 게임사 미래는?</a>
 </h2>
 <div class="meta">
 <p class="date">2022.02.15 18:17</p>
@@ -138,10 +112,36 @@
             <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/15/14db62a9-9045-46f4-b2c8-7b59beb5d466.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
         </item>
         <item>
+            <title><![CDATA[[팩플] 번개장터·중고나라엔 있는 수수료, '당근페이'가 안 받는 이유 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
+            <link>https://www.joongang.co.kr/article/25048082</link>
+            <guid>https://www.joongang.co.kr/article/25048082</guid>
+            <pubDate>Mon, 14 Feb 2022 08:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="card_image">
+<figure>
+<a href="https://www.joongang.co.kr/article/25048082" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/14/38df4d26-c867-4d26-a7b9-a8a5b0cfb4a6.jpg/_ir_144x144_/" alt="[팩플] 번개장터·중고나라엔 있는 수수료, '당근페이'가 안 받는 이유" width="72" height="72">
+</a>
+</figure>
+</div>
+<div class="card_body">
+<em class="rank_count ico_num5">5</em>
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25048082" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">[팩플] 번개장터·중고나라엔 있는 수수료, '당근페이'가 안 받는 이유</a>
+</h2>
+<div class="meta">
+<p class="date">2022.02.14 16:45</p>
+<button type="button" class="btn_bookmark" data-cid="25048082" data-ctype="A">
+<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+</button>
+</div>
+</div>]]></content:encoded>
+            <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/14/38df4d26-c867-4d26-a7b9-a8a5b0cfb4a6.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
+        </item>
+        <item>
             <title><![CDATA[[팩플] 네이버 라인은 왜 공짜로 내 ‘부캐’를 만들어줄까 (중앙일보 팩플 ─ 뉴스)]]></title>
             <link>https://www.joongang.co.kr/article/25048691</link>
             <guid>https://www.joongang.co.kr/article/25048691</guid>
-            <pubDate>Wed, 16 Feb 2022 06:17:24 GMT</pubDate>
+            <pubDate>Wed, 16 Feb 2022 07:13:42 GMT</pubDate>
             <content:encoded><![CDATA[라인프렌즈의 캐릭터 IP 생성 플랫폼 ‘프렌즈(FRENZ)’. 사진 라인프렌즈 네이버 손자회사인 라인프렌즈가 '메타버스 아바타'를 맞춤 제작(커스텀)해주는 글로벌 서비스를 시작한다. 네이버·라인의 '네이버 연합'의 메타버스 퍼즐이 완성되고 있는 걸까.&nbsp;&nbsp; &nbsp; &nbsp;━&nbsp; 무슨 일이야 &nbsp; 라인프렌즈가 '나만의 3D 아바타'를 만들어주는 무료 캐릭터 생성 플랫폼 '프렌즈(FRENZ)'를 선보인다. 소비자가 직접 캐릭터를 커스텀할 수 있는 것이 특징. 정식 출시에 앞서 오는 20일까지 홈페이지에서 비공개 시범 테스트 참가자를 모집한다. 라인프렌즈는 네이버의 자회사인 '라인'의 자회사로, 네이버엔 손자회사. &nbsp; &nbsp;━&nbsp; 나랑 무슨 상관이야 &nbsp; 개성있게 꾸민 캐릭터를 동영상(생중계도 가능), SNS, 프로필 사진 등에 '내 아바타'로 사용할 수 있다. 특히 인간과 유사한 외모의 실사형 아바타에 '불쾌한 골짜기'(uncanny valley·인간형 로봇에 대한 비호감도)를 느꼈다면 프렌즈가 대안이 될 수도. 프렌즈는 동물형·인간형 등 외형을 자유롭게 고를 수 있고, 아바타의 눈·코·입·피부,&nbsp;헤어, 패션, 배경화면 등 500개의 파츠(parts)를 원하는 대로 조합할 수 있다. 약 1억개의 캐릭터 조합이 나온다는 게 라인의 설명. 파츠는 국내외 유망 아티스트와의 협업 등으로 늘려나갈 예정이다. 라인프렌즈 관계자는 "그림을 못 그려도, 셀럽이 아니라도 누구나 나만의 캐릭터를 가질 수 있다"고 말했다. 프렌즈는&nbsp;향후 각종 NFT 게임, 메타버스 서비스 등에도 사용할 수 있을 전망. 라인프렌즈가 동영상, NFT 게임, 메타버스 등에 활용할 수 있는 나만의 아바타 IP 생성 플랫폼 ‘프렌즈(FRENZ)’를 출시한다. 사진 라인프렌즈 &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; 네이버 연합이 메타버스로 잰걸음을 내딛고 있다. 앞단에서 소비자를 만나는 제페토(운영사 네이버제트)와 뒷단에서 첨단기술을 지원하는 아크버스(네이버랩스)에 라인이 프렌즈로 가세했다. 프렌즈가 성공하면 네이버엔 '메타버스 3대축'이 생기는 셈. 라인프렌즈가 동영상, NFT 게임, 메타버스 등에 활용할 수 있는 나만의 아바타 IP 생성 플랫폼 ‘프렌즈(FRENZ)’를 출시한다. 사진 라인프렌즈 ● 제페토와 배다른 형제: 네이버의 손자회사들이 메타버스 필수재인 아바타 생태계를 강화하고 있다. 글로벌 2억 9000만 이용자를 확보한 제페토가 '가상의 세계' 자체를 구현한 메타버스라면, 프렌즈는 현실 세계에 '아바타'를 내보내는 길을 택했다. 아바타의 확장성만 본다면 프렌즈가 제페토보다 외부로 나가기 쉬운 전략적 요충지일 수 있다.&nbsp;라인프렌즈 관계자는 "초반엔 라이브 방송, 숏폼 동영상 등에 프렌즈가 주로 활용되겠지만 향후 메타버스, 블록체인 게임, NFT 마켓 등 다양한 기업과 전략적 협업 및 투자를 통해 프렌즈 IP를 외부로 확장할 것"이라고 말했다. &nbsp; ● 네이버의 메타버스 쓰리 트랙: 제페토와 라인프렌즈는 친근함을 내세운 B2C 서비스. 반면 네이버랩스(네이버의 기술 자회사)가 개발 중인 아크버스는 현실 공간을 디지털화하는 기술의 총집합으로, 기업·지자체 대상 B2B 상품이 될 가능성이 크다. 메타버스 서비스와 원천 기술 양쪽을 잡겠다는 네이버의 큰 그림이 보인다. 네이버제트가 운영하는 글로벌 메타버스 플랫폼 '제페토'. 사진 네이버제트 &nbsp;━&nbsp; 라인이 노리는 건 &nbsp; 올해 11주년을 맞은 라인의 브라운앤프렌즈. 사진 라인프렌즈 ● 디지털 전환:&nbsp;그간 라인프렌즈의 사업구조는&nbsp;캐릭터 상품 판매, 즉 커머스 중심이었다. 소비자를 만난 접점도 온라인 스토어와 한국·일본·중국·미국 주요 도시에 운영 중인 오프라인 스토어. 그런데 메타버스의 급부상으로 가상세계의 디지털 캐릭터가 중요해졌다. 프렌즈는 라인이 디지털 IP를 키울 기회다. ● 브라운 후배: 라인프렌즈는 'BTS 캐릭터' BT21로 성공을 맛본 후, 있지(ITZY)·브롤스타즈 등 인기 아이돌·게임 IP를 활용한 캐릭터 사업을 주로 펼쳐왔다. 바꿔 말하면, 라인의 원조 IP 브라운프렌즈를 제외하면 이렇다 할 '오리지널 캐릭터'가 없었다는 말이기도. 프렌즈는 라인의 오리지널리티를 되살리기 위한 도전이다. ● 판깔기: 프렌즈는 이용자 참여로 생태계를 키우는 오픈 플랫폼이다. 이용자에게 공짜로 도구를 내주고, 라인프렌즈는 판만 깐다. 앞서 네이버가 도전만화(웹툰), 쇼핑라이브(라이브커머스), 클로바더빙(AI 성우)으로 성공을 검증한 전략. 크리에이터들에게 유용하다는 점에서 프렌즈와 용처가 가장 비슷한 클로바더빙은 출시 2년차인 이달 기준 누적 3000만번 쓰였다. 프렌즈가 이곳저곳서 쓰이기 시작하면, 유료 상품화·마케팅 제휴 등 '돈 될 곳'은 알아서 따라온다. &nbsp; 라인프렌즈의 BTS 캐릭터 'BT21'. 사진 BT21 인스타그램 &nbsp;━&nbsp; 더 알면 좋은 것 &nbsp; '부캐의 시대' 이전에도, 현실의 나와 완전히 다른, 가상의 나를 이미지로 만들어 노는 아바타 서비스는 꾸준히 인기였다. 애플의 '미모지', 삼성의 'AR 이모지'가 있었고, 시중의 셀카 앱들도 손쉽게 아바타를 만들어준다. 오랜 아바타 서비스들에 변곡점을 만든 건 메타버스다. 현실과 가상세계의 접점은 점점 커지는데, 아바타의 얼굴도 목소리도 '가짜'로 위장할 수 있다. 아바타가 나를 대신하는 '3차원 인터넷' 메타버스가 신분 도용, 사이버 폭력 등에 대처할 수 있을지는 앞으로 지켜볼 일.&nbsp; 배너 클릭 시 구독페이지로 이동합니다. https://www.joongang.co.kr/factpl 김정민 기자 kim.jungmin4@joongang.co.kr]]></content:encoded>
             <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/16/42061b37-47c0-4894-aeaa-034ecbcb4d7e.jpg/_ir_205x115_/" length="0" type="image/jpg/_ir_205x115_/"/>
         </item>
