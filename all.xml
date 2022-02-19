@@ -4,35 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 00:53:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 02:01:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[팩플] 네이버 라인프렌즈는 왜 공짜로 내 ‘부캐’를 만들어줄까 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
-            <link>https://www.joongang.co.kr/article/25048691</link>
-            <guid>https://www.joongang.co.kr/article/25048691</guid>
-            <pubDate>Wed, 16 Feb 2022 07:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="card_image">
-<figure>
-<a href="https://www.joongang.co.kr/article/25048691" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="1">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/16/42061b37-47c0-4894-aeaa-034ecbcb4d7e.jpg/_ir_144x144_/" alt="[팩플] 네이버 라인프렌즈는 왜 공짜로 내 ‘부캐’를 만들어줄까" width="72" height="72">
-</a>
-</figure>
-</div>
-<div class="card_body">
-<em class="rank_count ico_num1">1</em>
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25048691" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="1">[팩플] 네이버 라인프렌즈는 왜 공짜로 내 ‘부캐’를 만들어줄까</a>
-</h2>
-<div class="meta">
-<p class="date">2022.02.16 15:00</p>
-<button type="button" class="btn_bookmark" data-cid="25048691" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
-</button>
-</div>
-</div>]]></content:encoded>
-            <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/16/42061b37-47c0-4894-aeaa-034ecbcb4d7e.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
-        </item>
         <item>
             <title><![CDATA[[팩플] ‘손정의 Pick’ AI로 금융 잡는다…크래프트테크놀로지스 김형식 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
             <link>https://www.joongang.co.kr/article/25048933</link>
@@ -40,15 +14,15 @@
             <pubDate>Thu, 17 Feb 2022 06:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="card_image">
 <figure>
-<a href="https://www.joongang.co.kr/article/25048933" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25048933" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="1">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/17/bba63bb8-a45d-4512-98e2-c30ded0f0080.jpg/_ir_144x144_/" alt="[팩플] ‘손정의 Pick’ AI로 금융 잡는다…크래프트테크놀로지스 김형식" width="72" height="72">
 </a>
 </figure>
 </div>
 <div class="card_body">
-<em class="rank_count ico_num2">2</em>
+<em class="rank_count ico_num1">1</em>
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25048933" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">[팩플] ‘손정의 Pick’ AI로 금융 잡는다…크래프트테크놀로지스 김형식</a>
+<a href="https://www.joongang.co.kr/article/25048933" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="1">[팩플] ‘손정의 Pick’ AI로 금융 잡는다…크래프트테크놀로지스 김형식</a>
 </h2>
 <div class="meta">
 <p class="date">2022.02.17 06:00</p>
@@ -58,6 +32,32 @@
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/17/bba63bb8-a45d-4512-98e2-c30ded0f0080.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩플] 네이버 라인프렌즈는 왜 공짜로 내 ‘부캐’를 만들어줄까 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
+            <link>https://www.joongang.co.kr/article/25048691</link>
+            <guid>https://www.joongang.co.kr/article/25048691</guid>
+            <pubDate>Wed, 16 Feb 2022 07:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="card_image">
+<figure>
+<a href="https://www.joongang.co.kr/article/25048691" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/16/42061b37-47c0-4894-aeaa-034ecbcb4d7e.jpg/_ir_144x144_/" alt="[팩플] 네이버 라인프렌즈는 왜 공짜로 내 ‘부캐’를 만들어줄까" width="72" height="72">
+</a>
+</figure>
+</div>
+<div class="card_body">
+<em class="rank_count ico_num2">2</em>
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25048691" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">[팩플] 네이버 라인프렌즈는 왜 공짜로 내 ‘부캐’를 만들어줄까</a>
+</h2>
+<div class="meta">
+<p class="date">2022.02.16 15:00</p>
+<button type="button" class="btn_bookmark" data-cid="25048691" data-ctype="A">
+<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+</button>
+</div>
+</div>]]></content:encoded>
+            <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/16/42061b37-47c0-4894-aeaa-034ecbcb4d7e.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
         </item>
         <item>
             <title><![CDATA[[팩플] 페북이 쓸어간 타깃형 광고, 이제 어디로...구글도 광고정책 개편 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
@@ -214,7 +214,7 @@
             <link>https://www.joongang.co.kr/article/25047788</link>
             <guid>https://www.joongang.co.kr/article/25047788</guid>
             <pubDate>Sun, 13 Feb 2022 06:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp; 이동통신 3사가 삼성전자의 새 플래그십(최상위 기종) 스마트폰 갤럭시S22의 시리즈 사전 예약 경쟁에 돌입했다. 통신 3사 모두 갤럭시S22를 5세대 통신(5G) 가입자 수 확보를 위한 동력으로 활용할 생각이다. &nbsp; &nbsp;━&nbsp; 무슨일이야 &nbsp; SK텔레콤·KT·LG유플러스는 오는 14일부터 21일까지 갤럭시S22 사전 예약을 진행한다. 갤럭시S22는 25일 공식 출시되지만, 사전에 예약한 경우엔 22일부터 개통이 가능하다. &nbsp; 지난 10일 서울 서초구 삼성 딜라이트에서 시민들이 삼성전자의 새로운 플래그십 스마트폰 갤럭시S22 시리즈를 체험하고 있다. [뉴스1] &nbsp; &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; 통신사에 갤럭시S22 같은 프리미엄 스마트폰 출시는 ‘대목’이다. 5G 가입자 증가 효과가 크기 때문. 과학기술정보통신부 ‘무선통신서비스 가입 현황’에 따르면 지난해 12월 말 기준 5G 가입자는 2091만명을 넘었다. 전달 대비 한달만에 90만명이 늘었다. 삼성전자의 갤럭시Z폴드3·Z플립3와 애플 아이폰13 등 프리미엄 스마트폰이 하반기 잇달이 출시된 영향이 컸다. &nbsp; &nbsp;━&nbsp; NFT·한정판 주는 SKT &nbsp; 통신 3사는 초반 흥행몰이를 위해 다양한 혜택을 준비했다.&nbsp;SKT는 14일부터 한달간 갤럭시S22 개통을 완료한 뒤 응모한 고객 중 2000명을 추첨해 SK텔레콤과 라이프스타일 브랜드 피치스(Peaches.)가 제작한 대체불가능토큰(NFT)을 각각 1개씩 지급한다. 받은 NFT는 올 하반기 중 암호화폐 거래소 코빗에서 거래할 수 있다.&nbsp; SK텔레콤이 오는 14일부터 21일까지 '갤럭시S22' 예약판매를 진행한다고 13일 밝혔다. 사진은 홍대 T팩토리 매장에서 갤럭시S22 제품을 소개하는 모델들. [사진 SK텔레콤] &nbsp; 또 1000명을 추첨해 김연아(전 피겨스케이팅 선수)·페이커(프로게이머)·김한별(프로골퍼) 등 유명인과 팬미팅 이벤트권, 프리미엄 호텔 숙박권, VIP건강검진권, 헬스케어 이용권, 호텔 플랫폼 이용권, 액티비티 체험권, 구독 상품 '우주패스 all' 1개월 이용권 등을 주기로 했다. 벤츠, 골프용품 브랜드 마크앤로나와 협업한 한정판 갤럭시S22 울트라 제품도 각각 2000대와 1000대를 선보인다.&nbsp; &nbsp; &nbsp;━&nbsp; 구독·요금 혜택 건 KT &nbsp; KT는 갤럭시S22와 갤럭시S22플러스 사전예약 가입자에게 삼성 제품 구매 10만원 쿠폰을 지급한다. 추첨을 통해 네이버플러스멤버십 1년 이용권 또는 지니뮤직 3개월 이용권도 제공한다. 갤럭시S22울트라 가입 고객에게는 삼성 제품 구매 15만원 쿠폰을 지급하고 KT 전용 혜택인 ‘LAMY S펜’을 추첨해서 준다. 요금 상품 중에는 삼성전자의 5가지 제품 중 1가지를 무료 또는 할인해 살 수 있는 ‘삼성 초이스’를 선보인다. ‘우리카드 초이스’를 선택하면 월 최대 7000원의 추가 할인을 통해 5G 요금제를 월 3만 원에 이용할 수도 있다.&nbsp; KT가 오는 14일부터 21일까지 삼성전자 '갤럭시S22' 시리즈 사전 예약을 진행한다고 13일 밝혔다. 사진은 KT 매장에서 갤럭시S22 사전 예약을 안내하는 모델. [사진 KT] &nbsp; 갤럭시 워치4 30% 할인 쿠폰, 유튜브 프리미엄 4개월 무료 체험, ‘네이버웹툰·시리즈 쿠키 50개, 윌라 오디오북+클래스 무제한 3개월 무료 구독권, ‘원드라이브 100GB 6개월 무료체험’ 등의 제휴 혜택도 제공한다. &nbsp; &nbsp;━&nbsp; 100만원 상품권 쏘는 LG유플러스 &nbsp; LG유플러스는 사전 예약 기간 동안 매일 22명(총 176명)에게 백화점 상품권 100만원씩을 증정하는 이벤트를 연다. 이벤트에 응모해 당첨된 예약 고객이 개통 후 지인 결합 상품인 ‘유플러스 투게더’에 가입하면 상품권을 받을 수 있다. LG유플러스의 공식 온라인몰 ‘유샵’에서는 사전 예약자를 대상으로 추첨을 통해 샤넬 카드홀더, 한정판 운동화 등을 제공한다. 이벤트 당첨 시 플레이스테이션5, 갤럭시탭S8 등도 지급한다.&nbsp; LG유플러스가 삼성전자의 플래그십 스마트폰인 갤럭시 S22의 사전 예약을 14일부터 21일까지 8일간 실시한다고 13일 밝혔다. 사진은 LG유플러스 모델이 갤럭시S22를 소개하는 모습. [사진 LG유플러스] &nbsp; 유샵을 통해 사전 예약한 선착순 이용자 2022명에게는 개통 첫날 제품을 배송해주는 서비스도 제공한다. 이밖에 삼성카드와 제휴해 선착순 2200명에게 캐시백 혜택도 제공한다. &nbsp; 배너 클릭 시 구독페이지로 이동합니다. 관련기사[팩플] KT 영업이익 42% 늘었다…통신3사, 영업이익 4조 시대[팩플] 막 오른 하늘길 전쟁…SKT는 왜 우버 에어택시 인수한 조비 손 잡았나[팩플] ‘3등’의 딴 생각…외부 인재 수혈하는 LG유플러스 ‘황현식 사단’[팩플] SK텔레콤 왜 '공중택시' 꽂혔나…5G만 노리는 게 아니다이승호 기자 wonderman@joongang.co.kr]]></content:encoded>
+            <content:encoded><![CDATA[&nbsp; 이동통신 3사가 삼성전자의 새 플래그십(최상위 기종) 스마트폰 갤럭시S22의 시리즈 사전 예약 경쟁에 돌입했다. 통신 3사 모두 갤럭시S22를 5세대 통신(5G) 가입자 수 확보를 위한 동력으로 활용할 생각이다. &nbsp; &nbsp;━&nbsp; 무슨일이야 &nbsp; SK텔레콤·KT·LG유플러스는 오는 14일부터 21일까지 갤럭시S22 사전 예약을 진행한다. 갤럭시S22는 25일 공식 출시되지만, 사전에 예약한 경우엔 22일부터 개통이 가능하다. &nbsp; 지난 10일 서울 서초구 삼성 딜라이트에서 시민들이 삼성전자의 새로운 플래그십 스마트폰 갤럭시S22 시리즈를 체험하고 있다. [뉴스1] &nbsp; &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; 통신사에 갤럭시S22 같은 프리미엄 스마트폰 출시는 ‘대목’이다. 5G 가입자 증가 효과가 크기 때문. 과학기술정보통신부 ‘무선통신서비스 가입 현황’에 따르면 지난해 12월 말 기준 5G 가입자는 2091만명을 넘었다. 전달 대비 한달만에 90만명이 늘었다. 삼성전자의 갤럭시Z폴드3·Z플립3와 애플 아이폰13 등 프리미엄 스마트폰이 하반기 잇달이 출시된 영향이 컸다. &nbsp; &nbsp;━&nbsp; NFT·한정판 주는 SKT &nbsp; 통신 3사는 초반 흥행몰이를 위해 다양한 혜택을 준비했다.&nbsp;SKT는 14일부터 한달간 갤럭시S22 개통을 완료한 뒤 응모한 고객 중 2000명을 추첨해 SK텔레콤과 라이프스타일 브랜드 피치스(Peaches.)가 제작한 대체불가능토큰(NFT)을 각각 1개씩 지급한다. 받은 NFT는 올 하반기 중 암호화폐 거래소 코빗에서 거래할 수 있다.&nbsp; SK텔레콤이 오는 14일부터 21일까지 '갤럭시S22' 예약판매를 진행한다고 13일 밝혔다. 사진은 홍대 T팩토리 매장에서 갤럭시S22 제품을 소개하는 모델들. [사진 SK텔레콤] &nbsp; 또 1000명을 추첨해 김연아(전 피겨스케이팅 선수)·페이커(프로게이머)·김한별(프로골퍼) 등 유명인과 팬미팅 이벤트권, 프리미엄 호텔 숙박권, VIP건강검진권, 헬스케어 이용권, 호텔 플랫폼 이용권, 액티비티 체험권, 구독 상품 '우주패스 all' 1개월 이용권 등을 주기로 했다. 벤츠, 골프용품 브랜드 마크앤로나와 협업한 한정판 갤럭시S22 울트라 제품도 각각 2000대와 1000대를 선보인다.&nbsp; &nbsp; &nbsp;━&nbsp; 구독·요금 혜택 건 KT &nbsp; KT는 갤럭시S22와 갤럭시S22플러스 사전예약 가입자에게 삼성 제품 구매 10만원 쿠폰을 지급한다. 추첨을 통해 네이버플러스멤버십 1년 이용권 또는 지니뮤직 3개월 이용권도 제공한다. 갤럭시S22울트라 가입 고객에게는 삼�� 제품 구매 15만원 쿠폰을 지급하고 KT 전용 혜택인 ‘LAMY S펜’을 추첨해서 준다. 요금 상품 중에는 삼성전자의 5가지 제품 중 1가지를 무료 또는 할인해 살 수 있는 ‘삼성 초이스’를 선보인다. ‘우리카드 초이스’를 선택하면 월 최대 7000원의 추가 할인을 통해 5G 요금제를 월 3만 원에 이용할 수도 있다.&nbsp; KT가 오는 14일부터 21일까지 삼성전자 '갤럭시S22' 시리즈 사전 예약을 진행한다고 13일 밝혔다. 사진은 KT 매장에서 갤럭시S22 사전 예약을 안내하는 모델. [사진 KT] &nbsp; 갤럭시 워치4 30% 할인 쿠폰, 유튜브 프리미엄 4개월 무료 체험, ‘네이버웹툰·시리즈 쿠키 50개, 윌라 오디오북+클래스 무제한 3개월 무료 구독권, ‘원드라이브 100GB 6개월 무료체험’ 등의 제휴 혜택도 제공한다. &nbsp; &nbsp;━&nbsp; 100만원 상품권 쏘는 LG유플러스 &nbsp; LG유플러스는 사전 예약 기간 동안 매일 22명(총 176명)에게 백화점 상품권 100만원씩을 증정하는 이벤트를 연다. 이벤트에 응모해 당첨된 예약 고객이 개통 후 지인 결합 상품인 ‘유플러스 투게더’에 가입하면 상품권을 받을 수 있다. LG유플러스의 공식 온라인몰 ‘유샵’에서는 사전 예약자를 대상으로 추첨을 통해 샤넬 카드홀더, 한정판 운동화 등을 제공한다. 이벤트 당첨 시 플레이스테이션5, 갤럭시탭S8 등도 지급한다.&nbsp; LG유플러스가 삼성전자의 플래그십 스마트폰인 갤럭시 S22의 사전 예약을 14일부터 21일까지 8일간 실시한다고 13일 밝혔다. 사진은 LG유플러스 모델이 갤럭시S22를 소개하는 모습. [사진 LG유플러스] &nbsp; 유샵을 통해 사전 예약한 선착순 이용자 2022명에게는 개통 첫날 제품을 배송해주는 서비스도 제공한다. 이밖에 삼성카드와 제휴해 선착순 2200명에게 캐시백 혜택도 제공한다. &nbsp; 배너 클릭 시 구독페이지로 이동합니다. 관련기사[팩플] KT 영업이익 42% 늘었다…통신3사, 영업이익 4조 시대[팩플] 막 오른 하늘길 전쟁…SKT는 왜 우버 에어택시 인수한 조비 손 잡았나[팩플] ‘3등’의 딴 생각…외부 인재 수혈하는 LG유플러스 ‘황현식 사단’[팩플] SK텔레콤 왜 '공중택시' 꽂혔나…5G만 노리는 게 아니다이승호 기자 wonderman@joongang.co.kr]]></content:encoded>
             <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/13/2f49a60b-6d3b-4ed8-984b-c33ddb6f1c32.jpg/_ir_205x115_/" length="0" type="image/jpg/_ir_205x115_/"/>
         </item>
         <item>
