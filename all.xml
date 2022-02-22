@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 09:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 10:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -34,47 +34,21 @@
             <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/21/a9f5b1f9-5516-470d-9dac-3ab1be725a6a.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
         </item>
         <item>
-            <title><![CDATA[[팩플] “넵 알겠습니다” 막내 너구리들의 반란…엔씨의 ‘탈린저씨’ 도전 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
-            <link>https://www.joongang.co.kr/article/25050078</link>
-            <guid>https://www.joongang.co.kr/article/25050078</guid>
-            <pubDate>Tue, 22 Feb 2022 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="card_image">
-<figure>
-<a href="https://www.joongang.co.kr/article/25050078" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/22/5846fe24-6208-46a8-a030-6331cc6cf37d.jpg/_ir_144x144_/" alt="[팩플] “넵 알겠습니다” 막내 너구리들의 반란…엔씨의 ‘탈린저씨’ 도전" width="72" height="72">
-</a>
-</figure>
-</div>
-<div class="card_body">
-<em class="rank_count ico_num2">2</em>
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25050078" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">[팩플] “넵 알겠습니다” 막내 너구리들의 반란…엔씨의 ‘탈린저씨’ 도전</a>
-</h2>
-<div class="meta">
-<p class="date">2022.02.22 06:00</p>
-<button type="button" class="btn_bookmark" data-cid="25050078" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
-</button>
-</div>
-</div>]]></content:encoded>
-            <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/22/5846fe24-6208-46a8-a030-6331cc6cf37d.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
-        </item>
-        <item>
             <title><![CDATA[[팩플] '역대급 흥행' 갤S22, 공시지원금은 줄었다?...호갱방지 3대 노하우 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
             <link>https://www.joongang.co.kr/article/25050232</link>
             <guid>https://www.joongang.co.kr/article/25050232</guid>
             <pubDate>Tue, 22 Feb 2022 09:14:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="card_image">
 <figure>
-<a href="https://www.joongang.co.kr/article/25050232" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25050232" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/22/ad1c1275-959e-45b8-a1c5-1948fd30b895.jpg/_ir_144x144_/" alt="[팩플] '역대급 흥행' 갤S22, 공시지원금은 줄었다?...호갱방지 3대 노하우" width="72" height="72">
 </a>
 </figure>
 </div>
 <div class="card_body">
-<em class="rank_count ico_num3">3</em>
+<em class="rank_count ico_num2">2</em>
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25050232" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">[팩플] '역대급 흥행' 갤S22, 공시지원금은 줄었다?...호갱방지 3대 노하우</a>
+<a href="https://www.joongang.co.kr/article/25050232" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">[팩플] '역대급 흥행' 갤S22, 공시지원금은 줄었다?...호갱방지 3대 노하우</a>
 </h2>
 <div class="meta">
 <p class="date">2022.02.22 17:52</p>
@@ -84,6 +58,32 @@
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/22/ad1c1275-959e-45b8-a1c5-1948fd30b895.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩플] “넵 알겠습니다” 막내 너구리들의 반란…엔씨의 ‘탈린저씨’ 도전 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
+            <link>https://www.joongang.co.kr/article/25050078</link>
+            <guid>https://www.joongang.co.kr/article/25050078</guid>
+            <pubDate>Tue, 22 Feb 2022 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="card_image">
+<figure>
+<a href="https://www.joongang.co.kr/article/25050078" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/22/5846fe24-6208-46a8-a030-6331cc6cf37d.jpg/_ir_144x144_/" alt="[팩플] “넵 알겠습니다” 막내 너구리들의 반란…엔씨의 ‘탈린저씨’ 도전" width="72" height="72">
+</a>
+</figure>
+</div>
+<div class="card_body">
+<em class="rank_count ico_num3">3</em>
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25050078" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">[팩플] “넵 알겠습니다” 막내 너구리들의 반란…엔씨의 ‘탈린저씨’ 도전</a>
+</h2>
+<div class="meta">
+<p class="date">2022.02.22 06:00</p>
+<button type="button" class="btn_bookmark" data-cid="25050078" data-ctype="A">
+<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+</button>
+</div>
+</div>]]></content:encoded>
+            <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/22/5846fe24-6208-46a8-a030-6331cc6cf37d.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
         </item>
         <item>
             <title><![CDATA[[팩플] 100만원 상품권도 쏜다, 통신사엔 갤S22가 '대목'인 이유 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
@@ -141,7 +141,7 @@
             <title><![CDATA[[팩플] '역대급 흥행' 갤S22, 공시지원금은 줄었다?...호갱방지 3대 노하우 (중앙일보 팩플 ─ 뉴스)]]></title>
             <link>https://www.joongang.co.kr/article/25050232</link>
             <guid>https://www.joongang.co.kr/article/25050232</guid>
-            <pubDate>Tue, 22 Feb 2022 09:14:17 GMT</pubDate>
+            <pubDate>Tue, 22 Feb 2022 09:14:07 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자 플래그십 스마트폰 갤럭시 S22 시리즈를 사전판매 첫날인 14일 서울 서초구 삼성 딜라이트에 '갤럭시S22' 광고가 걸려있다. [연합뉴스] &nbsp; 삼성전자 갤럭시S22 시리즈가 역대 S 모델 중 가장 많은 사전 예약 건수를 기록하며 22일 개통을 시작했다. 특히 S펜을 내장해 갤럭시 노트 시리즈를 계승한 S22 울트라 모델이 인기. 22일 통신 3사에 따르면 울트라 모델이 전체 사전 예약 건수의 3분의 2를 차지했다. 소비자 관심이 큰 만큼 통신사부터 삼성전자 공식몰, 쿠팡이나 마켓컬리 같은 커머스 플랫폼까지 판매 채널도 다양해졌다. '혹시 나만 비싸게 사고 있는 게 아닐까' 헷갈리는 소비자들을 위해 S22 구매 '꿀팁'을 정리했다.&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; ● 수요는&nbsp;2배+, 지원금은 절반: 통신업계에 따르면, S22에 대한 사전 예약 수요는 1년 전 출시된 전작 S21 때보다 2배 이상 늘었다. 반면, 휴대전화 기기 값을 할인해주는 공시지원금은 S22가 최대 24만원으로, 최대 50만원에 달했던 S21의 절반 수준이었다. 공시지원금은 통신사와 제조사가 함께 부담하는데, 제조사인 삼성전자 측 지원금이 예년보다 줄어든 것으로 알려졌다.&nbsp; &nbsp; ● 공시지원금 vs 선택약정: 기기 값 할인 말고, 매달 통신요금의 25%를 약정기간(1~3년)동안 할인 받는 방법도 있다. 선택약정 할인폭은 이동통신 단말장치 유통구조 개선에 관한 법률(단통법)에 따라 한달 요금의 25%로 고정돼 있다. 이 때문에 기기 구매시 일시에 받는 공시지원금과 약정기간 동안 받을 요금할인 총액을 비교해볼 필요가 있다. 예를들어 지난해 하반기에 출시됐던 갤럭시 Z플립은 선택약정보다는 공시지원금 혜택이 더 컸다. ‘폴더블폰 대중화’를 위해 삼성전자가 공시지원금 규모를 늘리면서, 지원금이 최대 57만원까지 올랐기 때문. &nbsp; 갤럭시 노트처럼 휴대전화에 S펜이 내장된 S22 울트라 모델 [사진 삼성전자] &nbsp; &nbsp;━&nbsp; ‘호갱’ 안 되려면? &nbsp; ① 할인 규모, 공시지원금〈 선택약정:&nbsp;S22 시리즈는 공시지원금보다 선택약정 할인이 유리한 편이다. 특히 약정 기간이 길수록 더 그렇다. 공시지원금이 가장 많은 KT를 기준으로 보면, S22 울트라(256GB, 출고가 145만 2000원) 모델을 사서 월 5만 5000원(데이터 월 10GB 제공)의 요금제를 사용한다면, 선택약정이 약 21만 5000원 저렴하다.&nbsp; 구체적인 계산은 이렇다. 공시지원금과 추가지원금까지 더해 총 11만5000원을 할인 받을 경우, 소비자가 실제 내는 단말기 값은 133만 7000원. 여기에 2년간 5만 5000원 요금제를 쓴다면, 2년간 갤럭시S22 울트라 한 대 쓰는 데 총 265만 7000원이 든다. 그런데, 만약 공시지원금을 받지 않고 2년간 통신요금 25%를 매달 할인받는 선택약정을 택한다면 기기 값과 2년치 통신요금(99만원)의 총합을 244만 2000원으로 낮출수 있다.&nbsp; &nbsp; ② 여전한 ‘자급제+알뜰폰’ 꿀조합: 삼성전자에 따르면 사전 예약 첫날인 지난 14일, 약 14시간 만에 모든 온라인 채널에서 갤럭시S22 자급제폰(온ㆍ오프라인 쇼핑몰에서 공기계를 직접 구입한 후 원하는 통신사에서 개통해 사용하는 것) 초기 물량이 완판됐다. 자급제폰의 장점은 통신사보다 절반 가까이 저렴한 알뜰폰 요금제를 쓸 수 있다는 것. 약정 기간이 없다는 것도 장점. 삼성전자 공식몰을 비롯해 각 온라인 채널들은 카드사와 협업해 사전예약 구매자를 대상으로 10~13%의 할인을 진행했는데, 이 경우 울트라 단말기 값은 126만원까지 내려간다. 알뜰폰 업체인 KT엠모바일에서 월 11GB 데이터를 쓸 수 있는 3만 2980원 요금제를 24개월 사용하면 기기 값까지 총 205만원이라는 계산이 나온다. 통신사 선택약정으로 월 10GB 데이터 요금제를 쓸 때(244만2000원)보다 약 40만원 가량 비용 부담을 줄일 수 있다. &nbsp; ③ 중고폰 보상, 놓치지 말자: 쓰던 휴대전화를 반납하고 중고 기기 보상비를 받는 방법도 있다. 대리점ㆍ대형 마트 등에 설치된 ‘민팃’ 키오스크에 휴대전화를 넣으면 기기 검수부터 가격 책정, 판매까지 5분 안에 완료된다. 삼성전자와 SK텔레콤도 각각 중고폰 보상 프로그램인 ‘갤럭시 트레이드인’과&nbsp;‘T안심보상’을 운영하고 있다. SK텔레콤에 따르면, 2020년 출시된 갤럭시S20울트라의 보상 시세는 최대 56만원 정도다. &nbsp; &nbsp; 홈플러스에 설치된 민팃 기기. 판매를 원하는 기기를 ATM에 넣으면 5분 이내에 외관 상태와 성능을 점검해주고, 인공지능 가격산정 시스템을 통해 최고 수준의 매입 금액을 고객에게 제안하는 시스템. [사진 홈플러스] &nbsp;━&nbsp; 더 알면 좋은 것 &nbsp; 대리점과 판매점은 공시지원금 외에 ‘추가지원금’(공시지원금의 최대 15%)을 임의로 소비자에게 더 줄 수 있다. 이 비율을 최대 30%까지 올리는 내용의 단통법 개정안이 지난해 12월 국회에 제출됐지만 계류 중이다. 취지는 일부 유통점이 단통법을 어기고 불법지원금을 더 얹어주고 있으니, 추가지원금 한도를 높여 합법 보조금의 한도를 높이자는 것.&nbsp; &nbsp; 하지만 S22 처럼 공시지원금 자체가 적으면, 추가지원금을 30%까지 더 받는다 한들 효과는 미미할 수 있다. ‘성지’라고 불리는 불법 유통 대리점도 여전히 성행 중이다. 이 때문에 ‘단통법 폐지론’까지 나오기도 했다. 2020년 단통법 폐지안을 발의한 김영식 의원(국민의힘)은 “이통 3사가 지원금 정보를 교환하면서 통신사 간 가격이 유사해지고 있어, 궁극적으로 소비자 편익이 계속 낮은 상태”라며 “이제는 단통법을 폐지해야 한다”고 주장했다. &nbsp; 배너 클릭 시 구독페이지로 이동합니다. https://www.joongang.co.kr/factpl 권유진 기자 kwen.yujin@joongang.co.kr]]></content:encoded>
             <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/22/ad1c1275-959e-45b8-a1c5-1948fd30b895.jpg/_ir_205x115_/" length="0" type="image/jpg/_ir_205x115_/"/>
         </item>
