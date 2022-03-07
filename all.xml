@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 13:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 14:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -34,21 +34,47 @@
             <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202203/06/f5207628-8771-4ca9-805b-272997c9af7a.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
         </item>
         <item>
-            <title><![CDATA[[팩플] 3억명 이용자 제페토…JYP 신인 걸그룹 엔믹스 손잡은 이유 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
-            <link>https://www.joongang.co.kr/article/25053578</link>
-            <guid>https://www.joongang.co.kr/article/25053578</guid>
-            <pubDate>Mon, 07 Mar 2022 10:15:50 GMT</pubDate>
+            <title><![CDATA[네이버 직원 급여 26% 올랐다…한성숙 제친 45억 연봉킹은 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
+            <link>https://www.joongang.co.kr/article/25053011</link>
+            <guid>https://www.joongang.co.kr/article/25053011</guid>
+            <pubDate>Fri, 04 Mar 2022 11:12:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="card_image">
 <figure>
-<a href="https://www.joongang.co.kr/article/25053578" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202203/07/8cb80013-9ced-4a1f-958f-d5d488252067.jpg/_ir_144x144_/" alt="[팩플] 3억명 이용자 제페토…JYP 신인 걸그룹 엔믹스 손잡은 이유" width="72" height="72">
+<a href="https://www.joongang.co.kr/article/25053011" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202203/04/579536c5-dea2-45c9-941f-7ca7e5ba2ebc.jpg/_ir_144x144_/" alt="네이버 직원 급여 26% 올랐다…한성숙 제친 45억 연봉킹은" width="72" height="72">
 </a>
 </figure>
 </div>
 <div class="card_body">
 <em class="rank_count ico_num2">2</em>
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25053578" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">[팩플] 3억명 이용자 제페토…JYP 신인 걸그룹 엔믹스 손잡은 이유</a>
+<a href="https://www.joongang.co.kr/article/25053011" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">네이버 직원 급여 26% 올랐다…한성숙 제친 45억 연봉킹은</a>
+</h2>
+<div class="meta">
+<p class="date">2022.03.04 19:58</p>
+<button type="button" class="btn_bookmark" data-cid="25053011" data-ctype="A">
+<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+</button>
+</div>
+</div>]]></content:encoded>
+            <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202203/04/579536c5-dea2-45c9-941f-7ca7e5ba2ebc.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩플] 3억명 이용자 제페토…JYP 신인 걸그룹 엔믹스 손잡은 이유 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
+            <link>https://www.joongang.co.kr/article/25053578</link>
+            <guid>https://www.joongang.co.kr/article/25053578</guid>
+            <pubDate>Mon, 07 Mar 2022 10:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="card_image">
+<figure>
+<a href="https://www.joongang.co.kr/article/25053578" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202203/07/8cb80013-9ced-4a1f-958f-d5d488252067.jpg/_ir_144x144_/" alt="[팩플] 3억명 이용자 제페토…JYP 신인 걸그룹 엔믹스 손잡은 이유" width="72" height="72">
+</a>
+</figure>
+</div>
+<div class="card_body">
+<em class="rank_count ico_num3">3</em>
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25053578" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">[팩플] 3억명 이용자 제페토…JYP 신인 걸그룹 엔믹스 손잡은 이유</a>
 </h2>
 <div class="meta">
 <p class="date">2022.03.07 18:51</p>
@@ -66,15 +92,15 @@
             <pubDate>Sun, 06 Mar 2022 10:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="card_image">
 <figure>
-<a href="https://www.joongang.co.kr/article/25053208" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25053208" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202203/06/b903db81-91a4-4c23-8a72-560ee5aac131.jpg/_ir_144x144_/" alt="[팩플] 2위 다툼 치열한 토종 OTT…생존경쟁 필살기는?" width="72" height="72">
 </a>
 </figure>
 </div>
 <div class="card_body">
-<em class="rank_count ico_num3">3</em>
+<em class="rank_count ico_num4">4</em>
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25053208" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">[팩플] 2위 다툼 치열한 토종 OTT…생존경쟁 필살기는?</a>
+<a href="https://www.joongang.co.kr/article/25053208" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">[팩플] 2위 다툼 치열한 토종 OTT…생존경쟁 필살기는?</a>
 </h2>
 <div class="meta">
 <p class="date">2022.03.06 10:00</p>
@@ -84,32 +110,6 @@
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202203/06/b903db81-91a4-4c23-8a72-560ee5aac131.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 직원 급여 26% 올랐다…한성숙 제친 45억 연봉킹은 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
-            <link>https://www.joongang.co.kr/article/25053011</link>
-            <guid>https://www.joongang.co.kr/article/25053011</guid>
-            <pubDate>Fri, 04 Mar 2022 11:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="card_image">
-<figure>
-<a href="https://www.joongang.co.kr/article/25053011" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202203/04/579536c5-dea2-45c9-941f-7ca7e5ba2ebc.jpg/_ir_144x144_/" alt="네이버 직원 급여 26% 올랐다…한성숙 제친 45억 연봉킹은" width="72" height="72">
-</a>
-</figure>
-</div>
-<div class="card_body">
-<em class="rank_count ico_num4">4</em>
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25053011" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">네이버 직원 급여 26% 올랐다…한성숙 제친 45억 연봉킹은</a>
-</h2>
-<div class="meta">
-<p class="date">2022.03.04 19:58</p>
-<button type="button" class="btn_bookmark" data-cid="25053011" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
-</button>
-</div>
-</div>]]></content:encoded>
-            <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202203/04/579536c5-dea2-45c9-941f-7ca7e5ba2ebc.jpg/_ir_144x144_/" length="0" type="image/jpg/_ir_144x144_/"/>
         </item>
         <item>
             <title><![CDATA[[팩플] 상속세만 최소 6조원...공동창업자 부인에 넥슨 미래 달렸다 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
@@ -254,7 +254,7 @@
             <link>https://www.joongang.co.kr/article/25052095</link>
             <guid>https://www.joongang.co.kr/article/25052095</guid>
             <pubDate>Tue, 01 Mar 2022 10:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[오프라인 전장(戰場)에선 외롭지만, 온라인은 다르다. 러시아의 침공에 맞서 싸우는 우크라이나 얘기다. 우크라이나는 북대서양조약기구(NATO) 등의 참전 없이 홀로 전쟁을 치르고 있다. 하지만 온라인 상에선 마이크로소프트(MS), 메타(옛 페이스북), 트위터, 구글 등 미국 대형 기술기업(빅테크)의 전폭적인 지원을 받고 있다.&nbsp; &nbsp; 페이스북과 유튜브, 트위터 로고와 러시아 국기를 합성한 이미지. [로이터=연합뉴스] &nbsp;━&nbsp; 무슨일이야 &nbsp; &nbsp; MS는 지난달 28일(현지시간) 빅테크로선 처음으로 우크라이나 지지를 공식 선언했다. 브래드 스미스 MS 최고법률책임자(CLO) 겸 부회장은&nbsp;공식 블로그를 통해 “MS는 우크라이나에서 벌어진 침략을 주시하고 있다”며 “우크라이나 정부, 미국 정부, 나토(NATO), 유엔 등과 지속적으로 긴밀하게 협력할 것”이라고 밝혔다. &nbsp; 브래드 스미스 마이크로소프트 부회장.[AP=연합뉴스] MS는 지난달 24일 러시아의 우크라이나 침공 때부터 일관되게 우크라이나를 지지했다. 뉴욕타임스(NYT)에 따르면 러시아의 침공 개시 몇 시간 전 MS 위협정보센터(TIC)는 ‘폭스블레이드(FoxBlade)’라는 악성코드가 우크라이나 정부·금융기관에 대해 사이버 공격을 시도한 것을 탐지했다. MS는 곧바로 ���크라이나 정부에 관련 정보를 제공했고 미국 정부에도 이를 알렸다. 미 정보기관은 해당 공격이 러시아 정보기관 또는 해커의 소행이라 의심하고 있다. &nbsp; &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; 우크라이나 지원 움직임은 다른 빅테크로 확산 중이다. 페이스북과 인스타그램 모기업인 메타는 지난달 28일 러시아 국영 매체인 러시아투데이(RT)와 스푸트니크 통신사에 대한 접속을 제한한다고 발표했다. RT와 스푸트니크는 그간 러시아 침략 지지 정보들을 확산시키고 가짜뉴스를 퍼뜨리는 데에 이용된다는 지적을 받아왔다. 메타는 또 러시아와 우크라이나에서 독립적 뉴스 매체를 가장해 허위 주장을 퍼뜨려 온 40여개 가짜 계정과 페이지도 삭제했다. 이들은 ‘서방이 우크라이나를 배신했다’, ‘우크라이나가 패망했다’는 내용을 퍼뜨렸다.&nbsp; 앞서 트위터도 플랫폼 조작·스팸 규정을 위반한 러시아 계정 10여개를 정지시켰다. 또 러시아 국영 미디어 웹사이트로 연결되는 트윗에 이를 경고하는 라벨을 붙이기 시작했다. 구글도 RT와 같은 러시아 국영 매체의 자사 웹사이트, 애플리케이션(앱), 유튜브 동영상에 대한 광고 게재를 금지했다. RT 앱의 다운로드도 막았다. &nbsp; &nbsp;━&nbsp; 온라인 선봉에 선 빅테크 &nbsp; 빅테크 기업의 움직임은 단순 선전 차단에 그치지 않고 있다. 각 사가 가진 역량을 최대한 활용하는 모양새다.&nbsp; &nbsp; ● 지도까지 차단 : 구글은 지난달 27일 구글맵에 우크라이나 현지 교통 상황을 실시간으로 보여주는 기능을 일시적으로 차단했다. 로이터 통신은 “해당 정보가 우크라이나 군이나 민간인의 움직임을 (러시아군이) 추측할 수 있는 수단으로 악용될 소지가 있어 임시 차단된 것으로 보인다”고 전했다.&nbsp; 구글과 러시아 국영매체 러시아투데이의 로고.[로이터=연합뉴스] ● 위성 인터넷 동원 : 일론 머스크 테슬라 최고경영자(CEO)는 스타링크(위성인터넷)로 우크라이나 돕기에 나섰다. 미하일로 페도로프 우크라이나 부총리가 인터넷망 지원을 요청하자 머스크는 28일 트위터에 “더 많은 스타링크 단말기가 (우크라이나에) 가는 중”이라고 밝혔다. 이후 페도로프 부총리는 “스타링크가 여기 있다. 감사하다”는 트윗을 남겼다. 머스크가 창업한 우주기업 스페이스X가 만든 스타링크는 지구 저궤도에 소형 위성을 쏘아 올려 인터넷 통신을 제공한다. &nbsp; ● 오프라인으로도 확산 : 온라인 뿐 아니라 오프라인 지원도 이어지고 있다. 에어비앤비는 이날 최대 10만명의 우크라이나 난민에게 무료 단기 숙소를 제공하겠다는 계획을 발표했다. 미국 기업뿐 아니라 유럽의 IT기업도 우크라이나 돕기에 동참 중이다. 우크라이나에 개발 스튜디오를 둔 게임사 유비소프트는 현지 직원 대상으로 러시아 침공에 대비한 대체 주택과 이주 자금을 제공했다. 위쳐 시리즈를 개발한 폴란드 게임사 CD프로젝트레드도 100만 폴란드즈워티(약 2억9000만원)를 우크라이나에 기부했다. &nbsp; &nbsp;━&nbsp; 각국 정부 눈치 보는 빅테크 &nbsp; 빅테크 기업의 움직임은 서방 각국의 요구에 호응하는 측면도 있다. 유럽연합(EU)과 우크라이나는 구글 등에 러시아 정부의 우크라이나 침공에 대한 허위정보 선전을 막아달라고 요청해왔다. 폴란드·에스토니아·리투아니아·라트비아 등 동유럽 국가 총리들은 페이스북·구글·유튜브·트위터 CEO를 대상으로 “입장을 뚜렷이 하라”며 더 강력한 러시아 관련 온라인 플랫폼 제재를 촉구하고 있다.&nbsp; &nbsp; &nbsp;━&nbsp; 러시아도 반격? &nbsp; 러시아는 아직 별다른 대응을 하지 않고 있다. 하지만 자국민의 유튜브나 페이스북 접속 제한 조치를 꺼내 들 가능성도 제기된다. NYT에 따르면 러시아는 최근 구글·메타·트위터 등 13개 기업에 온라인 검열을 강화하기 위해 만든 새로운 법을 준수하라고 압박하고 있다. NYT는 “이는 러시아가 우크라니아 침공에 관해 정보가 유통되는 것을 통제하기 위한 것”이라고 평가했다. 러시아가 자국 언론 검열을 명분으로 해외 플랫폼 이용을 차단함해 우크라이나 관련 정보에 대한 자국민의 접근을 통제할 수 있다는 것이다. 파이낸셜타임스는 “수십억 소비자가 보는 정보의 문지기로서 빅테크 기업들은 (서방과 러시아 사이의) 지정학적 전투의 한가운데에 놓였다”고 평가했다. 배너 클릭 시 구독페이지로 이동합니다. https://www.joongang.co.kr/factpl 이승호 기자 wonderman@joongang.co.kr]]></content:encoded>
+            <content:encoded><![CDATA[오프라인 전장(戰場)에선 외롭지만, 온라인은 다르다. 러시아의 침공에 맞서 싸우는 우크라이나 얘기다. 우크라이나는 북대서양조약기구(NATO) 등의 참전 없이 홀로 전쟁을 치르고 있다. 하지만 온라인 상에선 마이크로소프트(MS), 메타(옛 페이스북), 트위터, 구글 등 미국 대형 기술기업(빅테크)의 전폭적인 지원을 받고 있다.&nbsp; &nbsp; 페이스북과 유튜브, 트위터 로고와 러시아 국기를 합성한 이미지. [로이터=연합뉴스] &nbsp;━&nbsp; 무슨일이야 &nbsp; &nbsp; MS는 지난달 28일(현지시간) 빅테크로선 처음으로 우크라이나 지지를 공식 선언했다. 브래드 스미스 MS 최고법률책임자(CLO) 겸 부회장은&nbsp;공식 블로그를 통해 “MS는 우크라이나에서 벌어진 침략을 주시하고 있다”며 “우크라이나 정부, 미국 정부, 나토(NATO), 유엔 등과 지속적으로 긴밀하게 협력할 것”이라고 밝혔다. &nbsp; 브래드 스미스 마이크로소프트 부회장.[AP=연합뉴스] MS는 지난달 24일 러시아의 우크라이나 침공 때부터 일관되게 우크라이나를 지지했다. 뉴욕타임스(NYT)에 따르면 러시아의 침공 개시 몇 시간 전 MS 위협정보센터(TIC)는 ‘폭스블레이드(FoxBlade)’라는 악성코드가 우크라이나 정부·금융기관에 대해 사이버 공격을 시도한 것을 탐지했다. MS는 곧바로 우크라이나 정부에 관련 정보를 제공했고 미국 정부에도 이를 알렸다. 미 정보기관은 해당 공격이 러시아 정보기관 또는 해커의 소행이라 의심하고 있다. &nbsp; &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; 우크라이나 지원 움직임은 다른 빅테크로 확산 중이다. 페이스북과 인스타그램 모기업인 메타는 지난달 28일 러시아 국영 매체인 러시아투데이(RT)와 스푸트니크 통신사에 대한 접속을 제한한다고 발표했다. RT와 스푸트니크는 그간 러시아 침략 지지 정보들을 확산시키고 가짜뉴스를 퍼뜨리는 데에 이용된다는 지적을 받아왔다. 메타는 또 러시아와 우크라이나에서 독립적 뉴스 매체를 가장해 허위 주장을 퍼뜨려 온 40여개 가짜 계정과 페이지도 삭제했다. 이들은 ‘서방이 우크라이나를 배신했다’, ‘우크라이나가 패망했다’는 내용을 퍼뜨렸다.&nbsp; 앞서 트위터도 플랫폼 조작·스팸 규정을 위반한 러시아 계정 10여개를 정지시켰다. 또 러시아 국영 미디어 웹사이트로 연결되는 트윗에 이를 경고하는 라벨을 붙이기 시작했다. 구글도 RT와 같은 러시아 국영 매체의 자사 웹사이트, 애플리케이션(앱), 유튜브 동영상에 대한 광고 게재를 금지했다. RT 앱의 다운로드도 막았다. &nbsp; &nbsp;━&nbsp; 온라인 선봉에 선 빅테크 &nbsp; 빅테크 기업의 움직임은 단순 선전 차단에 그치지 않고 있다. 각 사가 가진 역량을 최대한 활용하는 모양새다.&nbsp; &nbsp; ● 지도까지 차단 : 구글은 지난달 27일 구글맵에 우크라이나 현지 교통 상황을 실시간으로 보여주는 기능을 일시적으로 차단했다. 로이터 통신은 “해당 정보가 우크라이나 군이나 민간인의 움직임을 (러시아군이) 추측할 수 있는 수단으로 악용될 소지가 있어 임시 차단된 것으로 보인다”고 전했다.&nbsp; 구글과 러시아 국영매체 러시아투데이의 로고.[로이터=연합뉴스] ● 위성 인터넷 동원 : 일론 머스크 테슬라 최고경영자(CEO)는 스타링크(위성인터넷)로 우크라이나 돕기에 나섰다. 미하일로 페도로프 우크라이나 부총리가 인터넷망 지원을 요청하자 머스크는 28일 트위터에 “더 많은 스타링크 단말기가 (우크라이나에) 가는 중”이라고 밝혔다. 이후 페도로프 부총리는 “스타링크가 여기 있다. 감사하다”는 트윗을 남겼다. 머스크가 창업한 우주기업 스페이스X가 만든 스타링크는 지구 저궤도에 소형 위성을 쏘아 올려 인터넷 통신을 제공한다. &nbsp; ● 오프라인으로도 확산 : 온라인 뿐 아니라 오프라인 지원도 이어지고 있다. 에어비앤비는 이날 최대 10만명의 우크라이나 난민에게 무료 단기 숙소를 제공하겠다는 계획을 발표했다. 미국 기업뿐 아니라 유럽의 IT기업도 우크라이나 돕기에 동참 중이다. 우크라이나에 개발 스튜디오를 둔 게임사 유비소프트는 현지 직원 대상으로 러시아 침공에 대비한 대체 주택과 이주 자금을 제공했다. 위쳐 시리즈를 개발한 폴란드 게임사 CD프로젝트레드도 100만 폴란드즈워티(약 2억9000만원)를 우크라이나에 기부했다. &nbsp; &nbsp;━&nbsp; 각국 정부 눈치 보는 빅테크 &nbsp; 빅테크 기업의 움직임은 서방 각국의 요구에 호응하는 측면도 있다. 유럽연합(EU)과 우크라이나는 구글 등에 러시아 정부의 우크라이나 침공에 대한 허위정보 선전을 막아달라고 요청해왔다. 폴란드·에스토니아·리투아니아·라트비아 등 동유럽 국가 총리들은 페이스북·구글·유튜브·트위터 CEO를 대상으로 “입장을 뚜렷이 하라”며 더 강력한 러시아 관련 온라인 플랫폼 제재를 촉구하고 있다.&nbsp; &nbsp; &nbsp;━&nbsp; 러시아도 반격? &nbsp; 러시아는 아직 별다른 대응을 하지 않고 있다. 하지만 자국민의 유튜브나 페이스북 접속 제한 조치를 꺼내 들 가능성도 제기된다. NYT에 따르면 러시아는 최근 구글·메타·트위터 등 13개 기업에 온라인 검열을 강화하기 위해 만든 새로운 법을 준수하라고 압박하고 있다. NYT는 “이는 러시아가 우크라니아 침공에 관해 정보가 유통되는 것을 통제하기 위한 것”이라고 평가했다. 러시아가 자국 언론 검열을 명분으로 해외 플랫폼 이용을 차단함해 우크라이나 관련 정보에 대한 자국민의 접근을 통제할 수 있다는 것이다. 파이낸셜타임스는 “수십억 소비자가 보는 정보의 문지기로서 빅테크 기업들은 (서방과 러시아 사이의) 지정학적 전투의 한가운데에 놓였다”고 평가했다. 배너 클릭 시 구독페이지로 이동합니다. https://www.joongang.co.kr/factpl 이승호 기자 wonderman@joongang.co.kr]]></content:encoded>
             <enclosure url="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202203/01/133c2f73-5fe2-41df-85e1-bb8cbc8eb68b.jpg/_ir_205x115_/" length="0" type="image/jpg/_ir_205x115_/"/>
         </item>
         <item>
