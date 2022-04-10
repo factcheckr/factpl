@@ -2,22 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/factpl/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-10T05:15:25.658Z</updated>
+    <updated>2022-04-10T06:20:00.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩플] 치매 문턱 높일 디지털 치료제 도전, 이모코그 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
+        <id>https://www.joongang.co.kr/article/25062199</id>
+        <link href="https://www.joongang.co.kr/article/25062199"/>
+        <updated>2022-04-10T05:14:44.624Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25062199" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="1">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202204/10/d112d42f-af43-4282-a447-c9259201a84b.jpg/_ir_144x144_/" alt="[팩플] 치매 문턱 높일 디지털 치료제 도전, 이모코그" width="72" height="72">
+</a>
+</figure>
+<div class="card_body">
+<em class="rank_count ico_num1">1</em>
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25062199" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="1">[팩플] 치매 문턱 높일 디지털 치료제 도전, 이모코그</a>
+</h2>
+<div class="meta">
+<p class="date">2022.04.10 14:00</p>
+<button type="button" class="btn_bookmark" data-cid="25062199" data-ctype="A">
+<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+</button>
+</div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩플] "택시 말고도 하는 거 많다" 글로벌 가겠다는 카카오모빌리티 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
         <id>https://www.joongang.co.kr/article/25061839</id>
         <link href="https://www.joongang.co.kr/article/25061839"/>
         <updated>2022-04-08T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25061839" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25061839" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202204/08/318ffd60-d756-4216-99dc-0a988e1eac0b.jpg/_ir_144x144_/" alt="[팩플] &quot;택시 말고도 하는 거 많다&quot; 글로벌 가겠다는 카카오모빌리티" width="72" height="72">
 </a>
 </figure>
 <div class="card_body">
-<em class="rank_count ico_num1">1</em>
+<em class="rank_count ico_num2">2</em>
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25061839" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="1">[팩플] "택시 말고도 하는 거 많다" 글로벌 가겠다는 카카오모빌리티</a>
+<a href="https://www.joongang.co.kr/article/25061839" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">[팩플] "택시 말고도 하는 거 많다" 글로벌 가겠다는 카카오모빌리티</a>
 </h2>
 <div class="meta">
 <p class="date">2022.04.08 05:00</p>
@@ -33,14 +56,14 @@
         <link href="https://www.joongang.co.kr/article/25061248"/>
         <updated>2022-04-06T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25061248" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25061248" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202204/06/7bd40216-deaf-4808-bc38-15f78900890b.jpg/_ir_144x144_/" alt="[팩플] “야, 너두 앱 만들 수 있어” 이젠 노코드 시대 " width="72" height="72">
 </a>
 </figure>
 <div class="card_body">
-<em class="rank_count ico_num2">2</em>
+<em class="rank_count ico_num3">3</em>
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25061248" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="2">[팩플] “야, 너두 앱 만들 수 있어” 이젠 노코드 시대 </a>
+<a href="https://www.joongang.co.kr/article/25061248" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">[팩플] “야, 너두 앱 만들 수 있어” 이젠 노코드 시대 </a>
 </h2>
 <div class="meta">
 <p class="date">2022.04.06 05:00</p>
@@ -56,41 +79,18 @@
         <link href="https://www.joongang.co.kr/article/25060649"/>
         <updated>2022-04-04T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25060649" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25060649" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202204/04/d725fc0a-58ae-4340-87e5-539c4c787858.jpg/_ir_144x144_/" alt="[팩플] “단순 짝퉁논란 아니다” 무신사vs크림이 띄운 ‘검수 커머스’" width="72" height="72">
-</a>
-</figure>
-<div class="card_body">
-<em class="rank_count ico_num3">3</em>
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25060649" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">[팩플] “단순 짝퉁논란 아니다” 무신사vs크림이 띄운 ‘검수 커머스’</a>
-</h2>
-<div class="meta">
-<p class="date">2022.04.04 06:00</p>
-<button type="button" class="btn_bookmark" data-cid="25060649" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩플] 싸이월드ㆍ네이버카페 만든 전설의 기획자, 웹3에 꽂힌 이유 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
-        <id>https://www.joongang.co.kr/article/25060122</id>
-        <link href="https://www.joongang.co.kr/article/25060122"/>
-        <updated>2022-04-01T06:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25060122" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202204/01/d4541f25-58b9-464c-88b8-c79d6646fa59.jpg/_ir_144x144_/" alt="[팩플] 싸이월드ㆍ네이버카페 만든 전설의 기획자, 웹3에 꽂힌 이유" width="72" height="72">
 </a>
 </figure>
 <div class="card_body">
 <em class="rank_count ico_num4">4</em>
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25060122" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">[팩플] 싸이월드ㆍ네이버카페 만든 전설의 기획자, 웹3에 꽂힌 이유</a>
+<a href="https://www.joongang.co.kr/article/25060649" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">[팩플] “단순 짝퉁논란 아니다” 무신사vs크림이 띄운 ‘검수 커머스’</a>
 </h2>
 <div class="meta">
-<p class="date">2022.04.01 06:00</p>
-<button type="button" class="btn_bookmark" data-cid="25060122" data-ctype="A">
+<p class="date">2022.04.04 06:00</p>
+<button type="button" class="btn_bookmark" data-cid="25060649" data-ctype="A">
 <i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
 </button>
 </div>
@@ -187,7 +187,7 @@
         <id>https://www.joongang.co.kr/article/25059241</id>
         <link href="https://www.joongang.co.kr/article/25059241"/>
         <updated>2022-03-29T09:15:07.700Z</updated>
-        <content type="html"><![CDATA[통신3사가 ESG 경영 확산을 목표로 하는 'ESG 펀드' 조성에 함께 나선다. 사진은 지난 28일 서울 성수동 헤이그라운드에서 열린 통신3사 ESG펀드 조성 협약식에서 유영상 SKT 대표(가운데), 황현식 LG유플러스 대표(왼쪽), 박종욱 KT 사장이 기념 촬영하는 모습. [사진 SK텔레콤] 치열하게 경쟁하는 이동통신 3사가 ESG(환경·사회·지배구조)로 뭉쳤다. SK텔레콤·KT·LG유플러스 3사는 KB인베스트먼트와 함께&nbsp; 400억원 규모의 ESG 공동펀드를 만들기로 했다. 탄소중립 등 ESG 분야의 유망 스타트업에 투자하기 위해서다. 국내에서 특정 산업의 대표 기업들이 ESG 펀드 조성을 위해 손을 잡은 것은 이번이 처음. 지난 28일 서울 성동구 헤이그라운드에서 열린 ‘ESG펀드 조성 협약식’에는 유영상 SK텔레콤 대표, 박종욱 KT 사장, 황현식 LG유플러스 대표가 참석해 의지를 다졌다.&nbsp; &nbsp; &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; ● 싸울 땐 싸우더라도 : 이통3사는&nbsp;5세대(5G) 주파수 추가할당 문제를 두고 지난해부터 첨예하게 대립하고 있다. 이런 와중에도 산업계 공통 과제인 ESG 문제 해결을 위해 공동 전선을 꾸렸다. 그만큼 통신사들에도 ESG는 시급한 과제라는 의미. &nbsp; ● ESG 스타트업에 마중물&nbsp;: 최근 수년간 글로벌 기관투자자들은 기업에 친환경·저탄소·공정경제 등을 고려한 ESG 경영을 요구해왔다. 그런데 국내에서 이를 '기술 스타트업에 대한 투자'로 해결하려는 움직임은 일부 소셜임팩트 투자사들이 주도했다. 대기업 중에선 SK텔레콤과 카카오가 지난해 8월 ESG 혁신기업의 성장을 돕기 위해 200억원 규모의 ESG 펀드를 조성한 게 거의 유일했다. 통신3사의 공동펀드가 이 흐름에 올라타면서 ESG 분야 유망 스타트업을 위한 마중물이 더 커졌다.&nbsp; &nbsp; &nbsp;━&nbsp; 통신 3사 왜 움직였나 &nbsp; 통신 분야도 혁신 기술을 통해 문제 해결에 나서야할 상황이다. 특히 전 세계 통신사들이 5G 사용 대역을 넓히면서 에너지 소비가 늘어남에 따라 환경에 대한 고민이 깊어졌다. 이동통신 3사 ● 친환경 통신, 글로벌 트렌드 : 해외 통신사들은 이미 친환경 네트워크 기술을 선보이고 있다. 이달 초 스페인에서 열린 모바일 전시회 MWC 2022에서 에릭슨은 인공지능(AI)을 통한 통신망 관리 방안을 내놨다. 화웨이도 태양열을 활용, 저탄소 무선 네트워크를 구축해 냉각용 전력을 줄이는 솔루션을 공개했다. 노키아는 장비에 발생하는 고열로 물을 데우고 그 물을 회수해 전기로 전환하는 ‘액체 쿨링 솔루션’을 선보였다. &nbsp; ●“일단 판부터 키우자” : 지난해부터 ESG 전담조직을 신설한 통신 3사로선 기술 개발 속도를 높이는 게 급선무다. 한 통신사 관계자는 “ESG 분야에선 독자적으로 경쟁하기보다 힘을 합쳐 투자의 판을 키우는 게 우선이라는 데 3사가 공감했다”며 “공동펀드를 통해 탄소중립과 유망 스타트업 육성 등의 효과를 기대한다”고 말했다. &nbsp; &nbsp;━&nbsp; 향후 운용은 &nbsp; 펀드 운용을 맡은 KB인베스트먼트와 통신 3사는 일단 환경(E)을 중심으로 투자한다. 이후 통신3사는 ESG 펀드와 각사가 운영 중인 스타트업 육성 프로그램을 연결해 사회(S)·지배구조(G)로 투자 분야를 넓힐 계획이다. &nbsp; ● CEO가 직접 참여하는 투자 : 투자가 일회성에 그치지 않고 실질적인 성과를 거둘 수 있도록 자문위원회를 만들어 구체적인 지원 방안을 지속해서 논의한다. 빠른 결정을 위해 자문위원회에는 각사 ESG 담당 임원 외에도 3사 최고경영자(CEO)가 직접 참여할 계획이다.&nbsp; ● 3사의 스타트업 육성 프로그램 : SK텔레콤은 올해 ’ESG 코리아 2022‘ 선발 대회를 통해 ESG 분야 유망 스타트업 15곳을 선발한다. 이후 5월부터 6개월간 스타트업 액셀러레이팅을 진행한다. KT는 사회경제적기업 육성사업으로 ’따뜻한 기술 더하기 챌린지‘ 공모전을 통해 환경·안전 분야 유망 기업을 발굴하고 있다. LG유플러스는 교육격차 해소를 위해 에누마, 호두랩스와 같은 에듀테크 스타트업에 투자를 진행한 바 있다. 이를 통해 향후 유망 스타트업의 기술을 각사의 ICT 사업과 연계할 계획이다. &nbsp; &nbsp; 배너 클릭 시 구독페이지로 이동합니다. https://www.joongang.co.kr/factpl 관련기사[팩플] OK캐시백의 미래는 SK코인?…SK스퀘어의 암호화폐 빅픽처[팩플] KT·CJ ENM의 1000억 혈맹…‘OTT 2등 싸움’ 물밑 계산 분석해보니[팩플] 공은 차기 정부로...'공회전' 끝 무산된 5G 주파수 경매[팩플] ‘3등’의 딴 생각…외부 인재 수혈하는 LG유플러스 ‘황현식 사단’[MWC 2022] ‘남 좋은 일 하겠다’는 KT…구현모 “우린 B2B로 간다”]]></content>
+        <content type="html"><![CDATA[통신3사가 ESG 경영 확산을 목표로 하는 'ESG 펀드' 조성에 함께 나선다. 사진은 지난 28일 서울 성수동 헤이그라운드에서 열린 통신3사 ESG펀드 조성 협약식에서 유영상 SKT 대표(가운데), 황현식 LG유플러스 대표(왼쪽), 박종욱 KT 사장이 기념 촬영하는 모습. [사진 SK텔레콤] 치열하게 경쟁하는 이동통신 3사가 ESG(환경·사회·지배구조)로 뭉쳤다. SK텔레콤·KT·LG유플러스 3사는 KB인베스트먼트와 함께&nbsp; 400억원 규모의 ESG 공동펀드를 만들기로 했다. 탄소중립 등 ESG 분야의 유망 스타트업에 투자하기 위해서다. 국내에서 특정 산업의 대표 기업들이 ESG 펀드 조성을 위해 손을 잡은 것은 이번이 처음. 지난 28일 서울 성동구 헤이그라운드에서 열린 ‘ESG펀드 조성 협약식’에는 유영상 SK텔레콤 대표, 박종욱 KT 사장, 황현식 LG유플러스 대표가 참석해 의지를 다졌다.&nbsp; &nbsp; &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; ● 싸울 땐 싸우더라도 : 이통3사는&nbsp;5세대(5G) 주파수 추가할당 문제를 두고 지난해부터 첨예하게 대립하고 있다. 이런 와중에도 산업계 공통 과제인 ESG 문제 해결을 위해 공동 전선을 꾸렸다. 그만큼 통신사들에도 ESG는 시급한 과제라는 의미. &nbsp; ● ESG 스타트업에 마중물&nbsp;: 최근 수년간 글로벌 기관투자자들은 기업에 친환경·저탄소·공정경제 등을 고려한 ESG 경영을 요구해왔다. 그런데 국내에서 이를 '기술 스타트업에 대한 투자'로 해결하려는 움직임은 일부 소셜임팩트 투자사들이 주도했다. 대기업 중에선 SK텔레콤과 카카오가 지난해 8월 ESG 혁신기업의 성장을 돕기 위해 200억원 규모의 ESG 펀드를 조성한 게 거의 유일했다. 통신3사의 공동펀드가 이 흐름에 올라타면서 ESG 분야 유망 스타트업을 위한 마중물이 더 커졌다.&nbsp; &nbsp; &nbsp;━&nbsp; 통신 3사 왜 움직였나 &nbsp; 통신 분야도 혁신 기술을 통해 문제 해결에 나서야할 상황이다. 특히 전 세계 통신사들이 5G 사용 대역을 넓히면서 에너지 소비가 늘어남에 따라 환경에 대한 고민이 깊어졌다. 이동통신 3사 ● 친환경 통신, 글로벌 트렌드 : 해외 통신사들은 이미 친환경 네트워크 기술을 선보이고 있다. 이달 초 스페인에서 열린 모바일 전시회 MWC 2022에서 에릭슨은 인공지능(AI)을 통한 통신망 관리 방안을 내놨다. 화웨이도 태양열을 활용, 저탄소 무선 네트워크를 구축해 냉각용 전력을 줄이는 솔루션을 공개했다. 노키아는 장비에 발생하는 고열로 물을 데우고 그 물을 회수해 전기로 전환하는 ‘액체 쿨링 솔루션’을 선보였다. &nbsp; ●“일단 판부터 키우자” : 지난해부터 ESG 전담조직을 신설한 통신 3사로선 기술 개발 속도를 높이는 게 급선무다. 한 통신사 관계자는 “ESG 분야에선 독자적으로 경쟁하기보다 힘을 합쳐 투자의 판을 키우는 게 우선이라는 데 3사가 공감했다”며 “공동펀드를 통해 탄소중립과 유망 스타트업 육성 등의 효과를 기대한다”고 말했다. &nbsp; &nbsp;━&nbsp; 향후 운용은 &nbsp; 펀드 운용을 맡은 KB인베스트먼트와 통신 3사는 일단 환경(E)을 중심으로 투자한다. 이후 통신3사는 ESG 펀드와 각사가 운영 중인 스타트업 육성 프로그램을 연결해 사회(S)·지배구조(G)로 투자 분야를 넓힐 계획이다. &nbsp; ● CEO가 직접 참여하는 투자 : 투자가 일회성에 그치지 않고 실질적인 성과를 거둘 수 있도록 자문위원회를 만들어 구체적인 지원 방안을 지속해서 논의한다. 빠른 결정을 위해 자문위원회에는 각사 ESG 담당 임원 외에도 3사 최고경영자(CEO)가 직접 참여할 계획이다.&nbsp; ● 3사의 스타트업 육성 프로그램 : SK텔레콤은 올해 ’ESG 코리아 2022‘ 선발 대회를 통해 ESG 분야 유망 스타트업 15곳을 선발한다. ��후 5월부터 6개월간 스타트업 액셀러레이팅을 진행한다. KT는 사회경제적기업 육성사업으로 ’따뜻한 기술 더하기 챌린지‘ 공모전을 통해 환경·안전 분야 유망 기업을 발굴하고 있다. LG유플러스는 교육격차 해소를 위해 에누마, 호두랩스와 같은 에듀테크 스타트업에 투자를 진행한 바 있다. 이를 통해 향후 유망 스타트업의 기술을 각사의 ICT 사업과 연계할 계획이다. &nbsp; &nbsp; 배너 클릭 시 구독페이지로 이동합니다. https://www.joongang.co.kr/factpl 관련기사[팩플] OK캐시백의 미래는 SK코인?…SK스퀘어의 암호화폐 빅픽처[팩플] KT·CJ ENM의 1000억 혈맹…‘OTT 2등 싸움’ 물밑 계산 분석해보니[팩플] 공은 차기 정부로...'공회전' 끝 무산된 5G 주파수 경매[팩플] ‘3등’의 딴 생각…외부 인재 수혈하는 LG유플러스 ‘황현식 사단’[MWC 2022] ‘남 좋은 일 하겠다’는 KT…구현모 “우린 B2B로 간다”]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[팩플] OK캐시백의 미래는 SK코인?…SK스퀘어의 암호화폐 빅픽처 (중앙일보 팩플 ─ 뉴스)]]></title>
