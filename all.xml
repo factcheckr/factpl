@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/factpl/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-27T21:15:35.434Z</updated>
+    <updated>2022-04-27T23:19:01.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[머스크의 55조 베팅…트위터 품자 테슬라 주가 떨어진 이유 [팩플] (중앙일보 팩플 ─ 많이 본 기사)]]></title>
@@ -51,19 +51,42 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[팩플] “이커머스의 미래는 크리에이터” ‘티몬 의장님’의 창업 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
-        <id>https://www.joongang.co.kr/article/25064206</id>
-        <link href="https://www.joongang.co.kr/article/25064206"/>
-        <updated>2022-04-18T06:00:00.000Z</updated>
+        <title type="html"><![CDATA[[팩플] 찐의 전쟁, 누가 검수완벽을 해낼까 | 풀버전 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
+        <id>https://www.joongang.co.kr/article/25067065</id>
+        <link href="https://www.joongang.co.kr/article/25067065"/>
+        <updated>2022-04-28T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25064206" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202204/18/127932e8-82f1-48f0-ab05-f4b0da564170.jpg/_ir_144x144_/" alt="[팩플] “이커머스의 미래는 크리에이터” ‘티몬 의장님’의 창업" width="72" height="72">
+<a href="https://www.joongang.co.kr/article/25067065" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202204/28/2ca631d0-a8b2-4203-a487-a54b12a4f0f5.jpg/_ir_144x144_/" alt="[팩플] 찐의 전쟁, 누가 검수완벽을 해낼까 | 풀버전" width="72" height="72">
 </a>
 </figure>
 <div class="card_body">
 <em class="rank_count ico_num3">3</em>
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25064206" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">[팩플] “이커머스의 미래는 크리에이터” ‘티몬 의장님’의 창업</a>
+<a href="https://www.joongang.co.kr/article/25067065" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="3">[팩플] 찐의 전쟁, 누가 검수완벽을 해낼까 | 풀버전</a>
+</h2>
+<div class="meta">
+<p class="date">2022.04.28 05:00</p>
+<button type="button" class="btn_bookmark" data-cid="25067065" data-ctype="A">
+<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+</button>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩플] “이커머스의 미래는 크리에이터” ‘티몬 의장님’의 창업 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
+        <id>https://www.joongang.co.kr/article/25064206</id>
+        <link href="https://www.joongang.co.kr/article/25064206"/>
+        <updated>2022-04-18T06:00:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25064206" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">
+<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202204/18/127932e8-82f1-48f0-ab05-f4b0da564170.jpg/_ir_144x144_/" alt="[팩플] “이커머스의 미래는 크리에이터” ‘티몬 의장님’의 창업" width="72" height="72">
+</a>
+</figure>
+<div class="card_body">
+<em class="rank_count ico_num4">4</em>
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25064206" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">[팩플] “이커머스의 미래는 크리에이터” ‘티몬 의장님’의 창업</a>
 </h2>
 <div class="meta">
 <p class="date">2022.04.18 06:00</p>
@@ -79,14 +102,14 @@
         <link href="https://www.joongang.co.kr/article/25066363"/>
         <updated>2022-04-26T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25066363" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25066363" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">
 <img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202204/26/4612c560-cc87-481b-b4bf-784f707441b2.jpg/_ir_144x144_/" alt="&quot;좋아요도, 필터도 싫다&quot;…Z세대가 만든 프랑스SNS '비리얼' [팩플]" width="72" height="72">
 </a>
 </figure>
 <div class="card_body">
-<em class="rank_count ico_num4">4</em>
+<em class="rank_count ico_num5">5</em>
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25066363" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="4">"좋아요도, 필터도 싫다"…Z세대가 만든 프랑스SNS '비리얼' [팩플]</a>
+<a href="https://www.joongang.co.kr/article/25066363" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">"좋아요도, 필터도 싫다"…Z세대가 만든 프랑스SNS '비리얼' [팩플]</a>
 </h2>
 <div class="meta">
 <p class="date">2022.04.26 06:00</p>
@@ -97,27 +120,11 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[팩플] “e스포츠 미래도 웹3.0” 젠지가 코인거래소 손잡은 이유 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
-        <id>https://www.joongang.co.kr/article/25066900</id>
-        <link href="https://www.joongang.co.kr/article/25066900"/>
-        <updated>2022-04-27T09:16:28.055Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25066900" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">
-<img loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202204/27/c4d6cf50-96a4-44e8-b385-1a1dd0f4fc91.jpg/_ir_144x144_/" alt="[팩플] “e스포츠 미래도 웹3.0” 젠지가 코인거래소 손잡은 이유" width="72" height="72">
-</a>
-</figure>
-<div class="card_body">
-<em class="rank_count ico_num5">5</em>
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25066900" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">[팩플] “e스포츠 미래도 웹3.0” 젠지가 코인거래소 손잡은 이유</a>
-</h2>
-<div class="meta">
-<p class="date">2022.04.27 17:28</p>
-<button type="button" class="btn_bookmark" data-cid="25066900" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
-</button>
-</div>
-</div>]]></content>
+        <title type="html"><![CDATA[[팩플] '검수완벽' 플랫폼에 몰린다…가성·가심비 다 찾는 '앰비슈머' (중앙일보 팩플 ─ 뉴스)]]></title>
+        <id>https://www.joongang.co.kr/article/25067066</id>
+        <link href="https://www.joongang.co.kr/article/25067066"/>
+        <updated>2022-04-28T05:00:00.000Z</updated>
+        <content type="html"><![CDATA[리셀 플랫폼이 다루는 카테고리는 여러 산업군으로 확장되고 있다. 사진 스톡엑스 SNS(소셜네트워크)에서 시작된 C2C(개인간 거래) 시장이 커지고 있다. 플랫폼들의 거래 규모가 빠르게 커지는 가운데, 정품 여부를 검증하는 검수 역량이 플랫폼 경쟁력의 핵심 변수로 떠올랐다. 특히 스니커즈 거래 시장서 경쟁하던 네이버 크림과 무신사 간 에센셜 티셔츠 가품 논란 이후, 진짜와 가짜를 구분할 수 있는 기술력에 대한 소비자 관심도 커졌다. &nbsp; &nbsp;━&nbsp; 무슨 일이야 &nbsp; C2C 시장은 가성비를 중시하는 ‘중고 거래(resell)’와 취향에 맞는 고가품을 재거래하며 재테크까지 노리는 ‘리셀(resale)’로 나뉜다. 특히, 그 둘을 모두 추구하는 ‘앰비슈머’(ambivalent consumer)가 C2C 시장의 핵심 소비층이다. 앰비슈머는 평소엔 가성비를 따지다가도, 본인이 중시하는 가치에는 주저 없이 지갑을 여는 이중적 소비자를 뜻한다. 미국 중고의류 플랫폼 스레드업에 따르면 중고와 리셀의 글로벌 시장규모는 지난해 370억 달러에서 2025년 770억 달러로 2배 이상 커질 전망이다. &nbsp; 커지는 중고 &amp; 리셀 시장. 그래픽=김주원 기자 zoom@joongang.co.kr &nbsp; &nbsp; ■ 관련기사👉[팩플] “단순 짝퉁논란 아니다” 무신사vs크림이 띄운 ‘검수 커머스’&nbsp;「 네이버 크림 vs 무신사 가품 논쟁은 단순한 ‘짝퉁 논란’이나 ‘무신사의 문제’로만 볼 게 아니다. ‘플랫폼이 파는 물건, 정품 맞는지 확인했느냐’는 소비자 질문이 시작된 것. 」&nbsp; &nbsp;━&nbsp; 왜 중요해 &nbsp; 최근 벌어진 크림 vs 무신사 가품 논쟁을 계기로, 소비자들은 플랫폼은 거래 중개자 역할 뿐 아니라 정품 보증 역량을 더 눈여겨보기 시작했다. ① 물건 대신 ‘신뢰’ 파는 C2C 플랫폼 : 기업과 소비자간 거래(B2C) 시장에 비해 C2C는 아직 안전 장치가 부족한 편이다. 그나마 중고 거래 플랫폼인 당근마켓과 번개장터는 각각 ‘직거래’와 ‘안전결제’로 신뢰의 문제를 일부 해소하고 있지만, 가품의 역사가 긴 고가의 명품 리셀에는 안 통하는 방식. 특히 리셀은 스니커즈 뿐만 아니라, IT기기, 의류, 아트토이 등 취급 상품의 범주가 확대되는 중. 리셀 플랫폼과 개인 병행수입업자들이 판매자로 참여하는 명품 플랫폼에 검수력이 중요해진 이유다. &nbsp; ② 검수 기술, 플랫폼 경쟁력과 직결 : 플랫폼들도 검수력 확보에 사활을 걸고 있다. 지속 성장하고 사용자 유입을 늘리려면 물건 품질과 관련한 잡음을 없애야 하기 때문. 크림 vs 무신사 가품 논쟁을 두고 업계에서 ‘멸망전’(한쪽이 죽을 때까지 하는 게임)으로 부르는 이유도 그만큼 가품 판매 이력은 검수 신뢰도에 큰 타격을 주기 때문. &nbsp; &nbsp;━&nbsp; 리셀 &amp; 명품, 어떻게 검수하나 &nbsp; 플랫폼마다 검수 방식과 역량에 차이가 있다. 기술 기반으로 정⋅가품 문제를 해결하려는 곳이 있는가 하면 전문가의 육안 확인에 중점을 둔 플랫폼들로 나뉜다. 전반적으로는 기술력을 강화하는 중. &nbsp; 네이버 크림은 “현재 정⋅가품 감정하는 곳 중 최대 규모”라 주장하는 검수 센터를 운영 중이다. 그동안 축적한 데이터를 바탕으로 검수팀이 하는 육안 검사 뿐 UV라이트 검사⋅CT 촬영⋅인공지능(AI) 검수도 병행한다. 실물을 반드시 확인하는 이유에 대해 크림 관계자는 “영수증이나 보증서 등 서류까지 위조한 가품이 활발하게 유통되기 때문”이라고 설명했다. &nbsp; 미국 리셀 플랫폼 스톡엑스의 홍콩 검수센터에서 스니커즈 검수가 이뤄지고 있다. 사진 스톡엑스 &nbsp; 현재 육안 검사만을 하고 있는 플랫폼들도 기술 기반 검수 시스템을 구축 중이다. 사람의 안목이나 경험의 자리를 기술이 대체하고 있는 것. 명품 검수 전문가 인력 풀이 좁은 탓에 이제까지는 검수의 상당 부분을 개별 브랜드를 좋아하는 마니아들이 담당해왔다. 업계 관계자는 “검수를 할 수 있는 인력이 한정적이기 때문에 물밑 인력 쟁탈전도 심한 편”이라고 말했다. &nbsp; 한 차례 홍역을 치른 무신사는 상반기 중 서울에 제2검수센터를 열고 기술 기반 검수 시스템을 준비 중이다. 무신사 관계자는 “구체적인 방식은 정해지지는 않았지만, 기술 기반 검수 시스템을 구축할 예정”이라며 “현재 관련 개발자를 채용하고 있다”고 말했다. &nbsp; &nbsp;━&nbsp; 앞으로는 &nbsp; ‘디지털 인증서’로 꼽히는 NFT(대체불가능토큰)이 가품 논란을 해결할 대안으로 부상하고 있다. 브랜드·유통사·플랫폼 모두 NFT를 주목한다. 일단 브랜드가 1차 제조 단계부터 NFT를 적용하는 게 가장 확실한 정품 인증 방법이다. 또는 유통사가 공식 판매처나 신뢰도 높은 부티크에서 제품을 들여오면서 NFT를 발행할 수도 있다. 이럴 경우 유통 과정의 투명성도 높아진다. SSG닷컴은 지난해 8월부터 NFT 기술을 적용한 명품 디지털 보증서 ‘SSG개런티’를 도입했다. &nbsp; C2C로 인해 물류와 금융에도 새로운 움직임이 나오고 있다. ‘돈 안되는 물류’ 취급 받던 C2C 택배 시장이 커질 수 있다. 리셀 플랫폼에선 제품 하나당 판매자→플랫폼, 플랫폼→구매자로 두 번의 택배 수요가 생기기 때문. 금융 시장도 C2C에 관심이 크다. 블록체인 기술 스타트업 블록오디세이는 올 하반기 출시를 목표로 금융사와 유통 업체들이 참여하는 NFT 인증 시스템을 준비 중이다. 연창학 블록오디세이 대표는 “NFT 인증을 통해 제품의 신뢰성이 담보된다면 진품의 자산 가치를 인정받을 수 있다”며 “검수 역량이 확실한 플랫폼이나 구매자&nbsp;개인에게는 대출 문턱이 낮아지고, 결제도 간소화 되는 등 금융 시장까지 혁신이 이어질 것”이라고 말했다. &nbsp; 👉이 기사는 팩플레터 229호의 요약본입니다. 검수 커머스에 대해 더 자세히 알고 싶으시면 풀버전인 ‘[팩플] 찐의 전쟁, 누가 검수완벽을 해낼까’를 참고해주세요. 배너 클릭 시 구독페이지로 이동합니다. https://www.joongang.co.kr/factpl 김정민 기자 kim.jungmin4@joongang.co.kr, 권유진 기자 kwen.yujin@joongang.co.kr]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[팩플] 故김정주 이어 넥슨 총수된 유정현 측 “매각 가능성 없다” (중앙일보 팩플 ─ 뉴스)]]></title>
@@ -279,13 +286,6 @@
         <link href="https://www.joongang.co.kr/article/25059464"/>
         <updated>2022-03-30T06:00:00.000Z</updated>
         <content type="html"><![CDATA[넥슨은 지난 24일 던전앤파이터 모바일 출시했다. [사진 넥슨] &nbsp; ‘다작왕’ 넥슨은 부활할 수 있을까. 핵심 지식재산(IP)을 활용한 신작 던전앤파이터(던파) 모바일이 초기 흥행에 성공했다.&nbsp; &nbsp;━&nbsp; 무슨 일이야 &nbsp; &nbsp; 30일 넥슨에 따르면 지난 24일 출시한 던파 모바일은 출시 5일 만인 29일 구글 플레이 최고 매출 순위 2위에 이름을 올렸다. 부동의 1위인 엔씨소프트의 리니지W 바로 다음이다. 스테디셀러인 리니지M을 제쳤다. 출시 첫날 이용자는 100만명 이상. 넥슨 관계자는 “넥슨의 기존 모바일 게임 출시 첫날 기록을 모두 뛰어넘을 정도로 반응이 좋다”며 “이용자 수도 꾸준히 늘고 있다”고 말했다. &nbsp; 던파모바일은 출시 5일만인 29일 구글 플레이 매출 순위 2위에 올랐다. [사진 구글플레이 캡처] &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; ● 국내 매출 1위 게임사 넥슨은 지난해 다소 부진했다. 게임사 실적을 좌우하는 신작이 크게 줄었기 때문. 코로나19 이전만 해도 한해 평균 10개 안팎의 신작을 선보여 다작왕으로까지 불렸지만, 지난해에는 2개(코노스바 모바일, 블루 아카이브) 출시에 그쳤다. 지난해 매출은 2조 8530억원으로 전년 대비 6% 줄었다. 던파 모바일은 넥슨의 부진했던 실적을 반등시킬 올해 최대 기대작이다. &nbsp; ● 국내 중견 게임사 한 관계자는 “던파 모바일의 성공 여부에 따라 향후 게임업계 판도가 바뀔 수 있다”며 “엔씨소프트에 리니지가 있다면 넥슨엔 던파가 있다고 할 정도로 중요한 IP”라고 말했다. &nbsp; 네오플이 2005년 출시한 PC용 던전앤파이터 이미지. 당시 유행하던 3D 그래픽 온라인 RPG와 달리 2D 도트 그래픽과 횡스크롤 진행 방식을 전면에 내세웠다. [자료 넥슨] &nbsp;━&nbsp; 9전 10기 통할까 &nbsp; ● 던파는 오늘의 넥슨을 만든 캐시카우 게임. 2005년 네오플이 만들어 국내 출시했고, 넥슨이 2008년 3852억원에 네오플을 인수하면서 넥슨의 IP가 됐다. 고(故) 김정주 넥슨 창업자가 던파를 해본 뒤 지인들에게 ’머리를 한 대 얻어맞은 거 같은 충격을 받았다’고 했다는 일화로도 유명하다. 당시 넥슨은 대출 500억원을 받으면서까지 네오플 인수에 적극적이었다. ● 인기의 원동력은 과거 오락실에서 즐기던 2D(차원) 횡스크롤(화면 좌우로 이동) 게임 조작 방식을 온라인에서 구현한 것. 던파는 2008년 중국에 진출했고 중국 국민게임에 올랐다. 누적 이용자 수 8억 5000만 명, 누적 매출 180억 달러(21조 원)를 기록.&nbsp; ● 하지만 던파 후속작의 성적은 신통치 않았다. 2010년 3월 출시한 ‘던파 귀검사’부터 2017년 ‘던파: 혼’까지 총 9개의 후속작 모두 흥행엔 실패했다. 이번 던파 모바일의 초기 흥행이 더욱 주목받는 이유다. &nbsp; &nbsp; 던전앤파이터 광고모델로 활동했던 가수 아이유가 지난 2014년 던파 업데이트 내용에 대해 소개하고 있다. [사진 유튜브 캡처] &nbsp;━&nbsp; 던파 모바일이 결정할 넥슨의 미래 &nbsp; 넥슨의 미래 전략에도&nbsp;던파 모바일은 큰 영향을 미칠 전망이다. 특히 김정주 창업자가 지난 2월 말 세상을 떠난 뒤 넥슨 지배구조에 일부 변화가 불가피한 만큼 던파 모바일 흥행이 주요 변수로 떠올랐다. &nbsp; ① IP비즈니스→가상세계 : 넥슨은 수년 전부터 IP 비즈니스를 통한 거대한 가상세계 구축을 핵심 경영전략으로 내세워 왔다. 게임을 개발해 양질의 IP를 만들고 이를 영화, 드라마 등 다양한 엔터테인먼트 콘텐트로 확장하고 프랜차이즈화해 향후 3차원 가상세계, 메타버스로 이어간다는 구상이다. 올해 1월에는 미국 로스엔젤레스(LA)에 있는 AGBO 스튜디오에 4억 달러(4794억원)를 전략적 투자하기도 했다. 던파 모바일이 성공한다면 넥슨의 IP비즈니스 확장 전략도 수월해질 수 있다.&nbsp; 오웬 마호니 넥슨 일본 법인 대표는 지난 24일 공개한 주주 서한에서 “가상세계는 빠르게 엔터테인먼트 사업의 중심이 되고 있다”며 “던파 모바일 등의 프로젝트는 거대 가상세계 개발이라는 넥슨의 근본적 목표에 중요한 요소”라고 설명했다. &nbsp; ② 기회의 땅 중국은 언제쯤? : 넥슨은 당초 던파 모바일을 2020년 8월 중국 시장에 출시하려 했다. 사전 등록자만 6000만명이 넘을 정도로 큰 기대를 모았다. 하지만 출시 하루 전 “게임 내 ‘과몰입 방지 시스템’에 대한 업그레이드가 필요하다”는 이유로 연기됐다. 1년 8개월이 지났지만, 여전히 출시일은 미정. 국내 출시된 던파 모바일이 초기 흥행세를 계속 이어간다면 중국 시장 출시 일정도 앞당겨질 수 있다. &nbsp; 넥슨은 최근 던전앤파이터 모바일을 출시했다. [사진 넥슨] ③ 지배구조도 영향&nbsp;: 던파의 흥행 성적은 넥슨 지배구조에도 일부 영향을 미칠 수 있다. 김정주 창업자가 보유했던 모회사 NXC 지분 상속 과정에서 넥슨의 기업가치가 변수가 되기 때문. 김정주 창업자와 가족은 넥슨 모회사 NXC 지분 100%를 가지고 있다. NXC는 '넥슨 재팬'으로도 불리는 넥슨㈜의 지분 47.4%를 보유했고, 그 산하에 넥슨코리아가 있는 구조다.&nbsp;업계 안팎에선 상속세 규모를 6조원 안팎으로 추정하고 있다. 넥슨 기업가치가 오른다면 상속세 규모도 더 늘어날 수 있다. 29일 기준 넥슨의 시가총액은 26조 5053억원이다. &nbsp; 관련기사[팩플] 디즈니 부러워하던 김정주의 상상, 현실이 되나[팩플] 매각설도 나왔던 넥슨에 왜? 디즈니·틱톡 이끈 이 남자 떴다 5600만명 사전예약한 던파 모바일…넥슨, 중국서 8월 출시'바람의 나라' 간 김정주···'한국 디즈니' 꿈꾼 넥슨 창업자 별세2조 현금 쥔 김정주의 넥슨 "글로벌 엔터테인먼트 회사에 투자하겠다" 배너 클릭 시 구독페이지로 이동합니다. https://www.joongang.co.kr/factpl 박민제 기자 letmein@joongang.co.kr]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩플] 경쟁하던 통신3사, 400억 들여 ESG 펀드 띄우는 이유 (중앙일보 팩플 ─ 뉴스)]]></title>
-        <id>https://www.joongang.co.kr/article/25059241</id>
-        <link href="https://www.joongang.co.kr/article/25059241"/>
-        <updated>2022-04-20T08:21:51.394Z</updated>
-        <content type="html"><![CDATA[통신3사가 ESG 경영 확산을 목표로 하는 'ESG 펀드' 조성에 함께 나선다. 사진은 지난 28일 서울 성수동 헤이그라운드에서 열린 통신3사 ESG펀드 조성 협약식에서 유영상 SKT 대표(가운데), 황현식 LG유플러스 대표(왼쪽), 박종욱 KT 사장이 기념 촬영하는 모습. [사진 SK텔레콤] 치열하게 경쟁하는 이동통신 3사가 ESG(환경·사회·지배구조)로 뭉쳤다. SK텔레콤·KT·LG유플러스 3사는 KB인베스트먼트와 함께&nbsp; 400억원 규모의 ESG 공동펀드를 만들기로 했다. 탄소중립 등 ESG 분야의 유망 스타트업에 투자하기 위해서다. 국내에서 특정 산업의 대표 기업들이 ESG 펀드 조성을 위해 손을 잡은 것은 이번이 처음. 지난 28일 서울 성동구 헤이그라운드에서 열린 ‘ESG펀드 조성 협약식’에는 유영상 SK텔레콤 대표, 박종욱 KT 사장, 황현식 LG유플러스 대표가 참석해 의지를 다졌다.&nbsp; &nbsp; &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; ● 싸울 땐 싸우더라도 : 이통3사는&nbsp;5세대(5G) 주파수 추가할당 문제를 두고 지난해부터 첨예하게 대립하고 있다. 이런 와중에도 산업계 공통 과제인 ESG 문제 해결을 위해 공동 전선을 꾸렸다. 그만큼 통신사들에도 ESG는 시급한 과제라는 의미. &nbsp; ● ESG 스타트업에 마중물&nbsp;: 최근 수년간 글로벌 기관투자자들은 기업에 친환경·저탄소·공정경제 등을 고려한 ESG 경영을 요구해왔다. 그런데 국내에서 이를 '기술 스타트업에 대한 투자'로 해결하려는 움직임은 일부 소셜임팩트 투자사들이 주도했다. 대기업 중에선 SK텔레콤과 카카오가 지난해 8월 ESG 혁신기업의 성장을 돕기 위해 200억원 규모의 ESG 펀드를 조성한 게 거의 유일했다. 통신3사의 공동펀드가 이 흐름에 올라타면서 ESG 분야 유망 스타트업을 위한 마중물이 더 커졌다.&nbsp; &nbsp; &nbsp;━&nbsp; 통신 3사 왜 움직였나 &nbsp; 통신 분야도 혁신 기술을 통해 문제 해결에 나서야할 상황이다. 특히 전 세계 통신사들이 5G 사용 대역을 넓히면서 에너지 소비가 늘어남에 따라 환경에 대한 고민이 깊어졌다. 이동통신 3사 ● 친환경 통신, 글로벌 트렌드 : 해외 통신사들은 이미 친환경 네트워크 기술을 선보이고 있다. 이달 초 스페인에서 열린 모바일 전시회 MWC 2022에서 에릭슨은 인공지능(AI)을 통한 통신망 관리 방안을 내놨다. 화웨이도 태양열을 활용, 저탄소 무선 네트워크를 구축해 냉각용 전력을 줄이는 솔루션을 공개했다. 노키아는 장비에 발생하는 고열로 물을 데우고 그 물을 회수해 전기로 전환하는 ‘액체 쿨링 솔루션’을 선보였다. &nbsp; ●“일단 판부터 키우자” : 지난해부터 ESG 전담조직을 신설한 통신 3사로선 기술 개발 속도를 높이는 게 급선무다. 한 통신사 관계자는 “ESG 분야에선 독자적으로 경쟁하기보다 힘을 합쳐 투자의 판을 키우는 게 우선이라는 데 3사가 공감했다”며 “공동펀드를 통해 탄소중립과 유망 스타트업 육성 등의 효과를 기대한다”고 말했다. &nbsp; &nbsp;━&nbsp; 향후 운용은 &nbsp; 펀드 운용을 맡은 KB인베스트먼트와 통신 3사는 일단 환경(E)을 중심으로 투자한다. 이후 통신3사는 ESG 펀드와 각사가 운영 중인 스타트업 육성 프로그램을 연결해 사회(S)·지배구조(G)로 투자 분야를 넓힐 계획이다. &nbsp; ● CEO가 직접 참여하는 투자 : 투자가 일회성에 그치지 않고 실질적인 성과를 거둘 수 있도록 자문위원회를 만들어 구체적인 지원 방안을 지속해서 논의한다. 빠른 결정을 위해 자문위원회에는 각사 ESG 담당 임원 외에도 3사 최고경영자(CEO)가 직접 참여할 계획이다.&nbsp; ● 3사의 스타트업 육성 프로그램 : SK텔레콤은 올해 ’ESG 코리아 2022‘ 선발 대회를 통해 ESG 분야 유망 스타트업 15곳을 선발한다. 이후 5월부터 6개월간 스타트업 액셀러레이팅을 진행한다. KT는 사회경제적기업 육성사업으로 ’따뜻한 기술 더하기 챌린지‘ 공모전을 통해 환경·안전 분야 유망 기업을 발굴하고 있다. LG유플러스는 교육격차 해소를 위해 에누마, 호두랩스와 같은 에듀테크 스타트업에 투자를 진행한 바 있다. 이를 통해 향후 유망 스타트업의 기술을 각사의 ICT 사업과 연계할 계획이다. &nbsp; &nbsp; 배너 클릭 시 구독페이지로 이동합니다. https://www.joongang.co.kr/factpl 관련기사[팩플] OK캐시백의 미래는 SK코인?…SK스퀘어의 암호화폐 빅픽처[팩플] KT·CJ ENM의 1000억 혈맹…‘OTT 2등 싸움’ 물밑 계산 분석해보니[팩플] 공은 차기 정부로...'공회전' 끝 무산된 5G 주파수 경매[팩플] ‘3등’의 딴 생각…외부 인재 수혈하는 LG유플러스 ‘황현식 사단’[MWC 2022] ‘남 좋은 일 하겠다’는 KT…구현모 “우린 B2B로 간다”]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[팩플] 찐의 전쟁, 누가 검수완벽을 해낼까 | 풀버전 (중앙일보 팩플 ─ 팩플레터)]]></title>
