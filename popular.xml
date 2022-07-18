@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.joongang.co.kr/factpl</id>
     <title>중앙일보 팩플 ─ 많이 본 기사</title>
-    <updated>2022-07-18T01:22:16.552Z</updated>
+    <updated>2022-07-18T04:47:53.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://img.joongang.co.kr/pubimg/favicon/favicon-32x32.png</icon>
     <entry>
@@ -22,8 +22,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.07.18 06:00</p>
-<button type="button" class="btn_bookmark" data-cid="25087637" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25087637" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
@@ -45,8 +45,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.07.17 18:20</p>
-<button type="button" class="btn_bookmark" data-cid="25087524" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25087524" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
@@ -68,8 +68,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.07.15 06:00</p>
-<button type="button" class="btn_bookmark" data-cid="25087120" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25087120" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
@@ -91,8 +91,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.07.14 17:58</p>
-<button type="button" class="btn_bookmark" data-cid="25086975" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25086975" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
@@ -114,8 +114,8 @@
 </h2>
 <div class="meta">
 <p class="date">2022.07.15 06:01</p>
-<button type="button" class="btn_bookmark" data-cid="25087124" data-ctype="A">
-<i class="ico_bookmark"></i><span class="visually_hidden">북마크</span>
+<button type="button" class="btn_bookmark" data-cid="25087124" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
 </button>
 </div>
 </div>]]></content>
