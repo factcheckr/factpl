@@ -2,22 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.joongang.co.kr/factpl/news</id>
     <title>중앙일보 팩플 ─ 뉴스</title>
-    <updated>2023-11-19T09:12:02.173Z</updated>
+    <updated>2023-11-19T10:14:13.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://img.joongang.co.kr/pubimg/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩플] 111조짜리 ‘오픈AI’에서 창업자가 쫓겨났다...안전 vs 수익 갈등?]]></title>
+        <id>https://www.joongang.co.kr/article/25208380</id>
+        <link href="https://www.joongang.co.kr/article/25208380"/>
+        <updated>2023-11-19T10:13:30.724Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25208380" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/19/6ef39ce0-943d-4ef9-81e3-f482ec37a57a.jpg/_ir_205x115_/l.jpg" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/19/6ef39ce0-943d-4ef9-81e3-f482ec37a57a.jpg/_ir_205x115_/l.jpg 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/19/6ef39ce0-943d-4ef9-81e3-f482ec37a57a.jpg/_ir_410x230_/l.jpg 2x" alt="[팩플] 111조짜리 ‘오픈AI’에서 창업자가 쫓겨났다...안전 vs 수익 갈등? ">
+</a>
+</figure>
+<div class="card_body">
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25208380" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+[팩플] 111조짜리 ‘오픈AI’에서 창업자가 쫓겨났다...안전 vs 수익 갈등?
+</a>
+</h2>
+<p class="description">
+전 세계를 ‘챗GPT 쇼크’에 빠트린 오픈AI가 창업자인 샘 올트먼 최고경영자(CEO)를 갑자기 해임했다. 이사회의 결정이다. AI 수익화에 가속도를 내고 있던 올트먼과 이를 우려하는 내부 세력 간 갈등이 ‘CEO 축출’ 사건으로 표출된 것이란 분석이 나온다. 기업가치 860억달러(약 111조 5000억원)에 달하는 오픈AI의 혼선이 AI 기술 업계의 지각변동으로 이어질지 주목된다.&nbsp;&nbsp; &nbsp; 지난 16일(현지시간) '아시아태평양경제협력체(APEC) CEO 서밋'에 참여한 샘 올트먼 당시 오픈AI 최고경영자(CEO). 로이터=연합뉴스 &nbsp;━&nbsp; 무슨일이야 &nbsp; 오픈AI는 지난 17일(현지시간) 공식블로그를 통해 “(올트먼의) 의사소통이 일관되고 솔직하지 않아 이사회의 책임 수행 능력을 저해했다”고 밝혔다. 그러나 올트먼의 어떤 점이 문제였는지 구체적인 사실을 밝히지는 않았다. CNBC에 따르면, 브래드 라이트캡 오픈AI 최고운영책임자(COO)는 직원들에게 보낸 메모에서 “불법 행위나 재무, 비즈니스, 보안, 개인정보 문제 때문에 해임된 게 아니다”라고 밝혔다.이사회는 공동창업자인 그렉 브록만도 이사회 의장직에서 물러나도록 했다. 미라 무라티 최고기술책임자(CTO)가 임시 CEO를 맡았다. 무라티는 2018년 오픈AI에 입사해 챗GPT와 이미지 생성 AI 달리 개발을 주도했다. &nbsp; 오픈AI 임시 CEO로 선임된 미라 무라티. AP=연합뉴스 AI 거물에 대한 해임은 갑작스럽게 진행됐다. 당사자인 올트먼은 “살아있는 상태로 내 추도사를 읽고 있는 듯한 경험”이라 X(옛 트위터)에 썼다.&nbsp;그는 지난 6일 오픈AI의 개발자 콘퍼런스를 비롯해, 해임 하루 전인 16일엔 아시아태평양경제협력체(APEC) CEO 서밋에도 참석하며 활발하게 대외활동을 하던 중이었다. 올트먼과 가까운 그렉 브록만 전 이사회 의장도 당혹해하며&nbsp;“샘과 나는 이사회가 한 일을 보고 충격을 받았으며 슬펐다”고 밝혔다.&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;━&nbsp; 왜 쫓겨났나&nbsp; &nbsp; AI 안전성을 주장하는 이들이 올트먼 해임을 밀어 붙였다는 분석에 힘이 실린다. 블룸버그는 “일리야 수츠케버를 중심으로 한 이사회와 올트먼이 생성 AI 개발 속도, 상업화, AI로 인한 피해 등의 문제에 있어 충돌했다”고 보도했다.&nbsp;수츠케버는 오픈AI 수석과학자이자 공동창업자로 AI의 안전을 중시한다. 반면, 올트먼은 ‘AI판 아이폰’ 등 하드웨어 기기를 구상하며 소프트뱅크 등으로부터 투자 유치에 나섰고, 이달말 AI 챗봇 거래장터인 ‘GPT 스토어’ 출시를 예고하며 수익화에도 적극적이었다. 정보기술(IT) 매체 디인포메이션에 따르면 오픈AI 직원들이 “쿠데타 아니냐”고 묻자, 수츠케버는 “그 단어에 동의하진 않지만 그렇게 봐도 된다”며 “비영리 단체로서 (오픈AI의) 사명인 인류에게 도움이 되는 AI를 구축하기 위해 이사회는 의무를 다했다”고 답했다고 한다. &nbsp; &nbsp;━&nbsp; 오픈AI의 독특한 지배구조 &nbsp; 비영리법인인 오픈AI(오픈AI Inc)는 비영리법인이 영리법인 자회사를 통제하는 구조로 운영된다. 우선 이사회의 통제를 받는&nbsp;오픈AI Inc는 자회사인 비영리법인 지주회사를 통해 영리법인 손자회사‘오픈AI 글로벌’을&nbsp;소유하고 통제한다. 마이크로소프트(MS)로부터 100억달러 투자를 유치한 건 영리법인 오픈AI 글로벌이다. 이사회는 ‘인류를 위한 안전하고 유익한 AGI를 만든다’는 목표에 따라 오픈AI 글로벌의 수익을 제한하도록 설계돼 있다.&nbsp;올트먼과 브록만을 해임한 이사회의 구성원은 AI 안전을 우선시 하는 인사들로 알려져 있다. 이사회에 자리가 없는 MS는 올트먼의 해임에 의견을 피력할 수도, 소식을 미리 알 수도 없었다.&nbsp;그렉 브록만이 X에 공개한 내용에 따르면, 올트먼은 구글 화상회의로 소집된 이사회에 하루 전날 참석을 요청받았고, 참석 직후 해임 통보를 받았다고 한다.&nbsp;&nbsp; &nbsp; 차준홍 기자 &nbsp; &nbsp;━&nbsp; 급변하는 AI 장기판 &nbsp; AI 업계 전반이 요동치고 있다. 오픈AI는 공동창업자인 브록먼도 사의를 표명하고, 선임 연구원 3명도 떠나면서 여진이 계속되고 있는 것으로 알려졌다. 올트먼이 돌아갈 가능성도 남아있다. 월스트리트저널(WSJ)는 “MS를 비롯한 오픈AI 투자자들은 올트먼의 복귀를 시도하고 있다”고 보도했다.&nbsp;올트먼이 조건을 걸고 복귀할 경우 이사회 중심 축이 올트먼에 유리한 판으로 바뀔 가능성도 있다.&nbsp; &nbsp; MS에도 불똥이 튀었다. 올트먼이 해임된 17일 MS 주가는 약 1.7% 하락했다. MS는 사티아 나델라 CEO의 명의로 “(오픈AI에 대한) 파트너십을 이어가고, 미라 (CEO) 팀에 대해 계속 헌신할 것”이라고 발표했지만, 블룸버그는 “나델라(MS CEO)가 올트먼 퇴출 소식으로 화가 났다”고 했다. 오픈AI-MS 연합군이 이대로 계속 휘청인다면 AI 경쟁 상황도 바뀔 수 있다. 특히 오픈AI와 ‘인재 쟁탈전’을 벌이고 있는 구글은 시간을 벌 수 있다. &nbsp; 올트먼이 오픈AI과 인연을 끊고 그렉 브록만 등과 다시 창업할 가능성도 있다. 디인포메이션은 “올트먼이 새로운 AI 벤처를 설립하기 위해 노력해왔다”고 보도했다. 실리콘밸리의 벤처캐피털(VC)들은 이미 올트먼의 새 창업에 투자할 의지를 비치고 있다. 세쿼이아캐피털의 알프레드 린 파트너는 자신의 X 계정에 “샘 알트먼과 그렉 브록만이 이끌 ‘세상을 바꿀 기업’을 기대한다”고 말했다.오픈AI의 창업자가 오픈AI의 새로운 적수가 될 수도 있는 셈. &nbsp; 일리야 수츠케버 오픈AI 수석과학자 겸 공동창업자. 로이터=연합뉴스 &nbsp;━&nbsp; 더 알면 좋은 것 &nbsp; 창업자가 자신이 만든 회사에서 내쫓기는 일은 실리콘밸리에서 드문 일은 아니다. 애플의 창업자 스티브 잡스가 1985년 판매 전략을 두고 당시 CEO와 이견을 빚자 이사회로부터 해임됐지만, 1997년 복귀했다. 트위터를 창업한 잭 도시도 2008년 불성실한 근태에 해고됐다가 2015년에 복귀했다. 가장 최근 사례는 위워크 창업자 애덤 뉴먼. 부실 경영, IPO(기업공개) 준비 당시 허위 보고 등을 이유로 이사회의 압박을 받던 그는 2019년 9월 자진 사퇴하며 창업한 회사를 떠났다.
+</p>
+<div class="meta">
+<p class="date">2023.11.19 18:25</p>
+<button type="button" class="btn_bookmark" data-cid="25208380" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩플] 한국서 열리는 '롤드컵' 결승...침체된 e스포츠 반등 시동]]></title>
         <id>https://www.joongang.co.kr/article/25208305</id>
         <link href="https://www.joongang.co.kr/article/25208305"/>
         <updated>2023-11-19T09:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25208305" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25208305" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/19/83e425da-ee7f-496f-b1ab-8f5cda09499c.jpg/_ir_205x115_/l.jpg" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/19/83e425da-ee7f-496f-b1ab-8f5cda09499c.jpg/_ir_205x115_/l.jpg 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/19/83e425da-ee7f-496f-b1ab-8f5cda09499c.jpg/_ir_410x230_/l.jpg 2x" alt="[팩플] 한국서 열리는 '롤드컵' 결승...침체된 e스포츠 반등 시동">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25208305" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25208305" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 [팩플] 한국서 열리는 '롤드컵' 결승...침체된 e스포츠 반등 시동
 </a>
 </h2>
@@ -38,13 +65,13 @@
         <link href="https://www.joongang.co.kr/article/25207998"/>
         <updated>2023-11-17T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25207998" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25207998" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/17/7f0b4387-8b55-4faf-8be0-2313512eec2b.jpg/_ir_205x115_/l.jpg" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/17/7f0b4387-8b55-4faf-8be0-2313512eec2b.jpg/_ir_205x115_/l.jpg 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/17/7f0b4387-8b55-4faf-8be0-2313512eec2b.jpg/_ir_410x230_/l.jpg 2x" alt="엔씨도 '한우물'은 버렸다...장르·플랫폼 다 바꾼 K게임 [지스타2023-팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25207998" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25207998" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 엔씨도 '한우물'은 버렸다...장르·플랫폼 다 바꾼 K게임 [지스타2023-팩플]
 </a>
 </h2>
@@ -65,13 +92,13 @@
         <link href="https://www.joongang.co.kr/article/25207859"/>
         <updated>2023-11-16T09:13:10.795Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25207859" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25207859" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/16/f4da6e42-f604-4bb8-ac06-982a5ed2464c.jpg/_ir_205x115_/l.jpg" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/16/f4da6e42-f604-4bb8-ac06-982a5ed2464c.jpg/_ir_205x115_/l.jpg 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/16/f4da6e42-f604-4bb8-ac06-982a5ed2464c.jpg/_ir_410x230_/l.jpg 2x" alt="[팩플] SK사피온 “성능 4배 개선된 AI 반도체로 글로벌 가겠다”">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25207859" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25207859" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 [팩플] SK사피온 “성능 4배 개선된 AI 반도체로 글로벌 가겠다”
 </a>
 </h2>
@@ -92,13 +119,13 @@ AI 반도체 'X330' 설명하는 류수정 대표 (서울=연합뉴스) 류수�
         <link href="https://www.joongang.co.kr/article/25207660"/>
         <updated>2023-11-16T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25207660" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25207660" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/16/6ed56913-060f-402b-bef7-a7b4c07296ee.jpg/_ir_205x115_/l.jpg" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/16/6ed56913-060f-402b-bef7-a7b4c07296ee.jpg/_ir_205x115_/l.jpg 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/16/6ed56913-060f-402b-bef7-a7b4c07296ee.jpg/_ir_410x230_/l.jpg 2x" alt="'검정고무신'은 왜 법사위 문턱 못넘었나…창작자 보호법 쟁점 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25207660" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25207660" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 '검정고무신'은 왜 법사위 문턱 못넘었나…창작자 보호법 쟁점 [팩플]
 </a>
 </h2>
@@ -119,13 +146,13 @@ AI 반도체 'X330' 설명하는 류수정 대표 (서울=연합뉴스) 류수�
         <link href="https://www.joongang.co.kr/article/25207648"/>
         <updated>2023-11-16T01:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25207648" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25207648" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/16/77b9f55c-122d-4d3f-a26f-e614b1ef6303.jpg/_ir_205x115_/l.jpg" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/16/77b9f55c-122d-4d3f-a26f-e614b1ef6303.jpg/_ir_205x115_/l.jpg 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/16/77b9f55c-122d-4d3f-a26f-e614b1ef6303.jpg/_ir_410x230_/l.jpg 2x" alt="[팩플] MS, 자체 개발 AI 반도체 공개했다…애플 제치고 시총 1위 오르나">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25207648" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25207648" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 [팩플] MS, 자체 개발 AI 반도체 공개했다…애플 제치고 시총 1위 오르나
 </a>
 </h2>
@@ -146,13 +173,13 @@ AI 반도체 'X330' 설명하는 류수정 대표 (서울=연합뉴스) 류수�
         <link href="https://www.joongang.co.kr/article/25207488"/>
         <updated>2023-11-15T08:16:14.771Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25207488" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25207488" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/15/c84fc14d-06fa-4bf7-b440-94b67e733b5c.jpg/_ir_205x115_/l.jpg" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/15/c84fc14d-06fa-4bf7-b440-94b67e733b5c.jpg/_ir_205x115_/l.jpg 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/15/c84fc14d-06fa-4bf7-b440-94b67e733b5c.jpg/_ir_410x230_/l.jpg 2x" alt="[팩플] “배달은 과학” AI 배달 기술 대거 공개한 배민">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25207488" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25207488" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 [팩플] “배달은 과학” AI 배달 기술 대거 공개한 배민
 </a>
 </h2>
@@ -173,13 +200,13 @@ AI 반도체 'X330' 설명하는 류수정 대표 (서울=연합뉴스) 류수�
         <link href="https://www.joongang.co.kr/article/25207449"/>
         <updated>2023-11-15T06:16:40.031Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25207449" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25207449" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/15/d150022f-2352-4c2c-8ea7-2707c85b0117.jpg/_ir_205x115_/l.jpg" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/15/d150022f-2352-4c2c-8ea7-2707c85b0117.jpg/_ir_205x115_/l.jpg 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/15/d150022f-2352-4c2c-8ea7-2707c85b0117.jpg/_ir_410x230_/l.jpg 2x" alt="[팩플] 카카오 준법·신뢰위원회 본격 출범...“카카오 재탄생해야”">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25207449" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25207449" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 [팩플] 카카오 준법·신뢰위원회 본격 출범...“카카오 재탄생해야”
 </a>
 </h2>
@@ -200,13 +227,13 @@ AI 반도체 'X330' 설명하는 류수정 대표 (서울=연합뉴스) 류수�
         <link href="https://www.joongang.co.kr/article/25207357"/>
         <updated>2023-11-15T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25207357" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25207357" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/15/f2223656-1be5-4c02-9e52-3bee1e93f2e0.jpg/_ir_205x115_/l.jpg" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/15/f2223656-1be5-4c02-9e52-3bee1e93f2e0.jpg/_ir_205x115_/l.jpg 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/15/f2223656-1be5-4c02-9e52-3bee1e93f2e0.jpg/_ir_410x230_/l.jpg 2x" alt="'왕의 귀환' 엔씨 신작 7종 들고 왔다…지스타 관전포인트 셋 [팩플] ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25207357" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25207357" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 '왕의 귀환' 엔씨 신작 7종 들고 왔다…지스타 관전포인트 셋 [팩플]
 </a>
 </h2>
@@ -227,13 +254,13 @@ AI 반도체 'X330' 설명하는 류수정 대표 (서울=연합뉴스) 류수�
         <link href="https://www.joongang.co.kr/article/25207074"/>
         <updated>2023-11-14T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25207074" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25207074" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/14/d452cf2f-26d7-468b-8a00-2c76555045d7.jpg/_ir_205x115_/l.jpg" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/14/d452cf2f-26d7-468b-8a00-2c76555045d7.jpg/_ir_205x115_/l.jpg 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/14/d452cf2f-26d7-468b-8a00-2c76555045d7.jpg/_ir_410x230_/l.jpg 2x" alt="왜 토론토인가…구글·엔비디아·삼성 앞다퉈 'AI 연구소' 뒀다 [AI전쟁 시즌2]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25207074" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25207074" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 왜 토론토인가…구글·엔비디아·삼성 앞다퉈 'AI 연구소' 뒀다 [AI전쟁 시즌2]
 </a>
 </h2>
@@ -254,13 +281,13 @@ AI 반도체 'X330' 설명하는 류수정 대표 (서울=연합뉴스) 류수�
         <link href="https://www.joongang.co.kr/article/25207068"/>
         <updated>2023-11-14T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25207068" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25207068" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/14/fca4f8b8-c827-43a3-8e8e-10ade0f63340.jpg/_ir_205x115_/l.jpg" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/14/fca4f8b8-c827-43a3-8e8e-10ade0f63340.jpg/_ir_205x115_/l.jpg 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/14/fca4f8b8-c827-43a3-8e8e-10ade0f63340.jpg/_ir_410x230_/l.jpg 2x" alt="&quot;AI를 변두리 취급한 40년 전부터 투자…캐나다·최고인재 연결&quot; [AI전쟁 시즌2] ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25207068" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25207068" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 "AI를 변두리 취급한 40년 전부터 투자…캐나다·최고인재 연결" [AI전쟁 시즌2]
 </a>
 </h2>
@@ -281,13 +308,13 @@ AI 반도체 'X330' 설명하는 류수정 대표 (서울=연합뉴스) 류수�
         <link href="https://www.joongang.co.kr/article/25207073"/>
         <updated>2023-11-14T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25207073" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25207073" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/14/ca4cbd7b-1dc3-4124-9ab8-158b0f315beb.jpg/_ir_205x115_/l.jpg" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/14/ca4cbd7b-1dc3-4124-9ab8-158b0f315beb.jpg/_ir_205x115_/l.jpg 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/14/ca4cbd7b-1dc3-4124-9ab8-158b0f315beb.jpg/_ir_410x230_/l.jpg 2x" alt="한국에선 'AI 인재' 빠져나간다…&quot;돈 때문? 발상 바꿔달라&quot; [AI전쟁 시즌2]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25207073" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25207073" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 한국에선 'AI 인재' 빠져나간다…"돈 때문? 발상 바꿔달라" [AI전쟁 시즌2]
 </a>
 </h2>
@@ -308,13 +335,13 @@ UAE는 2019년 세계 최초로 AI 전문 대학원 ‘모하메드 빈 자예�
         <link href="https://www.joongang.co.kr/article/25206911"/>
         <updated>2023-11-13T10:14:02.715Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25206911" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25206911" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/13/77c33aa7-609d-4cfc-b2a3-a67cc27466bc.jpg/_ir_205x115_/l.jpg" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/13/77c33aa7-609d-4cfc-b2a3-a67cc27466bc.jpg/_ir_205x115_/l.jpg 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/13/77c33aa7-609d-4cfc-b2a3-a67cc27466bc.jpg/_ir_410x230_/l.jpg 2x" alt="[팩플] 김범수 “원점 재검토”…가맹택시 수수료율 3% 이하 추진">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25206911" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25206911" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 [팩플] 김범수 “원점 재검토”…가맹택시 수수료율 3% 이하 추진
 </a>
 </h2>
@@ -324,33 +351,6 @@ UAE는 2019년 세계 최초로 AI 전문 대학원 ‘모하메드 빈 자예�
 <div class="meta">
 <p class="date">2023.11.13 18:19</p>
 <button type="button" class="btn_bookmark" data-cid="25206911" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기술연마만 하는 '헛똑똑 韓AI'…'AI전쟁 시즌2' 英·獨에 배워라 [AI 전쟁 시즌2]]]></title>
-        <id>https://www.joongang.co.kr/article/25206730</id>
-        <link href="https://www.joongang.co.kr/article/25206730"/>
-        <updated>2023-11-13T05:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25206730" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
-<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/13/08997c03-3650-4b32-b17f-b27115bebd57.jpg/_ir_205x115_/l.jpg" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/13/08997c03-3650-4b32-b17f-b27115bebd57.jpg/_ir_205x115_/l.jpg 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/13/08997c03-3650-4b32-b17f-b27115bebd57.jpg/_ir_410x230_/l.jpg 2x" alt="기술연마만 하는 '헛똑똑 韓AI'…'AI전쟁 시즌2' 英·獨에 배워라 [AI 전쟁 시즌2]">
-</a>
-</figure>
-<div class="card_body">
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25206730" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
-기술연마만 하는 '헛똑똑 韓AI'…'AI전쟁 시즌2' 英·獨에 배워라 [AI 전쟁 시즌2]
-</a>
-</h2>
-<p class="description">
-지난달 19일 영국 런던에 위치한 대영도서관(The British Library) 내부에 위치한 '앨런 튜링 연구소(The Alan Turing Institute)'의 모습. 윤상언 기자 전 세계가 2차 인공지능(AI) 전쟁을 시작했다. AI 기술과 이에 필요한 반도체를 둘러싼 미⋅중의 패권 다툼이 1차 전쟁이라면, 이제는 AI로 산업을 혁신하고 침체된 경제에 활력을 불어 넣으려는 2차전이다. &nbsp; AI 주도 국가인 미국은 AI 기술 격차를 통해 안보와 제조업이란 두마리 토끼를 노린다. 지난 8월 시행한 반도체산업육성법은 그 시작이다. 미국 내 반도체 투자·설비에 세금을 감면하는 이 법으로 2100억 달러(약 272조원)의 민간 투자와 4만4000개의 새 일자리를 만들어냈다. 중국은 자국 내 반도체·AI 기업 간 협업으로 미국의 봉쇄를 뚫는 모양새다. 화웨이는 바이두로부터 800억원 어치 AI 반도체 물량을 수주했고, 민간 AI 기업들은 정부의 묵인하에 개인정보를 광범위하게 수집·활용해 AI 기술을 축적했다. 그 기술로 중국 정부는 교통·제조·의료 등 국가 인프라 전반의 혁신을 노린다. &nbsp; 정근영 디자이너 &nbsp; 한국은 어떤가. AI의 양 날개 중 하나인 반도체는 G2의 기술 전쟁에서 샌드위치 신세가 된지 오래다. 챗GPT 같은 서비스의 기반이 될 거대언어모델(LLM)을 자체 개발한 한국 기업만 6곳(네이버·LG·SKT·KT·카카오·엔씨소프트)이지만, LLM에 수십조 원을 투자하는 미·중 빅테크들 사이에서 언제까지 기술 연마만 할 수도 없는 처지다.&nbsp; &nbsp; 이 가운데 세계 각국은 AI 기술 개발을 넘어, AI로 주력 산업을 혁신하는 데 집중하고 있다. AI와 자국 사업을 유기적으로 연결하는 데서 성장의 기회가 있다고 본 것이다. 독일은 AI를 제조업 혁신과 기후·에너지 문제 해결에 쓴다. 마리오 브란덴부르크 독일 연방교육연구부 차관은 중앙일보에 “독일 경제구조에 맞는 우리의 과제는 제조업을 AI로 혁신하는 것”이라고 말했다.&nbsp; &nbsp; 정근영 디자이너 &nbsp; 독일은 주요 도시 7곳에 AI 연구센터(DFKI)를 뒀다. 각 지역 뿌리 산업을 이끄는 ‘히든챔피언’ 강소 기업들에 기술 지원을 하기 위해서다. ‘유럽의 실리콘밸리’라고 불리는 반도체·제조업 도시 드레스덴은 AI로 제조업을 혁신하고, 물류 도시 도르트문트은 물류 로봇과 AI를 융합하며, 보건 의료산업이 발달한 뮌헨은 헬스케어 AI를 연구하는 식이다. 현재 7곳의 DFKI가 독일 기업과 300개 이상의 AI 프로젝트를 진행 중이다. 클라우스 로베르트 뮐러 베를린대 공대 교수는 지난달 5일 중앙일보와 만나 “기후 위기 상황에서 태양광 등 재생에너지 발전 장치를 어떻게 더 효율화할지를 AI로 풀고자 한다”라고 말했다. 그는 연방 정부가 지원하는 AI연구소인 베를린학습데이터기초연구소장도 맡고 있다. &nbsp; 클라우스 로베르트 뮐러 베를린 공대 교수. 여성국 기자 &nbsp; 글로벌 제약사를 다수 배출한 영국에선 바이오제약 산업에서 AI 응용이 활발하다. 지난달 19일 찾은 케임브리지대 의대 밀너제약연구소에선 글로벌 제약사와 AI를 활용한 공동 연구가 한창이었다. 연구소 산하 AI 연구센터를 이끄는 한남식 교수는&nbsp;“학제간 융합 연구의 뿌리가 깊은 영국의 바이오제약 학계에 AI 기술을 결합해, 인류의 난제를 풀 물질 개발에 속도를 내고 있다”고 말했다. &nbsp; 지난달 19일 영국 케임브리지대 밀너 제약 연구소 내부의 모습. 제약 실험을 할 수 있는 공간뿐만 아니라, AI 기술 연구 등을 할 수 있는 다양한 공간도 갖추고 있다. 사진 윤상언 기자 &nbsp; 영국은 국민들로부터 유전자 정보를 기부받는 ‘바이오뱅크’와 전국민 의료정보 데이터와 AI 기술의 접목도 노린다. 앨런 튜링 연구소의 사이먼 리브 혁신디렉터는 “AI 기술 발전에도 영국만의 강점을 살리는 데에 집중한다”며 “연구소는 AI와 각 산업을 잇는 일종의 외교관 역할을 한다”고 설명했다. 영국은 또 경제의 80.5%를 차지하는 서비스업, 특히 법률·금융 같은 지식서비스 산업에서 AI를 접목하고 있다. 최근 인간 변호사의 개입 없이 계약서 검토부터 협상, 계약 완료까지 할 수 있는 세계 최초의 법률 보조 AI도 영국에서 나왔다. 케임브리지대 수학자들이 창업한 스타트업 루미넌스가 지난 7일 공개한 ‘AI 오토파일럿’이다. 정근영 디자이너 &nbsp; 한국도 AI 개발은 물론, 핵심 산업에 활용해야 한다는 지적이 나온다. 통계청에 따르면, 지난해 한국의 국내총생산(GDP) 중 제조업 비중은 28%로 전통 제조 강국인 독일(18.5%), 일본(20.5%)보다도 높다. 제조업의 노동 생산성을 그동안 로봇 자동화와 IT 기술을 활용해 꾸준히 끌어올린 데 이어 생성 AI와 디지털트윈 같은 최신 AI 기술로 산업 경쟁력을 올려야 한다. 특히 경제협력개발기구(OECD) 36개국 중 27위로 낮은 편인 서비스업 노동생산성 개선에 AI의 잠재력이 크다.&nbsp; 정근영 디자이너 &nbsp; 이정동 서울대 공대 교수는 “국내 배터리·반도체 등 대기업은 이미 AI를 쓰고 있지만, 중소기업을 위한 AI는 국가가 지원해야 한다”라고 말했다.&nbsp;장병탁 서울대 AI 연구원장은 “독일은 AI 기술 고도화에 매몰되지 않고 산업용 AI를 도입해 자국 기반 산업을 혁신하고 있는데, 한국도 제조업에 AI를 활용할 전략이 필요하다”라고 말했다. &nbsp; 이를 위해서는 AI 교육부터 달라져야 한다. 이정동 교수는 “한국은 각 산업과 AI 전문가 사이 사일로(장벽)가 높은 편”이라며 “AI를 독립 학문처럼 다뤄서는 산업 현장에 AI 역량이 스며들기 어렵고, AI와 데이터 기반으로 사고할 수 있게끔 학부에서부터 학과 간 장벽을 허물어야 한다”라고 조언했다. &nbsp; ※본 기사는 정부광고 수수료로 조성된 언론진흥기금의 지원을 받아 제작되었습니다. 새너제이(미국)=심서현, 베를린(독일)=여성국, 런던(영국)=윤상언 기자 shshim@joongang.co.kr
-</p>
-<div class="meta">
-<p class="date">2023.11.13 05:00</p>
-<button type="button" class="btn_bookmark" data-cid="25206730" data-ctype="A" aria-label="북마크">
 <i class="ico_bookmark"></i>
 </button>
 </div>
@@ -384,18 +384,45 @@ AI 규제, 미·영·EU 3파전…"한국,글로벌 주도권 확보 나서야" 
 </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[기술연마만 하는 '헛똑똑 韓AI'…'AI전쟁 시즌2' 英·獨에 배워라 [AI 전쟁 시즌2]]]></title>
+        <id>https://www.joongang.co.kr/article/25206730</id>
+        <link href="https://www.joongang.co.kr/article/25206730"/>
+        <updated>2023-11-13T05:00:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25206730" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/13/08997c03-3650-4b32-b17f-b27115bebd57.jpg/_ir_205x115_/l.jpg" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/13/08997c03-3650-4b32-b17f-b27115bebd57.jpg/_ir_205x115_/l.jpg 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/13/08997c03-3650-4b32-b17f-b27115bebd57.jpg/_ir_410x230_/l.jpg 2x" alt="기술연마만 하는 '헛똑똑 韓AI'…'AI전쟁 시즌2' 英·獨에 배워라 [AI 전쟁 시즌2]">
+</a>
+</figure>
+<div class="card_body">
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25206730" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+기술연마만 하는 '헛똑똑 韓AI'…'AI전쟁 시즌2' 英·獨에 배워라 [AI 전쟁 시즌2]
+</a>
+</h2>
+<p class="description">
+지난달 19일 영국 런던에 위치한 대영도서관(The British Library) 내부에 위치한 '앨런 튜링 연구소(The Alan Turing Institute)'의 모습. 윤상언 기자 전 세계가 2차 인공지능(AI) 전쟁을 시작했다. AI 기술과 이에 필요한 반도체를 둘러싼 미⋅중의 패권 다툼이 1차 전쟁이라면, 이제는 AI로 산업을 혁신하고 침체된 경제에 활력을 불어 넣으려는 2차전이다. &nbsp; AI 주도 국가인 미국은 AI 기술 격차를 통해 안보와 제조업이란 두마리 토끼를 노린다. 지난 8월 시행한 반도체산업육성법은 그 시작이다. 미국 내 반도체 투자·설비에 세금을 감면하는 이 법으로 2100억 달러(약 272조원)의 민간 투자와 4만4000개의 새 일자리를 만들어냈다. 중국은 자국 내 반도체·AI 기업 간 협업으로 미국의 봉쇄를 뚫는 모양새다. 화웨이는 바이두로부터 800억원 어치 AI 반도체 물량을 수주했고, 민간 AI 기업들은 정부의 묵인하에 개인정보를 광범위하게 수집·활용해 AI 기술을 축적했다. 그 기술로 중국 정부는 교통·제조·의료 등 국가 인프라 전반의 혁신을 노린다. &nbsp; 정근영 디자이너 &nbsp; 한국은 어떤가. AI의 양 날개 중 하나인 반도체는 G2의 기술 전쟁에서 샌드위치 신세가 된지 오래다. 챗GPT 같은 서비스의 기반이 될 거대언어모델(LLM)을 자체 개발한 한국 기업만 6곳(네이버·LG·SKT·KT·카카오·엔씨소프트)이지만, LLM에 수십조 원을 투자하는 미·중 빅테크들 사이에서 언제까지 기술 연마만 할 수도 없는 처지다.&nbsp; &nbsp; 이 가운데 세계 각국은 AI 기술 개발을 넘어, AI로 주력 산업을 혁신하는 데 집중하고 있다. AI와 자국 사업을 유기적으로 연결하는 데서 성장의 기회가 있다고 본 것이다. 독일은 AI를 제조업 혁신과 기후·에너지 문제 해결에 쓴다. 마리오 브란덴부르크 독일 연방교육연구부 차관은 중앙일보에 “독일 경제구조에 맞는 우리의 과제는 제조업을 AI로 혁신하는 것”이라고 말했다.&nbsp; &nbsp; 정근영 디자이너 &nbsp; 독일은 주요 도시 7곳에 AI 연구센터(DFKI)를 뒀다. 각 지역 뿌리 산업을 이끄는 ‘히든챔피언’ 강소 기업들에 기술 지원을 하기 위해서다. ‘유럽의 실리콘밸리’라고 불리는 반도체·제조업 도시 드레스덴은 AI로 제조업을 혁신하고, 물류 도시 도르트문트은 물류 로봇과 AI를 융합하며, 보건 의료산업이 발달한 뮌헨은 헬스케어 AI를 연구하는 식이다. 현재 7곳의 DFKI가 독일 기업과 300개 이상의 AI 프로젝트를 진행 중이다. 클라우스 로베르트 뮐러 베를린대 공대 교수는 지난달 5일 중앙일보와 만나 “기후 위기 상황에서 태양광 등 재생에너지 발전 장치를 어떻게 더 효율화할지를 AI로 풀고자 한다”라고 말했다. 그는 연방 정부가 지원하는 AI연구소인 베를린학습데이터기초연구소장도 맡고 있다. &nbsp; 클라우스 로베르트 뮐러 베를린 공대 교수. 여성국 기자 &nbsp; 글로벌 제약사를 다수 배출한 영국에선 바이오제약 산업에서 AI 응용이 활발하다. 지난달 19일 찾은 케임브리지대 의대 밀너제약연구소에선 글로벌 제약사와 AI를 활용한 공동 연구가 한창이었다. 연구소 산하 AI 연구센터를 이끄는 한남식 교수는&nbsp;“학제간 융합 연구의 뿌리가 깊은 영국의 바이오제약 학계에 AI 기술을 결합해, 인류의 난제를 풀 물질 개발에 속도를 내고 있다”고 말했다. &nbsp; 지난달 19일 영국 케임브리지대 밀너 제약 연구소 내부의 모습. 제약 실험을 할 수 있는 공간뿐만 아니라, AI 기술 연구 등을 할 수 있는 다양한 공간도 갖추고 있다. 사진 윤상언 기자 &nbsp; 영국은 국민들로부터 유전자 정보를 기부받는 ‘바이오뱅크’와 전국민 의료정보 데이터와 AI 기술의 접목도 노린다. 앨런 튜링 연구소의 사이먼 리브 혁신디렉터는 “AI 기술 발전에도 영국만의 강점을 살리는 데에 집중한다”며 “연구소는 AI와 각 산업을 잇는 일종의 외교관 역할을 한다”고 설명했다. 영국은 또 경제의 80.5%를 차지하는 서비스업, 특히 법률·금융 같은 지식서비스 산업에서 AI를 접목하고 있다. 최근 인간 변호사의 개입 없이 계약서 검토부터 협상, 계약 완료까지 할 수 있는 세계 최초의 법률 보조 AI도 영국에서 나왔다. 케임브리지대 수학자들이 창업한 스타트업 루미넌스가 지난 7일 공개한 ‘AI 오토파일럿’이다. 정근영 디자이너 &nbsp; 한국도 AI 개발은 물론, 핵심 산업에 활용해야 한다는 지적이 나온다. 통계청에 따르면, 지난해 한국의 국내총생산(GDP) 중 제조업 비중은 28%로 전통 제조 강국인 독일(18.5%), 일본(20.5%)보다도 높다. 제조업의 노동 생산성을 그동안 로봇 자동화와 IT 기술을 활용해 꾸준히 끌어올린 데 이어 생성 AI와 디지털트윈 같은 최신 AI 기술로 산업 경쟁력을 올려야 한다. 특히 경제협력개발기구(OECD) 36개국 중 27위로 낮은 편인 서비스업 노동생산성 개선에 AI의 잠재력이 크다.&nbsp; 정근영 디자이너 &nbsp; 이정동 서울대 공대 교수는 “국내 배터리·반도체 등 대기업은 이미 AI를 쓰고 있지만, 중소기업을 위한 AI는 국가가 지원해야 한다”라고 말했다.&nbsp;장병탁 서울대 AI 연구원장은 “독일은 AI 기술 고도화에 매몰되지 않고 산업용 AI를 도입해 자국 기반 산업을 혁신하고 있는데, 한국도 제조업에 AI를 활용할 전략이 필요하다”라고 말했다. &nbsp; 이를 위해서는 AI 교육부터 달라져야 한다. 이정동 교수는 “한국은 각 산업과 AI 전문가 사이 사일로(장벽)가 높은 편”이라며 “AI를 독립 학문처럼 다뤄서는 산업 현장에 AI 역량이 스며들기 어렵고, AI와 데이터 기반으로 사고할 수 있게끔 학부에서부터 학과 간 장벽을 허물어야 한다”라고 조언했다. &nbsp; ※본 기사는 정부광고 수수료로 조성된 언론진흥기금의 지원을 받아 제작되었습니다. 새너제이(미국)=심서현, 베를린(독일)=여성국, 런던(영국)=윤상언 기자 shshim@joongang.co.kr
+</p>
+<div class="meta">
+<p class="date">2023.11.13 05:00</p>
+<button type="button" class="btn_bookmark" data-cid="25206730" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[美, AI반도체 자국 생산…中 'AI 세계1위' 1807조 프로젝트 시동 [AI전쟁 시즌2]]]></title>
         <id>https://www.joongang.co.kr/article/25206733</id>
         <link href="https://www.joongang.co.kr/article/25206733"/>
         <updated>2023-11-13T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25206733" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25206733" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/13/e6b07935-a94a-4f9b-81af-9fa2d5857be8.jpg/_ir_205x115_/l.jpg" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/13/e6b07935-a94a-4f9b-81af-9fa2d5857be8.jpg/_ir_205x115_/l.jpg 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/13/e6b07935-a94a-4f9b-81af-9fa2d5857be8.jpg/_ir_410x230_/l.jpg 2x" alt="美, AI반도체 자국 생산…中 'AI 세계1위' 1807조 프로젝트 시동 [AI전쟁 시즌2]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25206733" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25206733" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 美, AI반도체 자국 생산…中 'AI 세계1위' 1807조 프로젝트 시동 [AI전쟁 시즌2]
 </a>
 </h2>
@@ -416,13 +443,13 @@ AI 규제, 미·영·EU 3파전…"한국,글로벌 주도권 확보 나서야" 
         <link href="https://www.joongang.co.kr/article/25206295"/>
         <updated>2023-11-10T11:31:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25206295" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25206295" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/10/cb3b4aa6-547d-4127-936f-26f5395a429d.jpg/_ir_205x115_/l.jpg" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/10/cb3b4aa6-547d-4127-936f-26f5395a429d.jpg/_ir_205x115_/l.jpg 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/10/cb3b4aa6-547d-4127-936f-26f5395a429d.jpg/_ir_410x230_/l.jpg 2x" alt="[팩플] 넥슨코리아 신임 공동대표에 김정욱 CCO, 강대현 COO 내정 ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25206295" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25206295" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 [팩플] 넥슨코리아 신임 공동대표에 김정욱 CCO, 강대현 COO 내정
 </a>
 </h2>
@@ -443,13 +470,13 @@ AI 규제, 미·영·EU 3파전…"한국,글로벌 주도권 확보 나서야" 
         <link href="https://www.joongang.co.kr/article/25206071"/>
         <updated>2023-11-09T08:15:44.517Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25206071" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25206071" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/09/23a12b86-20bc-4ef1-a50f-874df4c10811.jpg/_ir_205x115_/l.jpg" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/09/23a12b86-20bc-4ef1-a50f-874df4c10811.jpg/_ir_205x115_/l.jpg 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/09/23a12b86-20bc-4ef1-a50f-874df4c10811.jpg/_ir_410x230_/l.jpg 2x" alt="&quot;죄송합니다&quot; 카카오 최대매출에도 겹악재…AI 경쟁도 뒤처졌다 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25206071" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25206071" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 "죄송합니다" 카카오 최대매출에도 겹악재…AI 경쟁도 뒤처졌다 [팩플]
 </a>
 </h2>
@@ -470,13 +497,13 @@ AI 규제, 미·영·EU 3파전…"한국,글로벌 주도권 확보 나서야" 
         <link href="https://www.joongang.co.kr/article/25206051"/>
         <updated>2023-11-09T07:12:20.642Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25206051" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25206051" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/09/addc7f1d-5b6a-42bc-b65a-69e2a56ac6fd.jpg/_ir_205x115_/l.jpg" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/09/addc7f1d-5b6a-42bc-b65a-69e2a56ac6fd.jpg/_ir_205x115_/l.jpg 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/09/addc7f1d-5b6a-42bc-b65a-69e2a56ac6fd.jpg/_ir_410x230_/l.jpg 2x" alt="영업익 89% 줄어든 엔씨, 신작 내놓는다…돈 풀어 M&amp;A도 추진 [팩플] ">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25206051" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25206051" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 영업익 89% 줄어든 엔씨, 신작 내놓는다…돈 풀어 M&amp;A도 추진 [팩플]
 </a>
 </h2>
@@ -497,13 +524,13 @@ AI 규제, 미·영·EU 3파전…"한국,글로벌 주도권 확보 나서야" 
         <link href="https://www.joongang.co.kr/article/25205790"/>
         <updated>2023-11-08T09:12:22.850Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25205790" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25205790" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/08/df0e7c76-9d37-4e38-88bd-2a27870e028d.jpg/_ir_205x115_/l.jpg" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/08/df0e7c76-9d37-4e38-88bd-2a27870e028d.jpg/_ir_205x115_/l.jpg 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/08/df0e7c76-9d37-4e38-88bd-2a27870e028d.jpg/_ir_410x230_/l.jpg 2x" alt="[팩플] 정부, 또 다시 통신비에 칼 댄다…3만원대 5G요금제·중저가 단말기 출시">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25205790" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25205790" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 [팩플] 정부, 또 다시 통신비에 칼 댄다…3만원대 5G요금제·중저가 단말기 출시
 </a>
 </h2>
@@ -524,13 +551,13 @@ AI 규제, 미·영·EU 3파전…"한국,글로벌 주도권 확보 나서야" 
         <link href="https://www.joongang.co.kr/article/25205594"/>
         <updated>2023-11-08T05:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25205594" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25205594" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/08/c4b856fa-9215-416a-b677-0fae9eb7ec5f.jpg/_ir_205x115_/l.jpg" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/08/c4b856fa-9215-416a-b677-0fae9eb7ec5f.jpg/_ir_205x115_/l.jpg 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/08/c4b856fa-9215-416a-b677-0fae9eb7ec5f.jpg/_ir_410x230_/l.jpg 2x" alt="테크기업? 단순 부동산 임대였다…'62조원 가치' 위워크 몰락 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25205594" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25205594" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 테크기업? 단순 부동산 임대였다…'62조원 가치' 위워크 몰락 [팩플]
 </a>
 </h2>
@@ -551,13 +578,13 @@ AI 규제, 미·영·EU 3파전…"한국,글로벌 주도권 확보 나서야" 
         <link href="https://www.joongang.co.kr/article/25205398"/>
         <updated>2023-11-07T08:15:44.050Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25205398" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25205398" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/07/354def9f-ef63-4de8-8a96-4ab552ddf94d.jpg/_ir_205x115_/l.jpg" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/07/354def9f-ef63-4de8-8a96-4ab552ddf94d.jpg/_ir_205x115_/l.jpg 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/07/354def9f-ef63-4de8-8a96-4ab552ddf94d.jpg/_ir_410x230_/l.jpg 2x" alt="[팩플] 생성 AI ‘유통’ 플랫폼 내놓는 오픈AI, 빅테크와 겨룬다">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25205398" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25205398" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 [팩플] 생성 AI ‘유통’ 플랫폼 내놓는 오픈AI, 빅테크와 겨룬다
 </a>
 </h2>
@@ -578,13 +605,13 @@ AI 규제, 미·영·EU 3파전…"한국,글로벌 주도권 확보 나서야" 
         <link href="https://www.joongang.co.kr/article/25205134"/>
         <updated>2023-11-06T10:14:42.661Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25205134" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25205134" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/06/838110eb-48c4-4790-903b-e3de7141b136.jpg/_ir_205x115_/l.jpg" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/06/838110eb-48c4-4790-903b-e3de7141b136.jpg/_ir_205x115_/l.jpg 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/06/838110eb-48c4-4790-903b-e3de7141b136.jpg/_ir_410x230_/l.jpg 2x" alt="[팩플] 카카오 김범수, 위기관리 전면에…경영 복귀 선언">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25205134" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25205134" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 [팩플] 카카오 김범수, 위기관리 전면에…경영 복귀 선언
 </a>
 </h2>
@@ -605,13 +632,13 @@ AI 규제, 미·영·EU 3파전…"한국,글로벌 주도권 확보 나서야" 
         <link href="https://www.joongang.co.kr/article/25204968"/>
         <updated>2023-11-06T05:01:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25204968" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25204968" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/06/b43d619b-2d77-481d-a59c-157681f2eb98.jpg/_ir_205x115_/l.jpg" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/06/b43d619b-2d77-481d-a59c-157681f2eb98.jpg/_ir_205x115_/l.jpg 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/06/b43d619b-2d77-481d-a59c-157681f2eb98.jpg/_ir_410x230_/l.jpg 2x" alt="[단독] SKT發 ‘아이폰 통화녹음’ 통신3사 확대? LG U+도 개발 | 팩플">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25204968" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25204968" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 [단독] SKT發 ‘아이폰 통화녹음’ 통신3사 확대? LG U+도 개발 | 팩플
 </a>
 </h2>
@@ -621,33 +648,6 @@ AI 규제, 미·영·EU 3파전…"한국,글로벌 주도권 확보 나서야" 
 <div class="meta">
 <p class="date">2023.11.06 05:01</p>
 <button type="button" class="btn_bookmark" data-cid="25204968" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩플] 카카오 김범수 “뼈 깎는 노력할 것”…감시기구 수장은 김소영 전 대법관]]></title>
-        <id>https://www.joongang.co.kr/article/25204598</id>
-        <link href="https://www.joongang.co.kr/article/25204598"/>
-        <updated>2023-11-03T10:13:16.218Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25204598" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/03/56a78af2-2d5f-446c-a376-4407e7ec901c.jpg/_ir_205x115_/l.jpg" srcset="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/03/56a78af2-2d5f-446c-a376-4407e7ec901c.jpg/_ir_205x115_/l.jpg 1x, https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202311/03/56a78af2-2d5f-446c-a376-4407e7ec901c.jpg/_ir_410x230_/l.jpg 2x" alt="[팩플] 카카오 김범수 “뼈 깎는 노력할 것”…감시기구 수장은 김소영 전 대법관">
-</a>
-</figure>
-<div class="card_body">
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25204598" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-[팩플] 카카오 김범수 “뼈 깎는 노력할 것”…감시기구 수장은 김소영 전 대법관
-</a>
-</h2>
-<p class="description">
-SM엔터테인먼트 시세 조종 의혹으로 위기를 맞은 카카오가 준법·윤리경영을 감시할 외부 기구를 연내 출범한다. 초대 위원장으로는 김소영 전 대법관을 위촉했다. &nbsp; 김범수 카카오 창업자 겸 미래이니셔티브센터장이 지난달 23일 SM엔터테인먼트 주가 시세조종 의혹과 관련한 조사를 받기 위해 서울 여의도 금융감독원으로 출석하고 있다. 뉴스1 &nbsp;━&nbsp; 무슨 일이야 &nbsp; 3일 카카오는 준법‧윤리경영 감시 기구인 ‘준법과 신뢰 위원회’를 연내 출범하겠다고 밝혔다. 이른 시일 내로 위원회에 외부 인사를 추가 영입해 조직을 꾸릴 방침이다. &nbsp; 앞서 나흘 전인 지난달 30일 김범수 창업자는 ‘공동체 경영 회의’를 열고, 각 계열사의 준법 경영 실태를 점검하는 기구를 마련하겠다고 밝혔다. SM엔터 경영권 인수 과정에서 시세 조종 의혹을 받고, 김 창업자에 대한 구속 가능성까지 제기되자 이뤄진 특단의 조치다. 금융감독원 자본시장특별사법경찰(특사경)은 지난달 26일 SM엔터 시세 조종 혐의를 받는 카카오와 카카오엔터 경영진과 두 법인을 자본시장법 위반 혐의로 검찰에 송치했다. 금감원은 김 창업자에 대해서도 추가 송치를 예고했다. &nbsp; 김소영 위원장은 “과거 사안에 대한 조사와 검토를 포함해 위원회의 독립적 권한을 인정하고 전사 차원의 지원을 다하겠다는 김범수 센터장의 각오를 들은 후 위원장직을 수락하게 됐다”며 “위원회가 그 명칭대로 준법과 신뢰, 양 측면에서 독립된 전문가 조직으로서의 감독 및 견제 역할을 다 하도록 최선의 노력을 다하겠다”고 했다. &nbsp; 김 창업자는 “처음부터 끝까지 철저히 빠르게 점검하고 국민의 눈높이에 맞는 경영시스템을 갖출 때까지 뼈를 깎는 노력을 다할 것”이라며 “나부터 준법과 신뢰위원회 결정을 존중할 것이며 그렇지 않은 계열사들의 행동이나 사업에 대해서는 대주주로서 할 수 있는 최대한의 책임을 묻겠다”고 강조했다. &nbsp; &nbsp;━&nbsp; 준법위, 무엇을 하나 &nbsp; 준법과 신뢰 위원회는 삼성전자가 2020년 만든 독립기구 ‘삼성 준법감시위원회’와 유사한 기능을 할 것으로 보인다. 위원회는 시민사회, 학계 등 외부 전문가들로 구성돼 있다. &nbsp; 카카오에 따르면 위원회는 운영 규정에 따라 카카오 관계사의 주요 위험 요인을 선정하고, 준법 감시 시스템을 구축·운영하는 단계에서부터 관여한다. 또 과도한 관계사 상장, 공정거래법 위반, 시장 독과점, 이용자 이익 저해, 최고경영진의 준법 의무 위반 등 카카오가 사회적으로 지적받아온 여러 문제들에 대한 관리 감독과 능동적 조사 권한을 갖는다. &nbsp; 카카오 측은 “위원회는 개별 관계사의 준법감시 및 내부통제 체계를 일신할 수 있는 강력한 집행기구 역할을 하게 되며, 추가 외부 인사 영입 등 조직을 갖춰 연내 공식 출범해 본격적인 활동을 시작할 계획이다”고 했다. &nbsp; &nbsp;━&nbsp; 앞으로는 &nbsp; 카카오가 경영 쇄신으로 현재의 위기에서 탈출을 할 수 있을지 여부가 주목되고 있다. 카카오는 시세조종 의혹으로 인한 사법리스크가 증폭된 데 이어 최근 자회사인 카카오모빌리티까지 윤석열 대통령이 작심 비판한 상황이다. 지난 1일 윤 대통령은 비상경제민생회의에서 “카카오의 택시에 대한 횡포는 매우 부도덕하다”고 정면 비판했다. &nbsp; &nbsp;━&nbsp; 김소영 위원장은 누구 &nbsp; 김소영 전 대법관. 연합뉴스 김 위원장은 서울대 법대 출신으로 1987년 제29회 사법시험을 수석 합격해 서울지법, 대법원 재판연구관, 법원행정처 심의관, 서울중앙지법 부장판사 등을 역임했다. 이어 2012년 역대 4번째 여성 대법관으로 임명돼 2018년까지 임기를 마쳤다. 여성 첫 법원행정처장을 지낸 바 있으며, 퇴직 후엔 법무법인 케이에이치엘(KHL) 대표변호사와 한국신문윤리위원회 위원장 등으로 활동했다. 지난해부터는 김앤장 법률사무소 소속 변호사로 재직 중이다. 공정거래 및 자본시장 분야의 전문가로 평가받는다. 김남영 기자 kim.namyoung3@joongang.co.kr
-</p>
-<div class="meta">
-<p class="date">2023.11.03 18:24</p>
-<button type="button" class="btn_bookmark" data-cid="25204598" data-ctype="A" aria-label="북마크">
 <i class="ico_bookmark"></i>
 </button>
 </div>
