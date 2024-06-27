@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.joongang.co.kr/factpl</id>
     <title>중앙일보 팩플 ─ 많이 본 기사</title>
-    <updated>2024-06-27T02:06:19.679Z</updated>
+    <updated>2024-06-27T03:16:39.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>chrome://global/skin/icons/warning.svg</icon>
+    <icon>https://img.joongang.co.kr/pubimg/favicon/favicon-32x32.png</icon>
     <entry>
         <title type="html"><![CDATA[[팩플] 양자컴퓨터 기술, 美 100점이면 韓은 2.3점…12개국 중 최하위]]></title>
         <id>https://www.joongang.co.kr/article/25259233</id>
