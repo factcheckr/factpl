@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/factpl/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-02T05:19:20.347Z</updated>
+    <updated>2024-08-02T06:25:46.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[티메프 쇼크가 다 까발렸다, ‘10% 할인쿠폰’ 몰랐던 진실 (중앙일보 팩플 ─ 많이 본 기사)]]></title>
@@ -100,23 +100,50 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 주가 3% 폭락시켰다…오픈AI 야심작 '서치GPT' 뭐길래 [팩플] (중앙일보 팩플 ─ 많이 본 기사)]]></title>
-        <id>https://www.joongang.co.kr/article/25266344</id>
-        <link href="https://www.joongang.co.kr/article/25266344"/>
-        <updated>2024-07-26T04:17:20.019Z</updated>
+        <title type="html"><![CDATA["고객∙판매자∙결제사 다 피해"…이커머스 민낯 드러났다 [팩플] (중앙일보 팩플 ─ 많이 본 기사)]]></title>
+        <id>https://www.joongang.co.kr/article/25266824</id>
+        <link href="https://www.joongang.co.kr/article/25266824"/>
+        <updated>2024-07-29T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25266344" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">
-<img width="72" height="72" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202407/26/f8ae0f39-14c3-418a-aff8-07201e6447c4.jpg/_ir_144x144_/aaa.jpg" alt="구글 주가 3% 폭락시켰다…오픈AI 야심작 '서치GPT' 뭐길래 [팩플]">
+<a href="https://www.joongang.co.kr/article/25266824" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">
+<img width="72" height="72" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202407/31/1c4d29f1-244a-42fb-9b4a-cb5b879d0f32.jpg/_ir_144x144_/aaa.jpg" alt="&quot;고객∙판매자∙결제사 다 피해&quot;…이커머스 민낯 드러났다 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <em class="rank_count ico_num5">5</em>
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25266344" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">구글 주가 3% 폭락시켰다…오픈AI 야심작 '서치GPT' 뭐길래 [팩플]</a>
+<a href="https://www.joongang.co.kr/article/25266824" data-evnt-ctg="area:중앙|팩플" data-evnt-act="move:중앙커스텀-A-팩플홈-많이 본 기사" data-evnt-lbl="5">"고객∙판매자∙결제사 다 피해"…이커머스 민낯 드러났다 [팩플]</a>
 </h2>
 <div class="meta">
-<p class="date">2024.07.26 13:04</p>
-<button type="button" class="btn_bookmark" data-cid="25266344" data-ctype="A" aria-label="북마크">
+<p class="date">2024.07.29 06:00</p>
+<button type="button" class="btn_bookmark" data-cid="25266824" data-ctype="A" aria-label="북마크">
+<i class="ico_bookmark"></i>
+</button>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩플] “우리 한 때 좋았는데…” MS-오픈AI, 헤어질 결심 왜? (중앙일보 팩플 ─ 뉴스)]]></title>
+        <id>https://www.joongang.co.kr/article/25268020</id>
+        <link href="https://www.joongang.co.kr/article/25268020"/>
+        <updated>2024-08-02T06:24:06.245Z</updated>
+        <content type="html"><![CDATA[<figure class="card_image">
+<a href="https://www.joongang.co.kr/article/25268020" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202408/02/cfb2f26d-a1db-4559-b58d-320e692fd892.jpg/_ir_410x230_/" alt="[팩플] “우리 한 때 좋았는데…” MS-오픈AI, 헤어질 결심 왜?">
+</a>
+</figure>
+<div class="card_body">
+<h2 class="headline">
+<a href="https://www.joongang.co.kr/article/25268020" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+[팩플] “우리 한 때 좋았는데…” MS-오픈AI, 헤어질 결심 왜?
+</a>
+</h2>
+<p class="description">
+오늘의 동지가, 내일의 적이 되는걸까. 굳건한 ‘AI 동맹’ 관계였던 마이크로소프트(MS)와 오픈AI 사이에 금이 가고 있다는 시그널이 잇따라 나오고 있다. &nbsp; 샘 올트먼 오픈AI 최고경영자(왼쪽)과 사티아 나델라 마이크로소프트(MS) 최고경영자. AP 포토=연합뉴스 &nbsp; &nbsp;━&nbsp; 무슨 일이야 &nbsp; 월스트리트저널(WSJ) 등 외신에 따르면 MS는 지난 1일 자사의 최신 연례 보고서 경쟁자 명단에 오픈AI를 추가했다. MS는 오픈AI를 AI 서비스와 검색 및 뉴스 광고 분야 경쟁자로 지목했다. 지난 수년간 구글, 애플, 아마존, 메타와 같은 빅테크를 경쟁자로 꼽아왔는데 이번에 오픈AI를 추가한 것이다. 오픈AI가 최근 자체 검색 엔진인 ‘서치GPT’를 발표한 뒤 이뤄진 조치다. &nbsp; &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; MS는 오픈AI의 강력한 지원군이자 AI 동반자다. MS는 지금까지 오픈AI에 130억 달러(17조 8113억원)를 투자했으며, 지분 49%를 보유하고 있다. 오픈AI가 2022년 11월 챗GPT를 출시한 뒤부턴 더 밀접한 관계가 됐다. 지난해 1월오픈AI에 대형 추가 투자를 진행했다. 또 MS는 자사 클라우드 ‘애저’를 통해 오픈AI의 AI 모델을 제공할 뿐만 아니라 자사 AI에도 오픈AI 기술을 적극 활용해 왔다. 특히, 지난해 샘 올트먼 오픈AI 최고경영자(CEO) 해고 사태 때는 사티아 나델라 MS CEO가 올트먼이 오픈AI에 복귀할 수 있도록 도왔다. &nbsp; &nbsp;━&nbsp; 헤어질(?) 결심, 이유는 &nbsp; MS는 지난해 자사 검색엔진 ‘빙’에 오픈AI의 AI 모델을 적용하면서 AI 검색 기능으로 구글을 추격하려고 했다. 이에 맞서 구글도 AI 검색을 내놓고, 스타트업 퍼플렉시티도 AI 검색을 내놓으며 AI 검색 시장 역시 치열해지는 분위기다. 이런 가운데 오픈AI가 지난달 말 자체 AI검색 서비스인 서치GPT 출시 계획을 공개했다. 구글 뿐만 아니라, MS에도 커다란 위협이 될 수 있는 서비스. MS로선 그간 오픈AI의 기술로 ‘검색공룡’ 구글을 따라잡으려 노력해 왔는데, 오히려 오픈AI에 ‘뒤통수’를 맞을 위기에 처했다. MS가&nbsp;검색 엔진에 기반한 광고 비즈니스 시장 경쟁자로 오픈AI를 지목한 배경이다. &nbsp; 오픈AI의 서치GPT. 오픈AI 캡처 &nbsp;━&nbsp; 앞으로는 &nbsp; MS가 오픈AI와의 끈끈한 관계를 점차 놓고 새로운 길을 찾아갈 가능성이 있다. 지난 3월 MS는 인플렉션 AI를 이끌고 있던 무스타파 술레이만과 인플렉션 AI의 일부 직원을 영입하고, ‘MS AI’ 부서를 이끌게 했다. 술레이만은 알파고를 만든 딥마인드의 공동 창업자다. 업계에선 AI 인재를 새로 영입한 MS가 독자적인 AI 개발에 힘쓸 것이라는 분석이 나왔다. &nbsp; &nbsp;━&nbsp; 더 알면 좋은 것 &nbsp; 생성 AI 시장의 후발주자, 애플과 아마존은 투자 비용 부담에도 추격을 지속하고 있다. 애플과 아마존은 올 2분기 실적에서 둘 다 AI 투자 비용이 증가했다고 밝혔다. 팀 쿡 애플 CEO는 CNBC와의 인터뷰에서 “이번 분기 실적에는 AI와 애플 인텔리전스를 위해 지출하는 비용이 전년 동기 대비 증가한 것이 확실하게 포함됐다”고 말했다. 애플은 지난 6월 세계개발자회의(WWDC24)에서 ‘애플 인텔리전스’를 발표했다. 새로 출시하는 아이폰·아이패드·맥 등에 AI를 적용할 예정이다. &nbsp; 아마존도 지난 2분기 자본지출이 176억달러를 기록했다. 전년 동기보다 약 53% 증가한 수치다. 이 지출에는 클라우드, 생성 AI 인프라 구축 비용이 포함된다. 생성 AI 시장의 또다른 전장인 클라우드 시장에서 MS, 구글과 경쟁하기 위해 더 많은 비용을 투자하고 있는 것. 아마존의 클라우드 자회사인 아마존웹서비스(AWS)는 AI 플랫폼 ‘베드록’으로 클라우드 시장 1위를 지키려고 하고 있다.&nbsp; &nbsp; &nbsp; ■ 더중앙플러스: AI시대를 만든 리더와의 인터뷰&nbsp;「 생성AI 시대를 만든 주역들의 목소리를 팩플 인터뷰가 담았습니다.&nbsp;더 알고 싶은 기사가 있다면 링크를 복사해 주소창에 붙여 넣어주세요. &nbsp; 알파고 만든 AI 리더의 경고 “제발 AI 좀 억제하게 해달라” https://www.joongang.co.kr/article/25233312 &nbsp; MS 비밀병기는 한인 2세…‘작은 AI 혁명’ 이끄는 이유 https://www.joongang.co.kr/article/25255863&nbsp; &nbsp; “인류 재앙, 막을 방법 모른다” AI 대부가 AI 미래 경고했다 https://www.joongang.co.kr/article/25200315 」&nbsp; &nbsp; 김남영 기자 kim.namyoung3@joongang.co.kr
+</p>
+<div class="meta">
+<p class="date">2024.08.02 15:11</p>
+<button type="button" class="btn_bookmark" data-cid="25268020" data-ctype="A" aria-label="북마크">
 <i class="ico_bookmark"></i>
 </button>
 </div>
@@ -128,13 +155,13 @@
         <link href="https://www.joongang.co.kr/article/25267778"/>
         <updated>2024-08-01T08:18:25.774Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25267778" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25267778" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202408/01/262c9f8e-da58-4415-8cd9-3a705b22b48c.jpg/_ir_410x230_/" alt="[팩플] &quot;AI로 맞춤형 광고 가능해져&quot;…2분기 호실적에 웃은 메타">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25267778" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="1">
+<a href="https://www.joongang.co.kr/article/25267778" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
 [팩플] "AI로 맞춤형 광고 가능해져"…2분기 호실적에 웃은 메타
 </a>
 </h2>
@@ -155,13 +182,13 @@
         <link href="https://www.joongang.co.kr/article/25267495"/>
         <updated>2024-07-31T07:12:24.358Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25267495" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25267495" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202407/31/d19f694f-381c-45d7-bae9-3de2fa297ae2.jpg/_ir_410x230_/" alt="[팩플]'AI 효과' MS 2분기도 호실적 나왔지만, 성장 둔화 신호도">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25267495" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="2">
+<a href="https://www.joongang.co.kr/article/25267495" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
 [팩플]'AI 효과' MS 2분기도 호실적 나왔지만, 성장 둔화 신호도
 </a>
 </h2>
@@ -182,13 +209,13 @@
         <link href="https://www.joongang.co.kr/article/25267490"/>
         <updated>2024-07-31T07:12:24.358Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25267490" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25267490" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202407/31/3d13df63-2611-4ee2-b38a-92944e3637b1.jpg/_ir_410x230_/" alt="[팩플] 스테이지엑스 ‘제4이통 후보 자격’ 취소…“가처분·손배 등 추진 논의”">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25267490" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="3">
+<a href="https://www.joongang.co.kr/article/25267490" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
 [팩플] 스테이지엑스 ‘제4이통 후보 자격’ 취소…“가처분·손배 등 추진 논의”
 </a>
 </h2>
@@ -209,13 +236,13 @@
         <link href="https://www.joongang.co.kr/article/25267425"/>
         <updated>2024-07-31T11:13:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25267425" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25267425" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202407/31/4282abc2-dabb-4796-a134-6033e2e28269.jpg/_ir_410x230_/" alt="LG유플러스 황현식 만난 앤드루 응 &quot;AI 성공하려면 외부 지식 활용해야&quot;">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25267425" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="4">
+<a href="https://www.joongang.co.kr/article/25267425" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
 LG유플러스 황현식 만난 앤드루 응 "AI 성공하려면 외부 지식 활용해야"
 </a>
 </h2>
@@ -236,13 +263,13 @@ LG유플러스는 황현식 사장이 지난 29일 서울 용산 사옥에서 �
         <link href="https://www.joongang.co.kr/article/25267224"/>
         <updated>2024-07-30T09:14:58.001Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25267224" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25267224" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202407/30/3fa671ce-8f16-42cf-9e24-9647b8944247.jpg/_ir_410x230_/" alt="[팩플] 엔비디아 AI 칩 시장 독점 균열 생기나…구글 칩 택한 애플">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25267224" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="5">
+<a href="https://www.joongang.co.kr/article/25267224" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
 [팩플] 엔비디아 AI 칩 시장 독점 균열 생기나…구글 칩 택한 애플
 </a>
 </h2>
@@ -263,13 +290,13 @@ LG유플러스는 황현식 사장이 지난 29일 서울 용산 사옥에서 �
         <link href="https://www.joongang.co.kr/article/25266824"/>
         <updated>2024-07-29T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25266824" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25266824" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202407/31/1c4d29f1-244a-42fb-9b4a-cb5b879d0f32.jpg/_ir_410x230_/" alt="&quot;고객∙판매자∙결제사 다 피해&quot;…이커머스 민낯 드러났다 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25266824" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="6">
+<a href="https://www.joongang.co.kr/article/25266824" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
 "고객∙판매자∙결제사 다 피해"…이커머스 민낯 드러났다 [팩플]
 </a>
 </h2>
@@ -290,13 +317,13 @@ LG유플러스는 황현식 사장이 지난 29일 서울 용산 사옥에서 �
         <link href="https://www.joongang.co.kr/article/25266344"/>
         <updated>2024-07-26T04:17:20.019Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25266344" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25266344" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202407/26/f8ae0f39-14c3-418a-aff8-07201e6447c4.jpg/_ir_410x230_/" alt="구글 주가 3% 폭락시켰다…오픈AI 야심작 '서치GPT' 뭐길래 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25266344" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="7">
+<a href="https://www.joongang.co.kr/article/25266344" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
 구글 주가 3% 폭락시켰다…오픈AI 야심작 '서치GPT' 뭐길래 [팩플]
 </a>
 </h2>
@@ -317,13 +344,13 @@ LG유플러스는 황현식 사장이 지난 29일 서울 용산 사옥에서 �
         <link href="https://www.joongang.co.kr/article/25266133"/>
         <updated>2024-07-25T09:16:20.346Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25266133" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25266133" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202407/25/37d4be49-aa2d-4415-bd72-632ad6e087e4.jpg/_ir_410x230_/" alt="[팩플] 카카오 비상경영체제 구축...시험대 오른 정신아 리더십">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25266133" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="8">
+<a href="https://www.joongang.co.kr/article/25266133" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
 [팩플] 카카오 비상경영체제 구축...시험대 오른 정신아 리더십
 </a>
 </h2>
@@ -344,13 +371,13 @@ LG유플러스는 황현식 사장이 지난 29일 서울 용산 사옥에서 �
         <link href="https://www.joongang.co.kr/article/25266116"/>
         <updated>2024-07-25T08:17:59.898Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25266116" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25266116" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202407/25/1619498a-316e-47e0-bf06-5fc6f5ca3420.jpg/_ir_410x230_/" alt="[팩플] &quot;정산금 수억 원대&quot;&quot;판매처 정리하겠다&quot;…벼랑 끝 몰린 중소 셀러들">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25266116" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="9">
+<a href="https://www.joongang.co.kr/article/25266116" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
 [팩플] "정산금 수억 원대""판매처 정리하겠다"…벼랑 끝 몰린 중소 셀러들
 </a>
 </h2>
@@ -371,13 +398,13 @@ LG유플러스는 황현식 사장이 지난 29일 서울 용산 사옥에서 �
         <link href="https://www.joongang.co.kr/article/25265716"/>
         <updated>2024-07-24T11:42:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25265716" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25265716" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202407/24/23795f82-572c-41ee-a69d-1f1a47353b63.jpg/_ir_410x230_/" alt="[팩플] 검색‧클라우드로 웃은 구글…&quot;자율주행에 7조원 추가 투자&quot;">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25265716" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="10">
+<a href="https://www.joongang.co.kr/article/25265716" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
 [팩플] 검색‧클라우드로 웃은 구글…"자율주행에 7조원 추가 투자"
 </a>
 </h2>
@@ -398,13 +425,13 @@ LG유플러스는 황현식 사장이 지난 29일 서울 용산 사옥에서 �
         <link href="https://www.joongang.co.kr/article/25265532"/>
         <updated>2024-07-23T09:15:30.651Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25265532" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25265532" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202407/23/1c961a49-b233-4fdd-bb9b-b4dd280f9a27.jpg/_ir_410x230_/" alt="[팩플] 리더십 공백사태 맞은 카카오… 시총 1조7000억원 증발">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25265532" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="11">
+<a href="https://www.joongang.co.kr/article/25265532" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
 [팩플] 리더십 공백사태 맞은 카카오… 시총 1조7000억원 증발
 </a>
 </h2>
@@ -425,13 +452,13 @@ SM엔터테인먼트 시세 조종 의혹과 관련해 검찰 수사를 받아�
         <link href="https://www.joongang.co.kr/article/25265523"/>
         <updated>2024-07-23T09:15:30.653Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25265523" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25265523" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202407/23/272e9838-f179-4679-bf04-d2a9ed473154.jpg/_ir_410x230_/" alt="[팩플] 외식업주들까지 나섰다…'수수료 인상' 배민이 쏘아올린 공">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25265523" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="12">
+<a href="https://www.joongang.co.kr/article/25265523" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
 [팩플] 외식업주들까지 나섰다…'수수료 인상' 배민이 쏘아올린 공
 </a>
 </h2>
@@ -452,13 +479,13 @@ SM엔터테인먼트 시세 조종 의혹과 관련해 검찰 수사를 받아�
         <link href="https://www.joongang.co.kr/article/25265484"/>
         <updated>2024-07-23T07:14:23.693Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25265484" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25265484" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202407/23/634217fc-c3b6-4ff0-a0c6-c1d12997755c.jpg/_ir_410x230_/" alt="[팩플] 사우디 아람코 ‘러브콜’ 받은 리벨리온…200억 투자 유치">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25265484" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="13">
+<a href="https://www.joongang.co.kr/article/25265484" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
 [팩플] 사우디 아람코 ‘러브콜’ 받은 리벨리온…200억 투자 유치
 </a>
 </h2>
@@ -479,13 +506,13 @@ SM엔터테인먼트 시세 조종 의혹과 관련해 검찰 수사를 받아�
         <link href="https://www.joongang.co.kr/article/25265433"/>
         <updated>2024-07-23T00:39:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25265433" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25265433" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202407/23/d2943d3e-a21e-4613-8673-ca79c25de890.jpg/_ir_410x230_/" alt="[팩플] 크롬에서 쿠키 차단 안 한다...온라인 광고 ‘구글 쇼크’ 피했지만">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25265433" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="14">
+<a href="https://www.joongang.co.kr/article/25265433" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
 [팩플] 크롬에서 쿠키 차단 안 한다...온라인 광고 ‘구글 쇼크’ 피했지만
 </a>
 </h2>
@@ -506,13 +533,13 @@ SM엔터테인먼트 시세 조종 의혹과 관련해 검찰 수사를 받아�
         <link href="https://www.joongang.co.kr/article/25264952"/>
         <updated>2024-07-21T12:24:40.799Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25264952" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25264952" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202407/22/2c7ca7f3-8dba-49b1-a4ec-f571c8795615.jpg/_ir_410x230_/" alt="'클라우드 축복' 80분만에 지옥 됐다…전세계 덮친 IT 대란 전말 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25264952" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="15">
+<a href="https://www.joongang.co.kr/article/25264952" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
 '클라우드 축복' 80분만에 지옥 됐다…전세계 덮친 IT 대란 전말 [팩플]
 </a>
 </h2>
@@ -533,13 +560,13 @@ SM엔터테인먼트 시세 조종 의혹과 관련해 검찰 수사를 받아�
         <link href="https://www.joongang.co.kr/article/25264867"/>
         <updated>2024-07-21T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25264867" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25264867" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202407/22/0d191e86-b64d-401c-8e75-ead5095d9d1c.jpg/_ir_410x230_/" alt="&quot;'겜돌이'도 정신병자로 불린다&quot;…게임중독 질병코드 뭐길래 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25264867" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="16">
+<a href="https://www.joongang.co.kr/article/25264867" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
 "'겜돌이'도 정신병자로 불린다"…게임중독 질병코드 뭐길래 [팩플]
 </a>
 </h2>
@@ -560,13 +587,13 @@ SM엔터테인먼트 시세 조종 의혹과 관련해 검찰 수사를 받아�
         <link href="https://www.joongang.co.kr/article/25264718"/>
         <updated>2024-07-19T10:15:04.745Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25264718" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25264718" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202407/19/caed07cd-a9d0-44f2-b825-97f1ab32763c.jpg/_ir_410x230_/" alt="블루스크린 뜨자 국내도 아우성…&quot;이 파일 삭제하라&quot; 긴급공지 [팩플]">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25264718" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="17">
+<a href="https://www.joongang.co.kr/article/25264718" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
 블루스크린 뜨자 국내도 아우성…"이 파일 삭제하라" 긴급공지 [팩플]
 </a>
 </h2>
@@ -587,13 +614,13 @@ SM엔터테인먼트 시세 조종 의혹과 관련해 검찰 수사를 받아�
         <link href="https://www.joongang.co.kr/article/25264677"/>
         <updated>2024-07-19T06:19:59.123Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25264677" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25264677" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202407/19/fa9080ab-b8d1-4947-a980-2aa6c1407c82.jpg/_ir_410x230_/" alt="[팩플] ‘싸고 가볍게’ 오픈AI도 AI 소형화 대열 합류">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25264677" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="18">
+<a href="https://www.joongang.co.kr/article/25264677" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
 [팩플] ‘싸고 가볍게’ 오픈AI도 AI 소형화 대열 합류
 </a>
 </h2>
@@ -614,13 +641,13 @@ SM엔터테인먼트 시세 조종 의혹과 관련해 검찰 수사를 받아�
         <link href="https://www.joongang.co.kr/article/25264407"/>
         <updated>2024-07-18T07:13:38.204Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25264407" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25264407" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202407/18/74825ad7-24f0-4f05-a036-2f4bcaefe1ec.jpg/_ir_410x230_/" alt="[팩플] 카카오 김범수 ”어떤 불법행위도 지시한 적 없다”">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25264407" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="19">
+<a href="https://www.joongang.co.kr/article/25264407" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
 [팩플] 카카오 김범수 ”어떤 불법행위도 지시한 적 없다”
 </a>
 </h2>
@@ -641,13 +668,13 @@ SM엔터테인먼트 시세 조종 의혹과 관련해 검찰 수사를 받아�
         <link href="https://www.joongang.co.kr/article/25264309"/>
         <updated>2024-07-18T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25264309" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25264309" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202407/18/3e5b3780-8fbe-4dec-82ff-00d28ab85f6b.jpg/_ir_410x230_/" alt="美ㆍEU 규제 동력 ‘소비자 보호’…한국 법은 여전히 ‘반쪽짜리’">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25264309" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="20">
+<a href="https://www.joongang.co.kr/article/25264309" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
 美ㆍEU 규제 동력 ‘소비자 보호’…한국 법은 여전히 ‘반쪽짜리’
 </a>
 </h2>
@@ -668,13 +695,13 @@ SM엔터테인먼트 시세 조종 의혹과 관련해 검찰 수사를 받아�
         <link href="https://www.joongang.co.kr/article/25264183"/>
         <updated>2024-07-17T09:17:08.929Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25264183" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25264183" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202407/17/6c8ecf56-5f18-406d-9768-180d5d466240.jpg/_ir_410x230_/" alt="[팩플] 미국 95%, 한국은 58%...“M&amp;A 활성화로 스타트업 키워야”">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25264183" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="21">
+<a href="https://www.joongang.co.kr/article/25264183" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
 [팩플] 미국 95%, 한국은 58%...“M&amp;A 활성화로 스타트업 키워야”
 </a>
 </h2>
@@ -695,13 +722,13 @@ SM엔터테인먼트 시세 조종 의혹과 관련해 검찰 수사를 받아�
         <link href="https://www.joongang.co.kr/article/25264177"/>
         <updated>2024-07-17T09:17:08.939Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25264177" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25264177" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202407/17/77c33aa7-609d-4cfc-b2a3-a67cc27466bc.jpg/_ir_410x230_/" alt="[팩플] 김범수 구속영장 청구...사법리스크 직면한 카카오의 미래는">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25264177" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="22">
+<a href="https://www.joongang.co.kr/article/25264177" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
 [팩플] 김범수 구속영장 청구...사법리스크 직면한 카카오의 미래는
 </a>
 </h2>
@@ -722,13 +749,13 @@ SM엔터테인먼트 시세 조종 의혹과 관련해 검찰 수사를 받아�
         <link href="https://www.joongang.co.kr/article/25263923"/>
         <updated>2024-07-16T09:16:26.031Z</updated>
         <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25263923" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25263923" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 <img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202407/16/c89d0b5f-379b-40ba-90b2-06b59a5de1f0.jpg/_ir_410x230_/" alt="팸 멜로이 NASA 부국장 “한국, 로보틱스·첨단제조 분야 강점”">
 </a>
 </figure>
 <div class="card_body">
 <h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25263923" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="23">
+<a href="https://www.joongang.co.kr/article/25263923" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
 팸 멜로이 NASA 부국장 “한국, 로보틱스·첨단제조 분야 강점”
 </a>
 </h2>
@@ -738,33 +765,6 @@ SM엔터테인먼트 시세 조종 의혹과 관련해 검찰 수사를 받아�
 <div class="meta">
 <p class="date">2024.07.16 17:46</p>
 <button type="button" class="btn_bookmark" data-cid="25263923" data-ctype="A" aria-label="북마크">
-<i class="ico_bookmark"></i>
-</button>
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 우버 최고위급 방한…규제에 묶인 K모빌리티 재공략 | 팩플 (중앙일보 팩플 ─ 뉴스)]]></title>
-        <id>https://www.joongang.co.kr/article/25263905</id>
-        <link href="https://www.joongang.co.kr/article/25263905"/>
-        <updated>2024-07-16T08:18:50.875Z</updated>
-        <content type="html"><![CDATA[<figure class="card_image">
-<a href="https://www.joongang.co.kr/article/25263905" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-<img width="205" height="115" loading="lazy" src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202407/16/e23aa7a2-5ac5-48fc-b0c2-fc3b209e4a7d.jpg/_ir_410x230_/" alt="[단독] 우버 최고위급 방한…규제에 묶인 K모빌리티 재공략 | 팩플">
-</a>
-</figure>
-<div class="card_body">
-<h2 class="headline">
-<a href="https://www.joongang.co.kr/article/25263905" data-evnt-ctg="area:중앙|뉴스" data-evnt-act="move:중앙섹션-A-최신기사-스토리 리스트(검색엔진)" data-evnt-lbl="24">
-[단독] 우버 최고위급 방한…규제에 묶인 K모빌리티 재공략 | 팩플
-</a>
-</h2>
-<p class="description">
-글로벌 모빌리티 플랫폼 우버가 한국 시장 재공략에 나섰다. 2015년 카풀 형태 승차공유 서비스 우버 엑스(X) 퇴출 이후 명맥만 이어갔던 국내 서비스를 재정비하고 공격적으로 시장 점유율 확대를 노리고 있다. &nbsp; 송진우 우버택시 대표가 16일 서울 종로구에서 기자간담회를 열고 서비스 이름을 '우티'에서 '우버'로 바꾸는 등 리브랜딩을 진행한 이후의 성과와 '우버 블랙' 서비스 재개를 비롯한 향후 사업 계획에 대해 밝히고 있다. 뉴스1 &nbsp;━&nbsp; 무슨 일이야 &nbsp; 16일 모빌리티업계에 따르면 우버의 토니 웨스트 최고법률책임자(CLO)가 지난 5월 말 한국을 비공개 방문했다. 버락 오바마 정부에서 법무부 차관을 지낸 토니 CLO는 우버의 사업 관련 주요 결정이 필요할 때 나서는 핵심 인사다. 2020년 비공개 방한 이후엔 우버와 SK텔레콤 티맵모빌리티 간 합작 법인 설립 계획이 발표됐고, 2021년 4월 ‘우티’가 설립됐다. 웨스트 CLO는 이번에도 국내 우버 관계자들을 만났고, 국회를 찾아 모빌리티 관련 인사들과 면담한 것으로 알려졌다. 우버의 한국법인 우버택시 관계자는 “한국이 우버에 매우 중요한 시장이기 때문에 점검차 방문한 걸로 안다”며 “공격적 마케팅으로 국내에서 존재감을 키워가기 위해 노력하고 있다”고 말했다. &nbsp; &nbsp;━&nbsp; 이게 왜 중요해 &nbsp; 지난달 한국을 방문한 토니 웨스트(가운데) 우버 최고법률책임자(CLO)가 국회 로텐더홀에서 송진우 우버택시 대표(왼쪽에서 네번째) 등 관계자들과 기념사진을 촬영했다. 우버 CLO는 사진을 자신의 SNS 계정에 업로드했다. 사진 토니 웨스트 CLO 링크드인 우버는 최근 동북아시아(한국·일본·대만) 시장을 집중 공략하고 있다. 이미 클만큼 큰 북미 시장 대신, 아시아와 유럽 등 성장 여력이 충분한 지역으로 눈을 돌리는 것. 실제 지난해 북미에서 매출 성장률은 한자릿수에 머물렀지만, 아시아에선 30% 가량 늘었다. 이에 따라 우버는 라이드헤일링(차량 호출) 할인과 음식배달 할인 혜택을 묶은 ‘우버 원’ 구독 상품의 학생 버전을 출시하며 일본을 1차 도입국에 포함시켰다. 우버이츠에서 코스트코 물건을 주문할 수 있는 서비스도 일본에 출시했다. 또 지난 5월에는 대만 1위 배달앱 ‘푸드판다’를 약 1억 3000억원에 인수했다. &nbsp; 한국에선 외국인이나 기업 고객 등을 노린 프리미엄 서비스 블랙을 16일 재출시하며 사업을 확장 중이다. 기존에도 서비스는 있었지만, 요금제를 새롭게 정리하고 기사를 확보해 이 시장을 제대로 공략하겠다는 것.&nbsp;지난 2월 서비스 이름을 우티에서 ‘우버’로 바꾸는 등 리브랜딩도 진행했다. 사업 철수를 검토 중인 티맵의 지분을 인수해 단독 사업에 나설 수 있단 전망도 나온다. 이날 기자간담회를 연 송진우 우버택시 대표는&nbsp;“한국 시장에서 성장을 확신한다. 과거 2년과는 확실히 달라진 모습을 볼 수 있을 것”이라고 말했다. &nbsp; &nbsp;━&nbsp; 이걸 알아야해 &nbsp; 지난해 2월 14일, 유성욱 공정거래위원회 시장감시국장이 세종시 정부세종청사에서 카카오모빌리티에 대한 제재 내용을 발표하고 있다. 당시 공정위는 카카오모빌리티가 자회사 가맹택시에 콜을 몰아주기 위해 배차 알고리즘을 조작했다며 시정명령과 함께 과징금을 부과했다. 뉴스1 &nbsp; 우버의 움직임이 더 위협적인건, 국내 업체들이 규제 등으로 성장 정체상태여서다. 카카오모빌리티(카모)의 경우 택시 호출 시장에서 90% 이상의 점유율을 유지하고 있지만, 각종 규제와 정치권·택시업계 등의 강한 압박 때문에 새로운 시도를 하기 어렵다. 지난해 윤석열 대통령이 직접 “택시에 대한 횡포가 매우 부도덕하다”며 카카오를 비판했고, 공정거래위원회는 ‘콜 몰아주기’와 관련해 271억원의 과징금을 부과했다. 현재 금융위원회 증권선물위원회(증선위)에서도 카모의 ‘매출 부풀리기’ 관련 제재를 검토 중. 이르면 오는 17일 열릴 증선위 회의에서 징계 여부가 결정될 수 있다. 이같은 상황으로 인해 카모는 수수료 및 관리 권한을 축소한 새 가맹택시 모델을 내놓는 등 시장 장악력을 스스로 낮추는 방향으로 나아가고 있다. &nbsp; 다른 국내 업체 역시 규제로 인해 성장하기 어려운 상태다. 타다가 대표적이다. 2020년 3월, 과잉 규제 논란 속에서도 국회는 ‘타다 금지법(여객자동차운수사업법 개정안)’을 통과 시켰고, 타다는 핵심 서비스였던 타다 베이직(기사 포함 승합차 렌트)을 포기해야 했다. 이후 2021년 토스에서 인수했고, 지난 1월 토스가 100억원을 추가 투입하며 타다 살리기에 나섰지만 여전히 적자를 면치 못하고 있다. 최근들어서야 구조조정과 신규 서비스, 마케팅 투자 등을 통해 재도약을 모색 중인 상태다. &nbsp; &nbsp;━&nbsp; 앞으로는 &nbsp; 지난해 카모의 매출은 약 6000억원, 우버는 약 51조 7000억원이었다. 덩치가 큰 우버의 재공습이 본격화하면서 국내 시장 지배자인 카모의 아성에도 균열이 생길지 관심을 모은다. 이용자 입장에선 경쟁이 치열해지면 혜택을 보겠지만 업계에선 다른 분야처럼 모빌리티 역시 해외 빅테크로 인해 국내 업체가 경쟁력을 상실할 수 있다는 우려도 나온다. 실제 우버는 지난 4월 부산에 진출한 뒤 공격적으로 마케팅을 했고, 5월 들어 부산 공공택시 플랫폼 동백택시의 호출 건수는 15만 4378건으로 2년전 동기(45만 2534건) 대비 60% 정도 줄었다. 업계 관계자는 “국내 인터넷 생태계를 유튜브가 집어 삼킨 것처럼, 모빌리티 등 다른 시장에서도 같은 일이 벌어지지 말라는 법은 없다”고 말했다. 관련기사 "물 떠놓고 기도만"…김범수 첫 소환, 카카오 미래시계도 올스톱 [팩플] [팩플] ‘컨트롤 타워 책임 강화’…카카오, 쪼개기·먹튀 비판 딛고 쇄신 가능할까 '제2 타다금지법' 또 만드나…플랫폼 경쟁촉진법이 무서운 이유 [구태언이 소리내다] [팩플] 카카오모빌리티, 검찰수사 받는다…중기부 '콜 몰아주기' 검찰고발 요청 [팩플] 김범수 “원점 재검토”…가맹택시 수수료율 3% 이하 추진윤정민 기자 yunjm@joongang.co.kr
-</p>
-<div class="meta">
-<p class="date">2024.07.16 16:44</p>
-<button type="button" class="btn_bookmark" data-cid="25263905" data-ctype="A" aria-label="북마크">
 <i class="ico_bookmark"></i>
 </button>
 </div>
